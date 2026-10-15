@@ -1,0 +1,48 @@
+[
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Purifying",
+      "Neem Pack"
+    ],
+    "headline": "PURE",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Absorbs oil and impurities",
+      "to help purify and",
+      "clear skin."
+    ],
+    "prices": [],
+    "size": "50 g",
+    "priceStatus": "Not listed in supplied detailer; awaiting user price",
+    "color": [
+      0.01,
+      0.2,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.347,
+        0.211
+      ],
+      [
+        0.658,
+        0.208
+      ],
+      [
+        0.659,
+        0.237
+      ],
+      [
+        0.652,
+        0.28
+      ],
+      [
+        0.354,
+        0.28
+      ]
+    ]
+  }
+]
