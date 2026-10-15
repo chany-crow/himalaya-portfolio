@@ -1,0 +1,31 @@
+[
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Purifying",
+      "Neem Face Serum"
+    ],
+    "headline": "PURE",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Helps reduce pimples",
+      "and acne for",
+      "clearer-looking skin."
+    ],
+    "prices": [
+      {
+        "price": "965",
+        "size": "15 ml"
+      }
+    ],
+    "priceSourcePage": 16,
+    "color": [
+      0.01,
+      0.2,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": []
+  }
+]
