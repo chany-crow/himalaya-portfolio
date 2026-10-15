@@ -1,0 +1,30 @@
+[
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Lip Balm"
+    ],
+    "headline": "SOFT",
+    "header": "PREMIUM BOTANICAL LIP CARE",
+    "benefit": [
+      "Nourishes dry and",
+      "chapped lips, leaving",
+      "them soft and smooth."
+    ],
+    "prices": [
+      {
+        "price": "510",
+        "size": "10 g"
+      }
+    ],
+    "priceSourcePage": 25,
+    "color": [
+      0.29,
+      0.14,
+      0.035
+    ],
+    "whiteRight": false,
+    "mask": []
+  }
+]
