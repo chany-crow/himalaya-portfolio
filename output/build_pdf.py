@@ -4,7 +4,7 @@ import subprocess
 import tempfile
 
 root = Path(__file__).resolve().parent
-for script in ["text-layout/build.swift", "turmeric/build.swift", "face-creams/build.swift", "combine.swift"]:
+for script in ["text-layout/build.swift", "turmeric/build.swift", "face-creams/build.swift", "face-washes/build.swift", "combine.swift"]:
     subprocess.run([
         "swift", "-module-cache-path",
         str(Path(tempfile.gettempdir()) / "himalaya-swift-cache"),

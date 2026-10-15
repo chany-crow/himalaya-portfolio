@@ -1,14 +1,17 @@
 # Himalaya product portfolio
 
-A ten-page A4 portrait portfolio covering the Himalaya Brightening Vitamin C, Dark Spot Clearing Turmeric, and Natural Glow Face Cream ranges.
+A nineteen-page A4 portrait portfolio covering the Himalaya Brightening Vitamin C, Dark Spot Clearing Turmeric, Natural Glow Face Cream, and Face Wash ranges.
 
 ## Files
+
+- `output/Himalaya-Face-Wash-Portfolio-A4.pdf`: nine additional face washes, appended as pages 11–19.
+- `output/face-washes/`: product data, generation prompts, scenes, previews, and build script.
 
 - `output/Himalaya-Face-Cream-Portfolio-A4.pdf`: Rose and Kesar Face Cream pages, with both 25 g and 50 g prices.
 - `output/face-creams/`: source details, scenes, prompts, page previews, and typesetting.
 - `output/combine.swift`: combines all three ranges into the main portfolio.
 
-- `output/Himalaya-Product-Portfolio-A4.pdf`: combined ten-page portfolio.
+- `output/Himalaya-Product-Portfolio-A4.pdf`: combined nineteen-page portfolio.
 - `output/Himalaya-Turmeric-Portfolio-A4.pdf`: five turmeric pages with prices and sizes from the supplied detailer.
 - `output/turmeric/`: product data, generated scenes, prompts, previews, and reproducible Swift typesetting.
 
