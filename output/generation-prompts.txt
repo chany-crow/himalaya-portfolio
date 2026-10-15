@@ -1,0 +1,10 @@
+Generated with the built-in image generation tool.
+
+CREAM
+Use case: compositing / ads-marketing. Create a finished A4 portrait Himalaya product portfolio page, aspect ratio 210:297, high resolution. Input image 1 is the exact cream jar product, input image 2 is its exact carton: preserve branding, typography, packaging shape and colours faithfully. Replace white backgrounds with luxurious photorealistic golden orange citrus skincare scene matching the user's BRIGHT reference: warm sun rays from upper left, creamy luminous orange bokeh, juicy fresh orange wedges and glossy green citrus leaves behind products, small white orange blossoms at lower left, crystal clear water droplets and glassy serum beads on wet reflective surface, rich realistic product reflections below. Composition: huge elegant high-contrast ivory Didone serif word BRIGHT across top at 11-25% height; tiny tracked rust red text PREMIUM VITAMIN C SKINCARE at 6%. Left text at 29% height in dark rust: Himalaya / Brightening / Vitamin C / Orange Face Serum Cream. Right smaller heading PRODUCT BENEFIT and beneath: Vitamin C helps brighten dull skin, boost radiance, and support a fresh, hydrated glow. Right beneath at 41%: LKR 1,200 then 50ml. Jar large at lower left centre and carton behind at lower right, products occupy 49-81% page height, leave reflective foreground bottom 18%. Match original reference's editorial layout and radiant luminous luxury photographic finish. Exact legible text, no additional claims, no QR, no borders. Packaging is the supplied real product; do not redesign it.
+
+SERUM
+undefined
+
+WASH
+undefined
