@@ -1,0 +1,32 @@
+[
+  {
+    "scene": "01-face-wash.png", "type": "Face Wash", "headline": "CLEAR",
+    "price": "545", "size": "50ml", "priceSourcePage": 10,
+    "benefit": ["Helps visibly reduce", "dark spots and boost", "skin radiance."],
+    "sourcePhoto": "Turmeric Face Wash/05.01.jpg"
+  },
+  {
+    "scene": "02-face-scrub.png", "type": "Face Scrub", "headline": "SMOOTH",
+    "price": "790", "size": "50ml", "priceSourcePage": 14,
+    "benefit": ["Exfoliates and improves", "skin texture while helping", "reduce the appearance", "of dark spots."],
+    "sourcePhoto": "Turmeric Face Scrub/01.01.jpg"
+  },
+  {
+    "scene": "03-face-pack.png", "type": "Face Pack", "headline": "REFINE",
+    "price": "790", "size": "50ml", "priceSourcePage": 15,
+    "benefit": ["Helps visibly reduce", "dark spots and the", "appearance of pores."],
+    "sourcePhoto": "Turmeric Face Pack/02.jpg"
+  },
+  {
+    "scene": "04-face-serum.png", "type": "Face Serum", "headline": "EVEN",
+    "price": "965", "size": "15ml", "priceSourcePage": 17,
+    "benefit": ["Helps visibly reduce", "the appearance of", "dark spots."],
+    "sourcePhoto": "Turmeric Face Serum/04.02.jpg"
+  },
+  {
+    "scene": "05-face-cream-refined.png", "type": "Face Cream", "headline": "GLOW",
+    "price": "1,200", "size": "50ml", "priceSourcePage": 23,
+    "benefit": ["Helps visibly reduce", "dark spots and boost", "skin radiance."],
+    "sourcePhoto": "Turmeric Face Cream/03.01.jpg"
+  }
+]
