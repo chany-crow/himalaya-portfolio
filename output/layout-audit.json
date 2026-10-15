@@ -9,15 +9,15 @@
       "left_pt" : 183.02779527559056,
       "page" : 1,
       "text" : "PREMIUM VITAMIN C SKINCARE",
-      "top_pt" : 34.015748031496067,
+      "top_pt" : 54,
       "width_pt" : 229.22
     },
     {
-      "height_pt" : 98.101111486938265,
+      "height_pt" : 117.72133378432591,
       "left_pt" : 34.015748031496067,
       "page" : 1,
       "text" : "BRIGHT",
-      "top_pt" : 65,
+      "top_pt" : 94,
       "width_pt" : 527.24409448818903
     },
     {
@@ -25,7 +25,7 @@
       "left_pt" : 34.015748031496067,
       "page" : 1,
       "text" : "Himalaya",
-      "top_pt" : 197,
+      "top_pt" : 232,
       "width_pt" : 92.850999999999999
     },
     {
@@ -33,7 +33,7 @@
       "left_pt" : 34.015748031496067,
       "page" : 1,
       "text" : "Brightening",
-      "top_pt" : 225,
+      "top_pt" : 260,
       "width_pt" : 114.72399999999999
     },
     {
@@ -41,23 +41,23 @@
       "left_pt" : 34.015748031496067,
       "page" : 1,
       "text" : "Vitamin C",
-      "top_pt" : 253,
+      "top_pt" : 288,
       "width_pt" : 98.348000000000013
     },
     {
-      "height_pt" : 15.980000000000002,
+      "height_pt" : 19.740000000000002,
       "left_pt" : 34.015748031496067,
       "page" : 1,
       "text" : "Orange Face Serum Cream",
-      "top_pt" : 283,
-      "width_pt" : 206.09100000000001
+      "top_pt" : 316,
+      "width_pt" : 254.58299999999994
     },
     {
       "height_pt" : 7.4800000000000004,
       "left_pt" : 450.70984251968514,
       "page" : 1,
       "text" : "PRODUCT BENEFIT",
-      "top_pt" : 198,
+      "top_pt" : 228,
       "width_pt" : 110.54999999999997
     },
     {
@@ -65,7 +65,7 @@
       "left_pt" : 379.9878425196851,
       "page" : 1,
       "text" : "Vitamin C helps brighten dull skin,",
-      "top_pt" : 222,
+      "top_pt" : 252,
       "width_pt" : 181.27199999999999
     },
     {
@@ -73,7 +73,7 @@
       "left_pt" : 400.42384251968508,
       "page" : 1,
       "text" : "boost radiance, and support a",
-      "top_pt" : 240,
+      "top_pt" : 270,
       "width_pt" : 160.83600000000004
     },
     {
@@ -81,7 +81,7 @@
       "left_pt" : 449.29984251968511,
       "page" : 1,
       "text" : "fresh, hydrated glow.",
-      "top_pt" : 258,
+      "top_pt" : 288,
       "width_pt" : 111.95999999999999
     },
     {
@@ -89,7 +89,7 @@
       "left_pt" : 456.19584251968513,
       "page" : 1,
       "text" : "LKR 1,200",
-      "top_pt" : 318,
+      "top_pt" : 306,
       "width_pt" : 105.06399999999999
     },
     {
@@ -97,79 +97,71 @@
       "left_pt" : 530.55384251968508,
       "page" : 1,
       "text" : "50 ml",
-      "top_pt" : 348,
+      "top_pt" : 336,
       "width_pt" : 30.706
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 34.015748031496067,
-      "page" : 1,
-      "text" : "HIMALAYA  \/  VITAMIN C",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 111.10400000000001
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 530.73984251968511,
-      "page" : 1,
-      "text" : "01 \/ 03",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 30.52
     },
     {
       "height_pt" : 7.4700000000000006,
       "left_pt" : 183.02779527559056,
       "page" : 2,
       "text" : "PREMIUM VITAMIN C SKINCARE",
-      "top_pt" : 34.015748031496067,
+      "top_pt" : 54,
       "width_pt" : 229.22
     },
     {
-      "height_pt" : 98.101111486938265,
+      "height_pt" : 117.72133378432591,
       "left_pt" : 34.015748031496067,
       "page" : 2,
       "text" : "BRIGHT",
-      "top_pt" : 65,
+      "top_pt" : 94,
       "width_pt" : 527.24409448818903
     },
     {
-      "height_pt" : 21.183,
+      "height_pt" : 19.341000000000001,
       "left_pt" : 34.015748031496067,
       "page" : 2,
       "text" : "Himalaya",
-      "top_pt" : 197,
-      "width_pt" : 92.850999999999999
+      "top_pt" : 266,
+      "width_pt" : 84.777000000000001
     },
     {
-      "height_pt" : 21.228999999999999,
+      "height_pt" : 19.383000000000003,
       "left_pt" : 34.015748031496067,
       "page" : 2,
       "text" : "Brightening",
-      "top_pt" : 225,
-      "width_pt" : 114.72399999999999
+      "top_pt" : 294,
+      "width_pt" : 104.74800000000002
     },
     {
-      "height_pt" : 17.180999999999997,
+      "height_pt" : 15.687000000000001,
       "left_pt" : 34.015748031496067,
       "page" : 2,
       "text" : "Vitamin C",
-      "top_pt" : 253,
-      "width_pt" : 98.348000000000013
+      "top_pt" : 322,
+      "width_pt" : 89.795999999999992
     },
     {
-      "height_pt" : 15.980000000000002,
+      "height_pt" : 19.740000000000002,
       "left_pt" : 34.015748031496067,
       "page" : 2,
-      "text" : "Orange Face Serum",
-      "top_pt" : 283,
-      "width_pt" : 150.67100000000002
+      "text" : "Orange Face",
+      "top_pt" : 350,
+      "width_pt" : 119.7
+    },
+    {
+      "height_pt" : 15.687000000000001,
+      "left_pt" : 34.015748031496067,
+      "page" : 2,
+      "text" : "Serum",
+      "top_pt" : 378,
+      "width_pt" : 59.346000000000004
     },
     {
       "height_pt" : 7.4800000000000004,
       "left_pt" : 450.70984251968514,
       "page" : 2,
       "text" : "PRODUCT BENEFIT",
-      "top_pt" : 198,
+      "top_pt" : 274,
       "width_pt" : 110.54999999999997
     },
     {
@@ -177,7 +169,7 @@
       "left_pt" : 453.64384251968511,
       "page" : 2,
       "text" : "For brighter-looking,",
-      "top_pt" : 222,
+      "top_pt" : 298,
       "width_pt" : 107.616
     },
     {
@@ -185,95 +177,87 @@
       "left_pt" : 497.64784251968513,
       "page" : 2,
       "text" : "radiant skin.",
-      "top_pt" : 240,
+      "top_pt" : 316,
       "width_pt" : 63.611999999999995
     },
     {
       "height_pt" : 16.675000000000001,
-      "left_pt" : 34.015748031496067,
+      "left_pt" : 475.4928425196851,
       "page" : 2,
       "text" : "LKR 965",
-      "top_pt" : 318,
+      "top_pt" : 410,
       "width_pt" : 85.76700000000001
     },
     {
       "height_pt" : 9.4250000000000007,
-      "left_pt" : 34.015748031496067,
+      "left_pt" : 531.22984251968512,
       "page" : 2,
       "text" : "15 ml",
-      "top_pt" : 348,
+      "top_pt" : 440,
       "width_pt" : 30.029999999999998
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 34.015748031496067,
-      "page" : 2,
-      "text" : "HIMALAYA  \/  VITAMIN C",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 111.10400000000001
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 530.73984251968511,
-      "page" : 2,
-      "text" : "02 \/ 03",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 30.52
     },
     {
       "height_pt" : 7.4700000000000006,
       "left_pt" : 183.02779527559056,
       "page" : 3,
       "text" : "PREMIUM VITAMIN C SKINCARE",
-      "top_pt" : 34.015748031496067,
+      "top_pt" : 54,
       "width_pt" : 229.22
     },
     {
-      "height_pt" : 98.101111486938265,
+      "height_pt" : 117.72133378432591,
       "left_pt" : 34.015748031496067,
       "page" : 3,
       "text" : "BRIGHT",
-      "top_pt" : 65,
+      "top_pt" : 94,
       "width_pt" : 527.24409448818903
     },
     {
-      "height_pt" : 21.183,
+      "height_pt" : 19.341000000000001,
       "left_pt" : 34.015748031496067,
       "page" : 3,
       "text" : "Himalaya",
-      "top_pt" : 197,
-      "width_pt" : 92.850999999999999
+      "top_pt" : 266,
+      "width_pt" : 84.777000000000001
     },
     {
-      "height_pt" : 21.228999999999999,
+      "height_pt" : 19.383000000000003,
       "left_pt" : 34.015748031496067,
       "page" : 3,
       "text" : "Brightening",
-      "top_pt" : 225,
-      "width_pt" : 114.72399999999999
+      "top_pt" : 294,
+      "width_pt" : 104.74800000000002
     },
     {
-      "height_pt" : 17.180999999999997,
+      "height_pt" : 15.687000000000001,
       "left_pt" : 34.015748031496067,
       "page" : 3,
       "text" : "Vitamin C",
-      "top_pt" : 253,
-      "width_pt" : 98.348000000000013
+      "top_pt" : 322,
+      "width_pt" : 89.795999999999992
     },
     {
-      "height_pt" : 15.980000000000002,
+      "height_pt" : 19.740000000000002,
       "left_pt" : 34.015748031496067,
       "page" : 3,
-      "text" : "Orange Face Wash",
-      "top_pt" : 283,
-      "width_pt" : 143.73500000000004
+      "text" : "Orange Face",
+      "top_pt" : 350,
+      "width_pt" : 119.7
+    },
+    {
+      "height_pt" : 15.225000000000001,
+      "left_pt" : 34.015748031496067,
+      "page" : 3,
+      "text" : "Wash",
+      "top_pt" : 378,
+      "width_pt" : 51.302999999999997
     },
     {
       "height_pt" : 7.4800000000000004,
       "left_pt" : 450.70984251968514,
       "page" : 3,
       "text" : "PRODUCT BENEFIT",
-      "top_pt" : 198,
+      "top_pt" : 274,
       "width_pt" : 110.54999999999997
     },
     {
@@ -281,7 +265,7 @@
       "left_pt" : 475.42384251968514,
       "page" : 3,
       "text" : "For youthful and",
-      "top_pt" : 222,
+      "top_pt" : 298,
       "width_pt" : 85.83599999999997
     },
     {
@@ -289,24 +273,8 @@
       "left_pt" : 454.08784251968513,
       "page" : 3,
       "text" : "radiant-looking skin.",
-      "top_pt" : 240,
+      "top_pt" : 316,
       "width_pt" : 107.17199999999998
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 34.015748031496067,
-      "page" : 3,
-      "text" : "HIMALAYA  \/  VITAMIN C",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 111.10400000000001
-    },
-    {
-      "height_pt" : 5.984,
-      "left_pt" : 530.73984251968511,
-      "page" : 3,
-      "text" : "03 \/ 03",
-      "top_pt" : 801.89001574803149,
-      "width_pt" : 30.52
     }
   ],
   "text_inset_mm" : 12
