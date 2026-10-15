@@ -1,9 +1,0 @@
-{
-  "source": "Product Detailer v3 (1).pdf",
-  "usage": "Prices and pack sizes only",
-  "products": [
-    {"product": "Brightening Vitamin C Orange Face Serum Cream", "price_lkr": 1200, "size_ml": 50, "source_page": 24},
-    {"product": "Brightening Vitamin C Orange Face Serum", "price_lkr": 965, "size_ml": 15, "source_page": 18},
-    {"product": "Brightening Vitamin C Orange Face Wash", "price_lkr": null, "size_ml": null, "source_page": 13, "note": "MRP TBC; pack size not specified"}
-  ]
-}
