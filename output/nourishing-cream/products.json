@@ -1,0 +1,31 @@
+[
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Nourishing",
+      "Skin Cream"
+    ],
+    "headline": "NOURISH",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Light, non-greasy care",
+      "to nourish skin and leave",
+      "it feeling soft and smooth."
+    ],
+    "prices": [
+      {
+        "price": "810",
+        "size": "50 ml"
+      }
+    ],
+    "priceSourcePage": 21,
+    "color": [
+      0.015,
+      0.22,
+      0.19
+    ],
+    "whiteRight": false,
+    "mask": []
+  }
+]
