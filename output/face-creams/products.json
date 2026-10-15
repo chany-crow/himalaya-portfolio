@@ -1,0 +1,32 @@
+[
+  {
+    "scene": "01-rose.png",
+    "type": "Rose Face Cream",
+    "headline": "GLOW",
+    "price": "395",
+    "size": "25 g",
+    "priceSourcePage": 20,
+    "benefit": [
+      "Nourishes and revitalizes",
+      "dull skin for a fresh,",
+      "natural-looking glow."
+    ],
+    "secondPrice": "645",
+    "secondSize": "50 g"
+  },
+  {
+    "scene": "02-kesar-refined.png",
+    "type": "Kesar Face Cream",
+    "headline": "GLOW",
+    "price": "395",
+    "size": "25 g",
+    "priceSourcePage": 19,
+    "benefit": [
+      "Nourishes and reveals",
+      "clear, healthy-looking skin",
+      "with a natural glow."
+    ],
+    "secondPrice": "645",
+    "secondSize": "50 g"
+  }
+]

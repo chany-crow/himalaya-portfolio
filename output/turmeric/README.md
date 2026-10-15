@@ -13,6 +13,8 @@ Five A4 pages using the approved portfolio's photographic style and PURE-referen
 Outputs in the parent directory:
 
 - `Himalaya-Turmeric-Portfolio-A4.pdf`: these five pages.
-- `Himalaya-Product-Portfolio-A4.pdf`: existing three Vitamin C pages followed by these five turmeric pages.
+- `Himalaya-Product-Portfolio-A4.pdf`: three Vitamin C pages, five turmeric pages, and two Natural Glow Face Cream pages.
 
-Rebuild with `swift -module-cache-path /tmp/himalaya-swift-cache output/turmeric/build.swift` from the project root.
+Rebuild this range with `swift -module-cache-path /tmp/himalaya-swift-cache output/turmeric/build.swift` from the project root.
+
+Run `swift -module-cache-path /tmp/himalaya-swift-cache output/combine.swift` afterward to update the combined portfolio.

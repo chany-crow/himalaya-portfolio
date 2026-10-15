@@ -117,17 +117,4 @@ for i in 0..<products.count {
     try bitmap.representation(using: .png, properties: [:])!.write(to: root.appendingPathComponent(String(format:"previews/%02d-page.png", i+1)))
 }
 try JSONSerialization.data(withJSONObject: audit, options: [.prettyPrinted,.sortedKeys]).write(to: root.appendingPathComponent("text-positions.json"))
-let vitamin = PDFDocument(url: root.deletingLastPathComponent().appendingPathComponent("Himalaya-Vitamin-C-Portfolio-A4.pdf"))!
-let combined = PDFDocument()
-for document in [vitamin, pdf] {
-    for i in 0..<document.pageCount {
-        let page = document.page(at: i)!.copy() as! PDFPage
-        precondition(abs(page.bounds(for: .mediaBox).width-W) < 0.01)
-        precondition(abs(page.bounds(for: .mediaBox).height-H) < 0.01)
-        combined.insert(page, at: combined.pageCount)
-    }
-}
-let combinedURL = root.deletingLastPathComponent().appendingPathComponent("Himalaya-Product-Portfolio-A4.pdf")
-precondition(combined.write(to: combinedURL))
-precondition(combined.pageCount == vitamin.pageCount+products.count)
-print("Built \(products.count) turmeric A4 pages and combined \(combined.pageCount)-page portfolio.")
+print("Built \(pdf.pageCount) turmeric A4 pages.")
