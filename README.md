@@ -4,7 +4,7 @@ A 22-page A4 portrait portfolio covering the Himalaya Brightening Vitamin C, Dar
 
 ## Files
 
-- `output/Himalaya-Neem-Pack-Portfolio-A4.pdf`: Purifying Neem Pack, page 22, 50 g. LKR price awaiting confirmation.
+- `output/Himalaya-Neem-Pack-Portfolio-A4.pdf`: Purifying Neem Pack, page 22, 50 g. LKR 790, confirmed by the user.
 
 - `output/Himalaya-Nourishing-Cream-Portfolio-A4.pdf`: one Nourishing Skin Cream product, appended as page 21.
 - `output/nourishing-cream/`: product data, scene, prompt, preview and typesetting.

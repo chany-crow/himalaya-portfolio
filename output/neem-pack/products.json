@@ -13,9 +13,14 @@
       "to help purify and",
       "clear skin."
     ],
-    "prices": [],
+    "prices": [
+      {
+        "price": "790",
+        "size": "50 g"
+      }
+    ],
     "size": "50 g",
-    "priceStatus": "Not listed in supplied detailer; awaiting user price",
+    "priceStatus": "Confirmed by user: LKR 790 / 50 g",
     "color": [
       0.01,
       0.2,
