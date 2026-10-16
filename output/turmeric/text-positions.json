@@ -1,490 +1,952 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
-    "page" : 1,
+    "page" : 4,
     "text" : "PREMIUM TURMERIC SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 4,
     "text" : "CLEAR",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 4,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.022532316436938832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252531,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 4,
     "text" : "Dark Spot Clearing",
     "top" : 0.34599999999999997,
-    "width" : 0.27269653320312498
+    "width" : 0.2407103571428571
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 4,
     "text" : "Turmeric",
     "top" : 0.379,
-    "width" : 0.1604840313946759
+    "width" : 0.11507107142857141
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 4,
     "text" : "Face Wash",
     "top" : 0.41200000000000003,
-    "width" : 0.19174909319196426
+    "width" : 0.13525499999999999
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 4,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013674593153759821,
-    "left" : 0.72174487433862433,
-    "page" : 1,
-    "text" : "Helps visibly reduce",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.68937722222222209,
+    "page" : 4,
+    "text" : "Cold pressed Turmeric and Licorice",
     "top" : 0.35599999999999998,
-    "width" : 0.18651025132275131
+    "width" : 0.25562277777777781
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.71552926587301591,
-    "page" : 1,
-    "text" : "dark spots and boost",
-    "top" : 0.376,
-    "width" : 0.19894146825396822
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.72883541666666662,
+    "page" : 4,
+    "text" : "extracts help cleanse skin and",
+    "top" : 0.3699685746352413,
+    "width" : 0.21616458333333333
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.75105902777777778,
-    "page" : 1,
-    "text" : "skin radiance.",
-    "top" : 0.39599999999999996,
-    "width" : 0.12788194444444445
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881033,
+    "left" : 0.72156819444444431,
+    "page" : 4,
+    "text" : "reduce the appearance of dark",
+    "top" : 0.38393714927048256,
+    "width" : 0.22343180555555558
   },
   {
-    "height" : 0.022377461134785354,
-    "left" : 0.77827706473214275,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.687948472222222,
+    "page" : 4,
+    "text" : "spots and blemishes. This botanical",
+    "top" : 0.39790572390572387,
+    "width" : 0.25705152777777784
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.72832388888888877,
+    "page" : 4,
+    "text" : "face wash supports a brighter",
+    "top" : 0.41187429854096524,
+    "width" : 0.21667611111111115
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881032,
+    "left" : 0.73843097222222209,
+    "page" : 4,
+    "text" : "looking complexion, making",
+    "top" : 0.4258428731762065,
+    "width" : 0.20656902777777778
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.68664319444444433,
+    "page" : 4,
+    "text" : "cleansing a refreshing step towards",
+    "top" : 0.43981144781144782,
+    "width" : 0.25835680555555562
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011611377665544332,
+    "left" : 0.70694555555555549,
+    "page" : 4,
+    "text" : "visibly clearer, more radiant skin.",
+    "top" : 0.45378002244668908,
+    "width" : 0.23805444444444437
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80697989417989413,
+    "page" : 4,
     "text" : "LKR 545",
-    "top" : 0.47799999999999998,
-    "width" : 0.16672293526785714
+    "top" : 0.48999999999999999,
+    "width" : 0.13802010582010579
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77827706473214275,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89513234126984131,
+    "page" : 4,
     "text" : "50ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.052513492063492061
+    "top" : 0.52300000000000002,
+    "width" : 0.04986765873015872
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 4,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 4,
+    "text" : "Page 04",
+    "top" : 0.92718294051627381,
+    "width" : 0.053991798941798938
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
-    "page" : 2,
+    "page" : 5,
     "text" : "PREMIUM TURMERIC SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 2,
+    "page" : 5,
     "text" : "SMOOTH",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 2,
+    "page" : 5,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.022532316436938832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252531,
     "left" : 0.059999999999999998,
-    "page" : 2,
+    "page" : 5,
     "text" : "Dark Spot Clearing",
     "top" : 0.34599999999999997,
-    "width" : 0.27269653320312498
+    "width" : 0.2407103571428571
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 2,
+    "page" : 5,
     "text" : "Turmeric",
     "top" : 0.379,
-    "width" : 0.1604840313946759
+    "width" : 0.11507107142857141
   },
   {
-    "height" : 0.021458189022750655,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 2,
+    "page" : 5,
     "text" : "Face Scrub",
     "top" : 0.41200000000000003,
-    "width" : 0.19334860181051586
+    "width" : 0.13602607142857143
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 2,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 5,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013644898054620278,
-    "left" : 0.703937996031746,
-    "page" : 2,
-    "text" : "Exfoliates and improves",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.010883847736625514,
+    "left" : 0.71833859788359788,
+    "page" : 5,
+    "text" : "Turmeric, Licorice and natural",
     "top" : 0.35599999999999998,
-    "width" : 0.22212400793650797
+    "width" : 0.22666140211640204
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.69738640873015878,
-    "page" : 2,
-    "text" : "skin texture while helping",
-    "top" : 0.376,
-    "width" : 0.23522718253968258
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.70316747354497344,
+    "page" : 5,
+    "text" : "cellulose exfoliants help lift dirt,",
+    "top" : 0.37063374485596706,
+    "width" : 0.24183252645502643
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.70716129298941788,
-    "page" : 2,
-    "text" : "reduce the appearance",
-    "top" : 0.39599999999999996,
-    "width" : 0.21567741402116408
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.71676789682539677,
+    "page" : 5,
+    "text" : "impurities and dead skin cells.",
+    "top" : 0.38526748971193414,
+    "width" : 0.2282321031746031
   },
   {
-    "height" : 0.013644898054620278,
-    "left" : 0.75149999999999995,
-    "page" : 2,
-    "text" : "of dark spots.",
-    "top" : 0.41599999999999998,
-    "width" : 0.12699999999999997
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0095641975308641963,
+    "left" : 0.69426067460317464,
+    "page" : 5,
+    "text" : "This face scrub refines the feel of",
+    "top" : 0.39990123456790122,
+    "width" : 0.25073932539682525
   },
   {
-    "height" : 0.022346142084911615,
-    "left" : 0.77716971261160706,
-    "page" : 2,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.69293019841269832,
+    "page" : 5,
+    "text" : "uneven texture and helps reduce",
+    "top" : 0.41453497942386824,
+    "width" : 0.25206980158730152
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.70885895502645502,
+    "page" : 5,
+    "text" : "visible dullness and dark spots,",
+    "top" : 0.42916872427983543,
+    "width" : 0.23614104497354485
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.71164925925925915,
+    "page" : 5,
+    "text" : "revealing smoother skin with a",
+    "top" : 0.44380246913580246,
+    "width" : 0.23335074074074069
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.8461751851851852,
+    "page" : 5,
+    "text" : "fresher glow.",
+    "top" : 0.45843621399176954,
+    "width" : 0.098824814814814796
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80562589947089935,
+    "page" : 5,
     "text" : "LKR 790",
-    "top" : 0.47799999999999998,
-    "width" : 0.16783028738839284
+    "top" : 0.48999999999999999,
+    "width" : 0.13937410052910051
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77716971261160706,
-    "page" : 2,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89513234126984131,
+    "page" : 5,
     "text" : "50ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.052513492063492061
+    "top" : 0.52300000000000002,
+    "width" : 0.04986765873015872
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 5,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 5,
+    "text" : "Page 05",
+    "top" : 0.92718294051627381,
+    "width" : 0.05323584656084656
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
-    "page" : 3,
+    "page" : 6,
     "text" : "PREMIUM TURMERIC SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 3,
+    "page" : 6,
     "text" : "REFINE",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 3,
+    "page" : 6,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.022532316436938832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252531,
     "left" : 0.059999999999999998,
-    "page" : 3,
+    "page" : 6,
     "text" : "Dark Spot Clearing",
     "top" : 0.34599999999999997,
-    "width" : 0.27269653320312498
+    "width" : 0.2407103571428571
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 3,
+    "page" : 6,
     "text" : "Turmeric",
     "top" : 0.379,
-    "width" : 0.1604840313946759
+    "width" : 0.11507107142857141
   },
   {
-    "height" : 0.021367711767559857,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 3,
+    "page" : 6,
     "text" : "Face Pack",
     "top" : 0.41200000000000003,
-    "width" : 0.17775872447503305
+    "width" : 0.12518571428571426
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 3,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 6,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013674593153759821,
-    "left" : 0.72174487433862433,
-    "page" : 3,
-    "text" : "Helps visibly reduce",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.74110452380952374,
+    "page" : 6,
+    "text" : "Cold pressed Turmeric and",
     "top" : 0.35599999999999998,
-    "width" : 0.18651025132275131
+    "width" : 0.20389547619047613
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.72749851190476189,
-    "page" : 3,
-    "text" : "dark spots and the",
-    "top" : 0.376,
-    "width" : 0.17500297619047617
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.71144599206349202,
+    "page" : 6,
+    "text" : "Licorice extracts help draw out",
+    "top" : 0.37063374485596706,
+    "width" : 0.23355400793650785
   },
   {
-    "height" : 0.013644898054620278,
-    "left" : 0.71611722883597884,
-    "page" : 3,
-    "text" : "appearance of pores.",
-    "top" : 0.39599999999999996,
-    "width" : 0.19776554232804228
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.74548400793650793,
+    "page" : 6,
+    "text" : "impurities and refresh dull",
+    "top" : 0.38526748971193414,
+    "width" : 0.19951599206349199
   },
   {
-    "height" : 0.022346142084911615,
-    "left" : 0.77716971261160706,
-    "page" : 3,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.69389109788359793,
+    "page" : 6,
+    "text" : "looking skin. This face pack helps",
+    "top" : 0.39990123456790122,
+    "width" : 0.25110890211640202
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.71092858465608455,
+    "page" : 6,
+    "text" : "reduce the appearance of dark",
+    "top" : 0.41453497942386824,
+    "width" : 0.23407141534391532
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.71843099206349204,
+    "page" : 6,
+    "text" : "spots and pores, supporting a",
+    "top" : 0.42916872427983543,
+    "width" : 0.22656900793650783
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.70795349206349212,
+    "page" : 6,
+    "text" : "clearer complexion and a more",
+    "top" : 0.44380246913580246,
+    "width" : 0.23704650793650789
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0095641975308641963,
+    "left" : 0.78059379629629633,
+    "page" : 6,
+    "text" : "radiant look after use.",
+    "top" : 0.45843621399176954,
+    "width" : 0.16440620370370365
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80562589947089935,
+    "page" : 6,
     "text" : "LKR 790",
-    "top" : 0.47799999999999998,
-    "width" : 0.16783028738839284
+    "top" : 0.48999999999999999,
+    "width" : 0.13937410052910051
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77716971261160706,
-    "page" : 3,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89513234126984131,
+    "page" : 6,
     "text" : "50ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.052513492063492061
+    "top" : 0.52300000000000002,
+    "width" : 0.04986765873015872
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 6,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 6,
+    "text" : "Page 06",
+    "top" : 0.92718294051627381,
+    "width" : 0.053807010582010581
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
-    "page" : 4,
+    "page" : 7,
     "text" : "PREMIUM TURMERIC SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 4,
+    "page" : 7,
     "text" : "EVEN",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 4,
+    "page" : 7,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.022532316436938832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252531,
     "left" : 0.059999999999999998,
-    "page" : 4,
+    "page" : 7,
     "text" : "Dark Spot Clearing",
     "top" : 0.34599999999999997,
-    "width" : 0.27269653320312498
+    "width" : 0.2407103571428571
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 4,
+    "page" : 7,
     "text" : "Turmeric",
     "top" : 0.379,
-    "width" : 0.1604840313946759
+    "width" : 0.11507107142857141
   },
   {
-    "height" : 0.021277234512369059,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 4,
+    "page" : 7,
     "text" : "Face Serum",
     "top" : 0.41200000000000003,
-    "width" : 0.20680580098792989
+    "width" : 0.14745607142857142
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 4,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 7,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013674593153759821,
-    "left" : 0.72174487433862433,
-    "page" : 4,
-    "text" : "Helps visibly reduce",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.010776945379723155,
+    "left" : 0.68881697751322746,
+    "page" : 7,
+    "text" : "A concentrated blend of Turmeric,",
     "top" : 0.35599999999999998,
-    "width" : 0.18651025132275131
+    "width" : 0.25618302248677244
   },
   {
-    "height" : 0.013644898054620278,
-    "left" : 0.72971387235449736,
-    "page" : 4,
-    "text" : "the appearance of",
-    "top" : 0.376,
-    "width" : 0.17057225529100531
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011887839038533483,
+    "left" : 0.69132715939153422,
+    "page" : 7,
+    "text" : "Licorice, Niacinamide and Glycolic",
+    "top" : 0.37030115974560418,
+    "width" : 0.25367284060846568
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.76355324074074071,
-    "page" : 4,
-    "text" : "dark spots.",
-    "top" : 0.39599999999999996,
-    "width" : 0.10289351851851852
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011594154508043396,
+    "left" : 0.77214056878306869,
+    "page" : 7,
+    "text" : "Acid helps improve the",
+    "top" : 0.38460231949120838,
+    "width" : 0.1728594312169312
   },
   {
-    "height" : 0.02278460878314394,
-    "left" : 0.77827706473214275,
-    "page" : 4,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011734612326973436,
+    "left" : 0.72495276124338615,
+    "page" : 7,
+    "text" : "appearance of dark spots and",
+    "top" : 0.39890347923681257,
+    "width" : 0.22004723875661375
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0093468294051627376,
+    "left" : 0.72813112103174593,
+    "page" : 7,
+    "text" : "uneven tone. This face serum",
+    "top" : 0.41320463898241677,
+    "width" : 0.21686887896825396
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011594154508043396,
+    "left" : 0.73251942460317443,
+    "page" : 7,
+    "text" : "supports skin radiance and a",
+    "top" : 0.42750579872802091,
+    "width" : 0.21248057539682538
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011734612326973436,
+    "left" : 0.68708332671957661,
+    "page" : 7,
+    "text" : "clearer looking complexion as part",
+    "top" : 0.44180695847362517,
+    "width" : 0.25791667328042323
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012028296857463525,
+    "left" : 0.70729119378306871,
+    "page" : 7,
+    "text" : "of your regular skincare routine.",
+    "top" : 0.45610811821922931,
+    "width" : 0.23770880621693116
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80697989417989413,
+    "page" : 7,
     "text" : "LKR 965",
-    "top" : 0.47799999999999998,
-    "width" : 0.16672293526785714
+    "top" : 0.48999999999999999,
+    "width" : 0.13802010582010579
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77827706473214275,
-    "page" : 4,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89669464285714273,
+    "page" : 7,
     "text" : "15ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.051203174603174598
+    "top" : 0.52300000000000002,
+    "width" : 0.048305357142857136
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 7,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 7,
+    "text" : "Page 07",
+    "top" : 0.92718294051627381,
+    "width" : 0.053588624338624338
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
-    "page" : 5,
+    "page" : 8,
     "text" : "PREMIUM TURMERIC SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 5,
+    "page" : 8,
     "text" : "GLOW",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 5,
+    "page" : 8,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.022532316436938832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252531,
     "left" : 0.059999999999999998,
-    "page" : 5,
+    "page" : 8,
     "text" : "Dark Spot Clearing",
     "top" : 0.34599999999999997,
-    "width" : 0.27269653320312498
+    "width" : 0.2407103571428571
   },
   {
-    "height" : 0.021412950395155256,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 5,
+    "page" : 8,
     "text" : "Turmeric",
     "top" : 0.379,
-    "width" : 0.1604840313946759
+    "width" : 0.11507107142857141
   },
   {
-    "height" : 0.02130739359743266,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022898484848484845,
     "left" : 0.059999999999999998,
-    "page" : 5,
+    "page" : 8,
     "text" : "Face Cream",
     "top" : 0.41200000000000003,
-    "width" : 0.20919440052496691
+    "width" : 0.14650357142857143
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 5,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 8,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013674593153759821,
-    "left" : 0.72174487433862433,
-    "page" : 5,
-    "text" : "Helps visibly reduce",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0094204732510288058,
+    "left" : 0.7156961243386244,
+    "page" : 8,
+    "text" : "Turmeric and Licorice extracts",
     "top" : 0.35599999999999998,
-    "width" : 0.18651025132275131
+    "width" : 0.22930387566137553
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.71552926587301591,
-    "page" : 5,
-    "text" : "dark spots and boost",
-    "top" : 0.376,
-    "width" : 0.19894146825396822
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0094204732510288058,
+    "left" : 0.70658605820105813,
+    "page" : 8,
+    "text" : "combine with Niacinamide and",
+    "top" : 0.37063374485596706,
+    "width" : 0.23841394179894174
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.75105902777777778,
-    "page" : 5,
-    "text" : "skin radiance.",
-    "top" : 0.39599999999999996,
-    "width" : 0.12788194444444445
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.70229896825396831,
+    "page" : 8,
+    "text" : "Glycolic Acid to help reduce the",
+    "top" : 0.38526748971193414,
+    "width" : 0.24270103174603166
   },
   {
-    "height" : 0.026182725694444443,
-    "left" : 0.74315185546874996,
-    "page" : 5,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.71397759259259252,
+    "page" : 8,
+    "text" : "appearance of dark spots. This",
+    "top" : 0.39990123456790122,
+    "width" : 0.23102240740740737
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.6916551587301587,
+    "page" : 8,
+    "text" : "face cream supports a more even",
+    "top" : 0.41453497942386824,
+    "width" : 0.25334484126984114
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.70625343915343908,
+    "page" : 8,
+    "text" : "looking complexion, improving",
+    "top" : 0.42916872427983543,
+    "width" : 0.23874656084656085
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.70294572751322759,
+    "page" : 8,
+    "text" : "visible radiance while caring for",
+    "top" : 0.44380246913580246,
+    "width" : 0.24205427248677233
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.69825210317460318,
+    "page" : 8,
+    "text" : "skin during your regular routine.",
+    "top" : 0.45843621399176954,
+    "width" : 0.24674789682539669
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.024768088290310512,
+    "left" : 0.77417828042328041,
+    "page" : 8,
     "text" : "LKR 1,200",
-    "top" : 0.47799999999999998,
-    "width" : 0.20184814453125
+    "top" : 0.48999999999999999,
+    "width" : 0.17082171957671954
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.74315185546874996,
-    "page" : 5,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89513234126984131,
+    "page" : 8,
     "text" : "50ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.052513492063492061
+    "top" : 0.52300000000000002,
+    "width" : 0.04986765873015872
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 8,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 8,
+    "text" : "Page 08",
+    "top" : 0.92718294051627381,
+    "width" : 0.05373981481481481
   }
 ]

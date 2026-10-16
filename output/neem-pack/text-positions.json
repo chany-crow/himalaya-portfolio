@@ -1,90 +1,182 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014498335203890761,
     "left" : 0.17000000000000001,
-    "page" : 1,
+    "page" : 22,
     "text" : "PREMIUM BOTANICAL SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 22,
     "text" : "PURE",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 22,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027836835513701832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026939393939393937,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 22,
     "text" : "Purifying",
     "top" : 0.34599999999999997,
-    "width" : 0.16297926483961639
+    "width" : 0.11869964285714284
   },
   {
-    "height" : 0.021367711767559857,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 22,
     "text" : "Neem Pack",
     "top" : 0.379,
-    "width" : 0.1995973488136574
+    "width" : 0.14378214285714289
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 22,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.69312367724867718,
-    "page" : 1,
-    "text" : "Absorbs oil and impurities",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.010883847736625514,
+    "left" : 0.68940074074074076,
+    "page" : 22,
+    "text" : "Neem, Turmeric and Fuller's Earth",
     "top" : 0.35599999999999998,
-    "width" : 0.24375264550264553
+    "width" : 0.25559925925925919
   },
   {
-    "height" : 0.013793373550317995,
-    "left" : 0.73372461970899461,
-    "page" : 1,
-    "text" : "to help purify and",
-    "top" : 0.376,
-    "width" : 0.16255076058201059
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.71187100529100533,
+    "page" : 22,
+    "text" : "help absorb excess oil, remove",
+    "top" : 0.37063374485596706,
+    "width" : 0.23312899470899462
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.76881340939153431,
-    "page" : 1,
-    "text" : "clear skin.",
-    "top" : 0.39599999999999996,
-    "width" : 0.092373181216931222
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.70750999999999986,
+    "page" : 22,
+    "text" : "impurities and cleanse clogged",
+    "top" : 0.38526748971193414,
+    "width" : 0.23749000000000001
   },
   {
-    "height" : 0.022346142084911615,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012308024691358022,
+    "left" : 0.69932387566137555,
+    "page" : 22,
+    "text" : "pores. This purifying face pack is",
+    "top" : 0.39990123456790122,
+    "width" : 0.24567612433862432
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.69651509259259259,
+    "page" : 22,
+    "text" : "suited to oily, pimple prone skin,",
+    "top" : 0.41453497942386824,
+    "width" : 0.24848490740740733
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012308024691358022,
+    "left" : 0.70004455026455015,
+    "page" : 22,
+    "text" : "leaving your complexion feeling",
+    "top" : 0.42916872427983543,
+    "width" : 0.24495544973544972
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.70763935185185189,
+    "page" : 22,
+    "text" : "refreshed and clearer as part of",
+    "top" : 0.44380246913580246,
+    "width" : 0.237360648148148
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.82102548941798936,
+    "page" : 22,
+    "text" : "regular skincare.",
+    "top" : 0.45843621399176954,
+    "width" : 0.12397451058201056
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80562589947089935,
+    "page" : 22,
     "text" : "LKR 790",
-    "top" : 0.47799999999999998,
-    "width" : 0.16783028738839284
+    "top" : 0.48999999999999999,
+    "width" : 0.13937410052910051
   },
   {
-    "height" : 0.016356060606060607,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.015500841750841749,
+    "left" : 0.90251547619047612,
+    "page" : 22,
     "text" : "50 g",
-    "top" : 0.51100000000000001,
-    "width" : 0.04699503968253968
+    "top" : 0.52300000000000002,
+    "width" : 0.042484523809523812
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 22,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 22,
+    "text" : "Page 22",
+    "top" : 0.92718294051627381,
+    "width" : 0.053471031746031746
   }
 ]

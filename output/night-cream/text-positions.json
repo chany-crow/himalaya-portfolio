@@ -1,90 +1,182 @@
 [
   {
-    "height" : 0.012422053872053872,
-    "left" : 0.16999999999999996,
-    "page" : 1,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014498335203890761,
+    "left" : 0.17000000000000001,
+    "page" : 24,
     "text" : "PREMIUM BOTANICAL NIGHT CARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 24,
     "text" : "RESTORE",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 24,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027897153683829029,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 24,
     "text" : "Revitalizing",
     "top" : 0.34599999999999997,
-    "width" : 0.21166830718832669
+    "width" : 0.15276285714285712
   },
   {
-    "height" : 0.027776517343574635,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 24,
     "text" : "Night Cream",
     "top" : 0.379,
-    "width" : 0.22623449900793649
+    "width" : 0.16051892857142858
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 24,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.70949214616402112,
-    "page" : 1,
-    "text" : "Helps restore moisture",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.68880941798941797,
+    "page" : 24,
+    "text" : "White Lily and Tomato enrich this",
     "top" : 0.35599999999999998,
-    "width" : 0.21101570767195768
+    "width" : 0.25619058201058192
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.71002761243386237,
-    "page" : 1,
-    "text" : "balance and nourishes",
-    "top" : 0.376,
-    "width" : 0.20994477513227511
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.68777460317460315,
+    "page" : 24,
+    "text" : "nourishing night cream, designed",
+    "top" : 0.37063374485596706,
+    "width" : 0.2572253968253968
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.74775173611111112,
-    "page" : 1,
-    "text" : "skin overnight.",
-    "top" : 0.39599999999999996,
-    "width" : 0.13449652777777776
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.69402044973544974,
+    "page" : 24,
+    "text" : "to complement the skin's natural",
+    "top" : 0.38526748971193414,
+    "width" : 0.25097955026455016
   },
   {
-    "height" : 0.026605532867739898,
-    "left" : 0.74425920758928565,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.69852928571428574,
+    "page" : 24,
+    "text" : "overnight renewal cycle. It helps",
+    "top" : 0.39990123456790122,
+    "width" : 0.24647071428571421
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0094204732510288058,
+    "left" : 0.72275503968253951,
+    "page" : 24,
+    "text" : "restore moisture balance and",
+    "top" : 0.41453497942386824,
+    "width" : 0.2222449603174603
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012308024691358022,
+    "left" : 0.71037421957671953,
+    "page" : 24,
+    "text" : "care for tired skin, leaving your",
+    "top" : 0.42916872427983543,
+    "width" : 0.23462578042328036
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.69873255291005287,
+    "page" : 24,
+    "text" : "face feeling softer and refreshed",
+    "top" : 0.44380246913580246,
+    "width" : 0.24626744708994702
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.73785224867724875,
+    "page" : 24,
+    "text" : "as part of evening skincare.",
+    "top" : 0.45843621399176954,
+    "width" : 0.20714775132275126
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.024768088290310512,
+    "left" : 0.77553227513227507,
+    "page" : 24,
     "text" : "LKR 1,535",
-    "top" : 0.47799999999999998,
-    "width" : 0.20074079241071427
+    "top" : 0.48999999999999999,
+    "width" : 0.16946772486772485
   },
   {
-    "height" : 0.016356060606060607,
-    "left" : 0.74425920758928565,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.015500841750841749,
+    "left" : 0.90251547619047612,
+    "page" : 24,
     "text" : "50 g",
-    "top" : 0.51100000000000001,
-    "width" : 0.04699503968253968
+    "top" : 0.52300000000000002,
+    "width" : 0.042484523809523812
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 24,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 24,
+    "text" : "Page 24",
+    "top" : 0.92718294051627381,
+    "width" : 0.053991798941798938
   }
 ]

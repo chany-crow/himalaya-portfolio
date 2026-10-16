@@ -133,7 +133,12 @@
       "and nourishes weak hair",
       "with natural proteins."
     ],
-    "prices": [],
+    "prices": [
+      {
+        "price": "490",
+        "size": "80 ml"
+      }
+    ],
     "size": "80 ml",
     "color": [
       0.32,
@@ -175,6 +180,6 @@
         0.3727272727272728
       ]
     ],
-    "priceSource": "Not in old detailer; awaiting user price. Size from supplied front label."
+    "priceSource": "User confirmed LKR 490 for 80 ml"
   }
 ]

@@ -1,6 +1,8 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
     "page" : 1,
     "text" : "PREMIUM VITAMIN C SKINCARE",
@@ -8,6 +10,8 @@
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 1,
@@ -16,31 +20,39 @@
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
     "page" : 1,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027776517343574635,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
     "page" : 1,
     "text" : "Brightening",
     "top" : 0.34599999999999997,
-    "width" : 0.20659253317212301
+    "width" : 0.15366999999999997
   },
   {
-    "height" : 0.021563745820473251,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
     "page" : 1,
     "text" : "Vitamin C",
     "top" : 0.379,
-    "width" : 0.1810003952752976
+    "width" : 0.12418785714285714
   },
   {
-    "height" : 0.018043252621703143,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026971464646464646,
     "left" : 0.059999999999999998,
     "page" : 1,
     "text" : "Orange Face Serum Cream",
@@ -48,63 +60,139 @@
     "width" : 0.29999999999999999
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
     "page" : 1,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013956696595585487,
-    "left" : 0.70053621031746027,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881032,
+    "left" : 0.71123180555555543,
     "page" : 1,
-    "text" : "Vitamin C helps brighten",
+    "text" : "A lightweight serum cream with",
     "top" : 0.35599999999999998,
-    "width" : 0.22892757936507935
+    "width" : 0.23376819444444452
   },
   {
-    "height" : 0.012768892630003741,
-    "left" : 0.69879332010582007,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.010389127384960719,
+    "left" : 0.74382847222222215,
     "page" : 1,
-    "text" : "dull skin, boost radiance,",
-    "top" : 0.376,
-    "width" : 0.23241335978835975
+    "text" : "Vitamin C, Niacinamide and",
+    "top" : 0.3699685746352413,
+    "width" : 0.20117152777777772
   },
   {
-    "height" : 0.013644898054620278,
-    "left" : 0.72154538690476189,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011611377665544332,
+    "left" : 0.68861874999999984,
     "page" : 1,
-    "text" : "and support a fresh,",
-    "top" : 0.39599999999999996,
-    "width" : 0.1869092261904762
+    "text" : "Hyaluronic Acid helps brighten dull",
+    "top" : 0.38393714927048256,
+    "width" : 0.25638125000000006
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.7467542989417989,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.71932805555555546,
     "page" : 1,
-    "text" : "hydrated glow.",
-    "top" : 0.41599999999999998,
-    "width" : 0.13649140211640209
+    "text" : "skin and replenish moisture. Its",
+    "top" : 0.39790572390572387,
+    "width" : 0.22567194444444441
   },
   {
-    "height" : 0.026182725694444443,
-    "left" : 0.74315185546874996,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011748569023569026,
+    "left" : 0.69018861111111107,
+    "page" : 1,
+    "text" : "quickly absorbed formula supports",
+    "top" : 0.41187429854096524,
+    "width" : 0.25481138888888888
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881032,
+    "left" : 0.70145986111111103,
+    "page" : 1,
+    "text" : "a more even looking complexion,",
+    "top" : 0.4258428731762065,
+    "width" : 0.24354013888888887
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011748569023569026,
+    "left" : 0.73135777777777777,
+    "page" : 1,
+    "text" : "leaving skin feeling hydrated,",
+    "top" : 0.43981144781144782,
+    "width" : 0.21364222222222218
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011748569023569026,
+    "left" : 0.68685486111111105,
+    "page" : 1,
+    "text" : "smooth and comfortably refreshed.",
+    "top" : 0.45378002244668908,
+    "width" : 0.25814513888888885
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.024768088290310512,
+    "left" : 0.77417828042328041,
     "page" : 1,
     "text" : "LKR 1,200",
-    "top" : 0.47799999999999998,
-    "width" : 0.20184814453125
+    "top" : 0.48999999999999999,
+    "width" : 0.17082171957671954
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.74315185546874996,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.88979027777777764,
     "page" : 1,
-    "text" : "50ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.052513492063492061
+    "text" : "50 ml",
+    "top" : 0.52300000000000002,
+    "width" : 0.055209722222222209
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 1,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 1,
+    "text" : "Page 01",
+    "top" : 0.92718294051627381,
+    "width" : 0.051135978835978833
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
     "page" : 2,
     "text" : "PREMIUM VITAMIN C SKINCARE",
@@ -112,6 +200,8 @@
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 2,
@@ -120,63 +210,159 @@
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
     "page" : 2,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027776517343574635,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
     "page" : 2,
     "text" : "Brightening",
     "top" : 0.34599999999999997,
-    "width" : 0.20659253317212301
+    "width" : 0.15366999999999997
   },
   {
-    "height" : 0.021563745820473251,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
     "page" : 2,
     "text" : "Vitamin C",
     "top" : 0.379,
-    "width" : 0.1810003952752976
+    "width" : 0.12418785714285714
   },
   {
-    "height" : 0.022288723826809763,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026971464646464646,
     "left" : 0.059999999999999998,
     "page" : 2,
     "text" : "Orange Face Serum",
     "top" : 0.41200000000000003,
-    "width" : 0.27901828342013885
+    "width" : 0.25145999999999991
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
     "page" : 2,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.72084193121693119,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01132274130190797,
+    "left" : 0.6936554927248676,
     "page" : 2,
-    "text" : "For brighter-looking,",
+    "text" : "This lightweight orange face serum",
     "top" : 0.35599999999999998,
-    "width" : 0.18831613756613758
+    "width" : 0.2513445072751323
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.75934300595238102,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.010141767209128322,
+    "left" : 0.70584648478835965,
     "page" : 2,
-    "text" : "radiant skin.",
-    "top" : 0.376,
-    "width" : 0.11131398809523807
+    "text" : "combines Vitamin C, Niacinamide",
+    "top" : 0.36963598952487842,
+    "width" : 0.23915351521164022
   },
   {
-    "height" : 0.012422053872053872,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011334916292555184,
+    "left" : 0.69215744708994686,
+    "page" : 2,
+    "text" : "and Hyaluronic Acid to hydrate skin",
+    "top" : 0.38327197904975679,
+    "width" : 0.25284255291005298
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0087781682566404791,
+    "left" : 0.75359453703703694,
+    "page" : 2,
+    "text" : "and enhance radiance. The",
+    "top" : 0.39690796857463523,
+    "width" : 0.19140546296296296
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011188816404788627,
+    "left" : 0.73091722552910043,
+    "page" : 2,
+    "text" : "antioxidant rich formula helps",
+    "top" : 0.41054395809951366,
+    "width" : 0.21408277447089943
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011188816404788627,
+    "left" : 0.6898156746031745,
+    "page" : 2,
+    "text" : "improve the appearance of dullness",
+    "top" : 0.42417994762439204,
+    "width" : 0.25518432539682545
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011188816404788629,
+    "left" : 0.72525220238095223,
+    "page" : 2,
+    "text" : "and uneven tone, supporting a",
+    "top" : 0.43781593714927047,
+    "width" : 0.21974779761904764
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011468841189674523,
+    "left" : 0.70336696097883589,
+    "page" : 2,
+    "text" : "fresh, visibly brighter complexion.",
+    "top" : 0.45145192667414891,
+    "width" : 0.24163303902116404
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 2,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 2,
+    "text" : "Page 02",
+    "top" : 0.92718294051627381,
+    "width" : 0.053471031746031746
+  },
+  {
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014437757201646091,
     "left" : 0.17000000000000001,
     "page" : 3,
     "text" : "PREMIUM VITAMIN C SKINCARE",
@@ -184,6 +370,8 @@
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 3,
@@ -192,59 +380,153 @@
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
     "page" : 3,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027776517343574635,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
     "page" : 3,
     "text" : "Brightening",
     "top" : 0.34599999999999997,
-    "width" : 0.20659253317212301
+    "width" : 0.15366999999999997
   },
   {
-    "height" : 0.021563745820473251,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
     "page" : 3,
     "text" : "Vitamin C",
     "top" : 0.379,
-    "width" : 0.1810003952752976
+    "width" : 0.12418785714285714
   },
   {
-    "height" : 0.022434879392887203,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026971464646464646,
     "left" : 0.059999999999999998,
     "page" : 3,
     "text" : "Orange Face Wash",
     "top" : 0.41200000000000003,
-    "width" : 0.26685709635416666
+    "width" : 0.23925892857142853
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
     "page" : 3,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013793373550317995,
-    "left" : 0.73989823082010575,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.69332833333333332,
     "page" : 3,
-    "text" : "For youthful and",
+    "text" : "Vitamin C and Orange help refresh",
     "top" : 0.35599999999999998,
-    "width" : 0.15020353835978842
+    "width" : 0.25167166666666663
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.72123040674603167,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0089922699214365874,
+    "left" : 0.71752888888888888,
     "page" : 3,
-    "text" : "radiant-looking skin.",
-    "top" : 0.376,
-    "width" : 0.1875391865079365
+    "text" : "dull skin while natural cellulose",
+    "top" : 0.3699685746352413,
+    "width" : 0.22747111111111101
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.69133513888888887,
+    "page" : 3,
+    "text" : "beads lift impurities. This cleansing",
+    "top" : 0.38393714927048256,
+    "width" : 0.25366486111111108
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011748569023569026,
+    "left" : 0.72980555555555549,
+    "page" : 3,
+    "text" : "face wash supports hydration",
+    "top" : 0.39790572390572387,
+    "width" : 0.21519444444444441
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011611377665544332,
+    "left" : 0.69413972222222209,
+    "page" : 3,
+    "text" : "without excessive dryness, leaving",
+    "top" : 0.41187429854096524,
+    "width" : 0.25086027777777781
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.70839194444444442,
+    "page" : 3,
+    "text" : "skin feeling clean and revitalized",
+    "top" : 0.4258428731762065,
+    "width" : 0.2366080555555555
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881032,
+    "left" : 0.73442694444444434,
+    "page" : 3,
+    "text" : "with a brighter, more radiant",
+    "top" : 0.43981144781144782,
+    "width" : 0.2105730555555555
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.75227750000000004,
+    "page" : 3,
+    "text" : "appearance after washing.",
+    "top" : 0.45378002244668908,
+    "width" : 0.19272249999999996
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 3,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 3,
+    "text" : "Page 03",
+    "top" : 0.92718294051627381,
+    "width" : 0.053269444444444446
   }
 ]

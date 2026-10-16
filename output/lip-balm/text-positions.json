@@ -1,82 +1,172 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014498335203890761,
     "left" : 0.17000000000000001,
-    "page" : 1,
+    "page" : 20,
     "text" : "PREMIUM BOTANICAL LIP CARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 20,
     "text" : "SOFT",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 20,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027897153683829029,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 20,
     "text" : "Lip Balm",
     "top" : 0.34599999999999997,
-    "width" : 0.16560245897404099
+    "width" : 0.11017249999999999
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 20,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013674593153759821,
-    "left" : 0.73075330687830686,
-    "page" : 1,
-    "text" : "Nourishes dry and",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.71543742063492055,
+    "page" : 20,
+    "text" : "This nourishing lip balm helps",
     "top" : 0.35599999999999998,
-    "width" : 0.16849338624338622
+    "width" : 0.22956257936507934
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.71667369378306878,
-    "page" : 1,
-    "text" : "chapped lips, leaving",
-    "top" : 0.376,
-    "width" : 0.19665261243386245
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012308024691358022,
+    "left" : 0.729592208994709,
+    "page" : 20,
+    "text" : "soften dry, chapped lips and",
+    "top" : 0.37063374485596706,
+    "width" : 0.21540779100529095
   },
   {
-    "height" : 0.010883253834642722,
-    "left" : 0.70976512896825394,
-    "page" : 1,
-    "text" : "them soft and smooth.",
-    "top" : 0.39599999999999996,
-    "width" : 0.21046974206349206
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0095641975308641963,
+    "left" : 0.74542857142857133,
+    "page" : 20,
+    "text" : "restore a comfortable feel.",
+    "top" : 0.38526748971193414,
+    "width" : 0.19957142857142854
   },
   {
-    "height" : 0.022377461134785354,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.70823067460317457,
+    "page" : 20,
+    "text" : "Botanical oils support moisture",
+    "top" : 0.39990123456790122,
+    "width" : 0.23676932539682535
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065843,
+    "left" : 0.71682333333333326,
+    "page" : 20,
+    "text" : "and smoothness, making it an",
+    "top" : 0.41453497942386824,
+    "width" : 0.22817666666666661
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.70154133597883594,
+    "page" : 20,
+    "text" : "easy everyday essential. Apply a",
+    "top" : 0.42916872427983543,
+    "width" : 0.24345866402116392
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.69701402116402122,
+    "page" : 20,
+    "text" : "thin layer and reapply whenever",
+    "top" : 0.44380246913580246,
+    "width" : 0.24798597883597873
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.75418753968253971,
+    "page" : 20,
+    "text" : "your lips need extra care.",
+    "top" : 0.45843621399176954,
+    "width" : 0.19081246031746021
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80562589947089935,
+    "page" : 20,
     "text" : "LKR 510",
-    "top" : 0.47799999999999998,
-    "width" : 0.16783028738839284
+    "top" : 0.48999999999999999,
+    "width" : 0.13937410052910051
   },
   {
-    "height" : 0.016356060606060607,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.015500841750841749,
+    "left" : 0.90407777777777765,
+    "page" : 20,
     "text" : "10 g",
-    "top" : 0.51100000000000001,
-    "width" : 0.045684722222222217
+    "top" : 0.52300000000000002,
+    "width" : 0.040922222222222221
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 20,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 20,
+    "text" : "Page 20",
+    "top" : 0.92718294051627381,
+    "width" : 0.053756613756613766
   }
 ]

@@ -1,90 +1,182 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014498335203890761,
     "left" : 0.17000000000000001,
-    "page" : 1,
+    "page" : 21,
     "text" : "PREMIUM BOTANICAL SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 21,
     "text" : "NOURISH",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 21,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027776517343574635,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026875252525252524,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 21,
     "text" : "Nourishing",
     "top" : 0.34599999999999997,
-    "width" : 0.19473484261326057
+    "width" : 0.14128749999999998
   },
   {
-    "height" : 0.021563745820473251,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 21,
     "text" : "Skin Cream",
     "top" : 0.379,
-    "width" : 0.20552619409308862
+    "width" : 0.14468928571428569
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 21,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.71045808531746035,
-    "page" : 1,
-    "text" : "Light, non-greasy care",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.71532654761904768,
+    "page" : 21,
+    "text" : "A light, non greasy cream that",
     "top" : 0.35599999999999998,
-    "width" : 0.20908382936507938
+    "width" : 0.2296734523809523
   },
   {
-    "height" : 0.01076447343808455,
-    "left" : 0.69863583002645502,
-    "page" : 1,
-    "text" : "to nourish skin and leave",
-    "top" : 0.376,
-    "width" : 0.23272833994708997
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.73378690476190478,
+    "page" : 21,
+    "text" : "provides daily moisture and",
+    "top" : 0.37063374485596706,
+    "width" : 0.21121309523809514
   },
   {
-    "height" : 0.013823068649457539,
-    "left" : 0.69466708002645505,
-    "page" : 1,
-    "text" : "it feeling soft and smooth.",
-    "top" : 0.39599999999999996,
-    "width" : 0.24066583994708987
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011863786008230452,
+    "left" : 0.69464873015873019,
+    "page" : 21,
+    "text" : "nourishment to help protect skin",
+    "top" : 0.38526748971193414,
+    "width" : 0.25035126984126976
   },
   {
-    "height" : 0.02193899443655303,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.72632145502645495,
+    "page" : 21,
+    "text" : "against dryness. Its botanical",
+    "top" : 0.39990123456790122,
+    "width" : 0.21867854497354491
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012007510288065841,
+    "left" : 0.69167363756613753,
+    "page" : 21,
+    "text" : "blend supports soft, smooth skin,",
+    "top" : 0.41453497942386824,
+    "width" : 0.25332636243386236
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.70891439153439151,
+    "page" : 21,
+    "text" : "making it a comfortable choice",
+    "top" : 0.42916872427983543,
+    "width" : 0.23608560846560844
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.71124272486772488,
+    "page" : 21,
+    "text" : "for regular care of the face and",
+    "top" : 0.44380246913580246,
+    "width" : 0.23375727513227507
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.78981473544973535,
+    "page" : 21,
+    "text" : "neck after cleansing.",
+    "top" : 0.45843621399176954,
+    "width" : 0.15518526455026455
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80562589947089935,
+    "page" : 21,
     "text" : "LKR 810",
-    "top" : 0.47799999999999998,
-    "width" : 0.16783028738839284
+    "top" : 0.48999999999999999,
+    "width" : 0.13937410052910051
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77716971261160706,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.88979027777777764,
+    "page" : 21,
     "text" : "50 ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.05951865079365079
+    "top" : 0.52300000000000002,
+    "width" : 0.055209722222222209
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 21,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 21,
+    "text" : "Page 21",
+    "top" : 0.92718294051627381,
+    "width" : 0.051135978835978833
   }
 ]

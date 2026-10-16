@@ -1,0 +1,1452 @@
+[
+  {
+    "scene": "01-cream.png",
+    "names": [
+      "Himalaya",
+      "Brightening",
+      "Vitamin C",
+      "Orange Face Serum Cream"
+    ],
+    "headline": "BRIGHT",
+    "header": "PREMIUM VITAMIN C SKINCARE",
+    "prices": [
+      {
+        "price": "1,200",
+        "size": "50 ml"
+      }
+    ],
+    "color": [
+      0.4,
+      0.075,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [],
+    "group": "text-layout",
+    "pdf": "Himalaya-Vitamin-C-Portfolio-A4.pdf",
+    "page": 1,
+    "description": "A lightweight serum cream with Vitamin C, Niacinamide and Hyaluronic Acid helps brighten dull skin and replenish moisture. Its quickly absorbed formula supports a more even looking complexion, leaving skin feeling hydrated, smooth and comfortably refreshed.",
+    "productURL": "https://himalayawellness.in/products/brightening-vitamin-c-orange-face-serum-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Brightening Vitamin C Orange Face Serum Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "02-serum.png",
+    "names": [
+      "Himalaya",
+      "Brightening",
+      "Vitamin C",
+      "Orange Face Serum"
+    ],
+    "headline": "BRIGHT",
+    "header": "PREMIUM VITAMIN C SKINCARE",
+    "prices": [],
+    "color": [
+      0.4,
+      0.075,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.423,
+        0.269
+      ],
+      [
+        0.723,
+        0.269
+      ],
+      [
+        0.723,
+        0.28
+      ],
+      [
+        0.423,
+        0.28
+      ]
+    ],
+    "group": "text-layout",
+    "pdf": "Himalaya-Vitamin-C-Portfolio-A4.pdf",
+    "page": 2,
+    "description": "This lightweight orange face serum combines Vitamin C, Niacinamide and Hyaluronic Acid to hydrate skin and enhance radiance. The antioxidant rich formula helps improve the appearance of dullness and uneven tone, supporting a fresh, visibly brighter complexion.",
+    "productURL": "https://himalayawellness.in/products/brightening-vitamin-c-orange-face-serum",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Brightening Vitamin C Orange Face Serum",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "03-face-wash.png",
+    "names": [
+      "Himalaya",
+      "Brightening",
+      "Vitamin C",
+      "Orange Face Wash"
+    ],
+    "headline": "BRIGHT",
+    "header": "PREMIUM VITAMIN C SKINCARE",
+    "prices": [],
+    "color": [
+      0.4,
+      0.075,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.34,
+        0.234
+      ],
+      [
+        0.671,
+        0.234
+      ],
+      [
+        0.666,
+        0.28
+      ],
+      [
+        0.346,
+        0.28
+      ]
+    ],
+    "group": "text-layout",
+    "pdf": "Himalaya-Vitamin-C-Portfolio-A4.pdf",
+    "page": 3,
+    "description": "Vitamin C and Orange help refresh dull skin while natural cellulose beads lift impurities. This cleansing face wash supports hydration without excessive dryness, leaving skin feeling clean and revitalized with a brighter, more radiant appearance after washing.",
+    "productURL": "https://himalayawellness.in/products/himalaya-brightening-vitamin-c-orange-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Brightening Vitamin C Orange Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01-face-wash.png",
+    "type": "Face Wash",
+    "headline": "CLEAR",
+    "price": "545",
+    "size": "50ml",
+    "priceSourcePage": 10,
+    "benefit": [
+      "Helps visibly reduce",
+      "dark spots and boost",
+      "skin radiance."
+    ],
+    "sourcePhoto": "Turmeric Face Wash/05.01.jpg",
+    "names": [
+      "Himalaya",
+      "Dark Spot Clearing",
+      "Turmeric",
+      "Face Wash"
+    ],
+    "header": "PREMIUM TURMERIC SKINCARE",
+    "prices": [
+      {
+        "price": "545",
+        "size": "50ml"
+      }
+    ],
+    "color": [
+      0.3,
+      0.14,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.34,
+        0.212
+      ],
+      [
+        0.67,
+        0.209
+      ],
+      [
+        0.664,
+        0.28
+      ],
+      [
+        0.347,
+        0.28
+      ]
+    ],
+    "group": "turmeric",
+    "pdf": "Himalaya-Turmeric-Portfolio-A4.pdf",
+    "page": 4,
+    "description": "Cold pressed Turmeric and Licorice extracts help cleanse skin and reduce the appearance of dark spots and blemishes. This botanical face wash supports a brighter looking complexion, making cleansing a refreshing step towards visibly clearer, more radiant skin.",
+    "productURL": "https://himalayawellness.in/products/himalaya-dark-spot-clearing-turmeric-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Dark Spot Clearing Turmeric Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "02-face-scrub.png",
+    "type": "Face Scrub",
+    "headline": "SMOOTH",
+    "price": "790",
+    "size": "50ml",
+    "priceSourcePage": 14,
+    "benefit": [
+      "Exfoliates and improves",
+      "skin texture while helping",
+      "reduce the appearance",
+      "of dark spots."
+    ],
+    "sourcePhoto": "Turmeric Face Scrub/01.01.jpg",
+    "names": [
+      "Himalaya",
+      "Dark Spot Clearing",
+      "Turmeric",
+      "Face Scrub"
+    ],
+    "header": "PREMIUM TURMERIC SKINCARE",
+    "prices": [
+      {
+        "price": "790",
+        "size": "50ml"
+      }
+    ],
+    "color": [
+      0.3,
+      0.14,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.34,
+        0.232
+      ],
+      [
+        0.669,
+        0.232
+      ],
+      [
+        0.665,
+        0.28
+      ],
+      [
+        0.344,
+        0.28
+      ]
+    ],
+    "group": "turmeric",
+    "pdf": "Himalaya-Turmeric-Portfolio-A4.pdf",
+    "page": 5,
+    "description": "Turmeric, Licorice and natural cellulose exfoliants help lift dirt, impurities and dead skin cells. This face scrub refines the feel of uneven texture and helps reduce visible dullness and dark spots, revealing smoother skin with a fresher glow.",
+    "productURL": "https://himalayawellness.in/products/himalaya-dark-spot-clearing-turmeric-face-scrub",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Dark Spot Clearing Turmeric Face Scrub",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "03-face-pack.png",
+    "type": "Face Pack",
+    "headline": "REFINE",
+    "price": "790",
+    "size": "50ml",
+    "priceSourcePage": 15,
+    "benefit": [
+      "Helps visibly reduce",
+      "dark spots and the",
+      "appearance of pores."
+    ],
+    "sourcePhoto": "Turmeric Face Pack/02.jpg",
+    "names": [
+      "Himalaya",
+      "Dark Spot Clearing",
+      "Turmeric",
+      "Face Pack"
+    ],
+    "header": "PREMIUM TURMERIC SKINCARE",
+    "prices": [
+      {
+        "price": "790",
+        "size": "50ml"
+      }
+    ],
+    "color": [
+      0.3,
+      0.14,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.34,
+        0.216
+      ],
+      [
+        0.659,
+        0.216
+      ],
+      [
+        0.651,
+        0.28
+      ],
+      [
+        0.348,
+        0.28
+      ]
+    ],
+    "group": "turmeric",
+    "pdf": "Himalaya-Turmeric-Portfolio-A4.pdf",
+    "page": 6,
+    "description": "Cold pressed Turmeric and Licorice extracts help draw out impurities and refresh dull looking skin. This face pack helps reduce the appearance of dark spots and pores, supporting a clearer complexion and a more radiant look after use.",
+    "productURL": "https://himalayawellness.in/products/himalaya-dark-spot-clearing-turmeric-face-pack",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Dark Spot Clearing Turmeric Face Pack",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "04-face-serum.png",
+    "type": "Face Serum",
+    "headline": "EVEN",
+    "price": "965",
+    "size": "15ml",
+    "priceSourcePage": 17,
+    "benefit": [
+      "Helps visibly reduce",
+      "the appearance of",
+      "dark spots."
+    ],
+    "sourcePhoto": "Turmeric Face Serum/04.02.jpg",
+    "names": [
+      "Himalaya",
+      "Dark Spot Clearing",
+      "Turmeric",
+      "Face Serum"
+    ],
+    "header": "PREMIUM TURMERIC SKINCARE",
+    "prices": [
+      {
+        "price": "965",
+        "size": "15ml"
+      }
+    ],
+    "color": [
+      0.3,
+      0.14,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.452,
+        0.2
+      ],
+      [
+        0.562,
+        0.2
+      ],
+      [
+        0.562,
+        0.33
+      ],
+      [
+        0.452,
+        0.33
+      ]
+    ],
+    "group": "turmeric",
+    "pdf": "Himalaya-Turmeric-Portfolio-A4.pdf",
+    "page": 7,
+    "description": "A concentrated blend of Turmeric, Licorice, Niacinamide and Glycolic Acid helps improve the appearance of dark spots and uneven tone. This face serum supports skin radiance and a clearer looking complexion as part of your regular skincare routine.",
+    "productURL": "https://himalayawellness.in/products/himalaya-dark-spot-clearing-turmeric-face-serum",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Dark Spot Clearing Turmeric Face Serum",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "05-face-cream-refined.png",
+    "type": "Face Cream",
+    "headline": "GLOW",
+    "price": "1,200",
+    "size": "50ml",
+    "priceSourcePage": 23,
+    "benefit": [
+      "Helps visibly reduce",
+      "dark spots and boost",
+      "skin radiance."
+    ],
+    "sourcePhoto": "Turmeric Face Cream/03.01.jpg",
+    "names": [
+      "Himalaya",
+      "Dark Spot Clearing",
+      "Turmeric",
+      "Face Cream"
+    ],
+    "header": "PREMIUM TURMERIC SKINCARE",
+    "prices": [
+      {
+        "price": "1,200",
+        "size": "50ml"
+      }
+    ],
+    "color": [
+      0.3,
+      0.14,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [],
+    "group": "turmeric",
+    "pdf": "Himalaya-Turmeric-Portfolio-A4.pdf",
+    "page": 8,
+    "description": "Turmeric and Licorice extracts combine with Niacinamide and Glycolic Acid to help reduce the appearance of dark spots. This face cream supports a more even looking complexion, improving visible radiance while caring for skin during your regular routine.",
+    "productURL": "https://himalayawellness.in/products/himalaya-dark-spot-clearing-turmeric-face-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Dark Spot Clearing Turmeric Face Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01-rose.png",
+    "type": "Rose Face Cream",
+    "headline": "GLOW",
+    "price": "395",
+    "size": "25 g",
+    "priceSourcePage": 20,
+    "benefit": [
+      "Nourishes and revitalizes",
+      "dull skin for a fresh,",
+      "natural-looking glow."
+    ],
+    "secondPrice": "645",
+    "secondSize": "50 g",
+    "names": [
+      "Himalaya",
+      "Natural Glow",
+      "Rose Face Cream"
+    ],
+    "header": "PREMIUM NATURAL SKINCARE",
+    "prices": [
+      {
+        "price": "395",
+        "size": "25 g"
+      },
+      {
+        "price": "645",
+        "size": "50 g"
+      }
+    ],
+    "color": [
+      0.36,
+      0.025,
+      0.12
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.379,
+        0.216
+      ],
+      [
+        0.609,
+        0.216
+      ],
+      [
+        0.613,
+        0.231
+      ],
+      [
+        0.608,
+        0.28
+      ],
+      [
+        0.386,
+        0.28
+      ]
+    ],
+    "group": "face-creams",
+    "pdf": "Himalaya-Face-Cream-Portfolio-A4.pdf",
+    "page": 9,
+    "description": "Rose and Vitamin E help nourish and refresh dull looking skin, while the cream's moisturizing ingredients support softness. Its mattifying formula leaves no greasy residue and helps reveal a natural glow, making everyday facial care feel light and comfortable.",
+    "productURL": "https://himalayawellness.in/products/natural-glow-rose-face-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Natural Glow Rose Face Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "02-kesar-refined.png",
+    "type": "Kesar Face Cream",
+    "headline": "GLOW",
+    "price": "395",
+    "size": "25 g",
+    "priceSourcePage": 19,
+    "benefit": [
+      "Nourishes and reveals",
+      "clear, healthy-looking skin",
+      "with a natural glow."
+    ],
+    "secondPrice": "645",
+    "secondSize": "50 g",
+    "names": [
+      "Himalaya",
+      "Natural Glow",
+      "Kesar Face Cream"
+    ],
+    "header": "PREMIUM NATURAL SKINCARE",
+    "prices": [
+      {
+        "price": "395",
+        "size": "25 g"
+      },
+      {
+        "price": "645",
+        "size": "50 g"
+      }
+    ],
+    "color": [
+      0.36,
+      0.025,
+      0.12
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.384,
+        0.238
+      ],
+      [
+        0.612,
+        0.238
+      ],
+      [
+        0.607,
+        0.28
+      ],
+      [
+        0.39,
+        0.28
+      ]
+    ],
+    "group": "face-creams",
+    "pdf": "Himalaya-Face-Cream-Portfolio-A4.pdf",
+    "page": 10,
+    "description": "Enriched with Kashmiri Kesar, this face cream helps keep skin moisturized and smooth while supporting a naturally glowing complexion. Apply to cleansed face and neck using gentle upward movements for a simple daily step in your skincare routine.",
+    "productURL": "https://himalayawellness.in/products/natural-glow-kesar-face-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Natural Glow Kesar Face Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01-refined.png",
+    "names": [
+      "Himalaya",
+      "Purifying",
+      "Neem Face Wash"
+    ],
+    "headline": "PURE",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Gently cleanses impurities",
+      "and excess oil, helping",
+      "keep skin fresh and clear."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      },
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 3,
+    "color": [
+      0.01,
+      0.2,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.348,
+        0.265
+      ],
+      [
+        0.652,
+        0.265
+      ],
+      [
+        0.651,
+        0.28
+      ],
+      [
+        0.349,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 11,
+    "description": "Made with five parts of the Neem plant, this soap free cleanser removes dirt, impurities and excess oil. It helps care for pimple prone skin without stripping natural moisture, leaving your face feeling fresh, balanced and visibly clearer.",
+    "productURL": "https://himalayawellness.in/products/himalaya-purifying-neem-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Purifying Neem Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "02-refined.png",
+    "names": [
+      "Himalaya",
+      "Natural Glow",
+      "Kesar Face Wash"
+    ],
+    "headline": "GLOW",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Kesar extract gently",
+      "cleanses skin and reveals",
+      "your natural glow."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      },
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 4,
+    "color": [
+      0.36,
+      0.025,
+      0.12
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.362,
+        0.236
+      ],
+      [
+        0.638,
+        0.236
+      ],
+      [
+        0.631,
+        0.28
+      ],
+      [
+        0.37,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 12,
+    "description": "Kesar extract helps reveal a natural glow while this gentle face wash removes everyday impurities and nourishes skin. Work into a light lather on damp skin, then rinse to leave your face feeling clean, refreshed and ready for moisturizing.",
+    "productURL": "https://himalayawellness.in/products/natural-glow-kesar-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Natural Glow Kesar Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "03.png",
+    "names": [
+      "Himalaya",
+      "Moisturizing",
+      "Aloe Vera Face Wash"
+    ],
+    "headline": "DEWY",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Cleanses while helping",
+      "prevent dryness, leaving",
+      "skin soft and refreshed."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      },
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 5,
+    "color": [
+      0.015,
+      0.23,
+      0.22
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.36,
+        0.244
+      ],
+      [
+        0.644,
+        0.244
+      ],
+      [
+        0.636,
+        0.28
+      ],
+      [
+        0.365,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 13,
+    "description": "Aloe Vera and Cucumber help hydrate and refresh skin while this gentle cleanser washes away impurities. The soap free formulation cleanses without excessive dryness, helping maintain a soft, comfortable feel and leaving your face fresh after each wash.",
+    "productURL": "https://himalayawellness.in/products/himalaya-hydrating-aloe-vera-face-wash",
+    "linkLabel": "CURRENT PRODUCT",
+    "officialProductTitle": "Himalaya Hydrating Aloe Vera Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "04.png",
+    "names": [
+      "Himalaya",
+      "Oil Clear",
+      "Lemon Face Wash"
+    ],
+    "headline": "FRESH",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Deep cleanses oily skin",
+      "and removes excess oil",
+      "for a fresh, clean feel."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      },
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 6,
+    "color": [
+      0.22,
+      0.19,
+      0.01
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.351,
+        0.221
+      ],
+      [
+        0.649,
+        0.221
+      ],
+      [
+        0.642,
+        0.28
+      ],
+      [
+        0.362,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 14,
+    "description": "Lemon, Honey and natural cleansing beads work together to remove excess oil and everyday impurities. This soap free face wash helps refresh oily skin and support a cleaner feeling complexion, leaving your face comfortable, fresh and ready for moisturizing.",
+    "productURL": "https://himalayawellness.in/products/oil-clear-lemon-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Oil Clear Lemon Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "05-refined.png",
+    "names": [
+      "Himalaya",
+      "Clear Complexion",
+      "Brightening",
+      "Face Wash"
+    ],
+    "headline": "BRIGHT",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Gently cleanses skin",
+      "for a visibly brighter,",
+      "clearer-looking complexion."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      },
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 7,
+    "color": [
+      0.28,
+      0.07,
+      0.22
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.355,
+        0.242
+      ],
+      [
+        0.647,
+        0.242
+      ],
+      [
+        0.64,
+        0.28
+      ],
+      [
+        0.362,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 15,
+    "description": "Licorice and Saffron help support a radiant looking complexion while this face wash cleanses everyday impurities. Its botanical blend refreshes dull skin and promotes a more even appearance, leaving your face feeling clean and prepared for your skincare routine.",
+    "productURL": "https://himalayawellness.in/products/clear-complexion-brightening-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Clear Complexion Brightening Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "06-refined.png",
+    "names": [
+      "Himalaya",
+      "Deep Cleansing",
+      "Apricot Face Wash"
+    ],
+    "headline": "CLEAN",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Deep cleanses skin",
+      "and helps prevent",
+      "blackheads."
+    ],
+    "prices": [
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 8,
+    "color": [
+      0.34,
+      0.13,
+      0.025
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.361,
+        0.257
+      ],
+      [
+        0.64,
+        0.257
+      ],
+      [
+        0.637,
+        0.28
+      ],
+      [
+        0.365,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 16,
+    "description": "Apricot granules gently lift dead skin cells and help clear clogged pores, while Aloe Vera supports natural moisture. This cleansing face wash leaves skin feeling softer and smoother, helping reveal a fresh appearance with a naturally healthy looking glow.",
+    "productURL": "https://himalayawellness.in/products/gentle-exfoliating-apricot-face-wash",
+    "linkLabel": "CURRENT PRODUCT",
+    "officialProductTitle": "Gentle Exfoliating Apricot Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "07-refined.png",
+    "names": [
+      "Himalaya",
+      "Tan Removal",
+      "Orange Face Wash"
+    ],
+    "headline": "FRESH",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Effectively cleanses",
+      "and helps visibly",
+      "reduce tan."
+    ],
+    "prices": [
+      {
+        "price": "885",
+        "size": "100 ml"
+      }
+    ],
+    "priceSourcePage": 9,
+    "color": [
+      0.36,
+      0.1,
+      0.015
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.363,
+        0.243
+      ],
+      [
+        0.64,
+        0.243
+      ],
+      [
+        0.634,
+        0.28
+      ],
+      [
+        0.368,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 17,
+    "description": "Orange Peel, Honey and Papain work together to cleanse skin and improve the appearance of tan and dullness. This soap free face wash helps remove dead skin cells while soothing skin, leaving your face feeling refreshed and visibly smoother.",
+    "productURL": "https://himalayawellness.in/products/tan-removal-orange-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Tan Removal Orange Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "08-refined.png",
+    "names": [
+      "Himalaya",
+      "Natural Glow",
+      "Rose Face Wash"
+    ],
+    "headline": "GLOW",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Revitalizes dull skin",
+      "and reveals your",
+      "natural glow."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      }
+    ],
+    "priceSourcePage": 11,
+    "color": [
+      0.36,
+      0.025,
+      0.12
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.351,
+        0.235
+      ],
+      [
+        0.652,
+        0.234
+      ],
+      [
+        0.644,
+        0.28
+      ],
+      [
+        0.359,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 18,
+    "description": "Rose flower extract and oil help support soft, supple skin with a natural glow. This fragrant face wash cleanses everyday impurities and refreshes your complexion, leaving skin feeling clean and comfortable as part of a simple daily cleansing routine.",
+    "productURL": "https://himalayawellness.in/products/himalaya-natural-glow-rose-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Natural Glow Rose Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "09-refined.png",
+    "names": [
+      "Himalaya",
+      "Pollution Detox",
+      "Charcoal Face Wash"
+    ],
+    "headline": "DETOX",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Activated charcoal and",
+      "green tea help detoxify",
+      "and purify skin."
+    ],
+    "prices": [
+      {
+        "price": "545",
+        "size": "50 ml"
+      }
+    ],
+    "priceSourcePage": 12,
+    "color": [
+      0.02,
+      0.18,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.343,
+        0.246
+      ],
+      [
+        0.656,
+        0.246
+      ],
+      [
+        0.65,
+        0.28
+      ],
+      [
+        0.349,
+        0.28
+      ]
+    ],
+    "group": "face-washes",
+    "pdf": "Himalaya-Face-Wash-Portfolio-A4.pdf",
+    "page": 19,
+    "description": "Activated Coconut Charcoal and Green Tea help lift impurities and excess oil associated with daily pollution exposure. This soap free face wash purifies and refreshes skin, leaving a cleaner feeling complexion with a healthy looking appearance after each wash.",
+    "productURL": "https://himalayawellness.in/products/himalaya-pollution-detox-charcoal-face-wash",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Pollution Detox Charcoal Face Wash",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Lip Balm"
+    ],
+    "headline": "SOFT",
+    "header": "PREMIUM BOTANICAL LIP CARE",
+    "benefit": [
+      "Nourishes dry and",
+      "chapped lips, leaving",
+      "them soft and smooth."
+    ],
+    "prices": [
+      {
+        "price": "510",
+        "size": "10 g"
+      }
+    ],
+    "priceSourcePage": 25,
+    "color": [
+      0.29,
+      0.14,
+      0.035
+    ],
+    "whiteRight": false,
+    "mask": [],
+    "group": "lip-balm",
+    "pdf": "Himalaya-Lip-Balm-Portfolio-A4.pdf",
+    "page": 20,
+    "description": "This nourishing lip balm helps soften dry, chapped lips and restore a comfortable feel. Botanical oils support moisture and smoothness, making it an easy everyday essential. Apply a thin layer and reapply whenever your lips need extra care.",
+    "productURL": "https://himalayawellness.in/products/lip-balm",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Lip Balm",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Nourishing",
+      "Skin Cream"
+    ],
+    "headline": "NOURISH",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Light, non-greasy care",
+      "to nourish skin and leave",
+      "it feeling soft and smooth."
+    ],
+    "prices": [
+      {
+        "price": "810",
+        "size": "50 ml"
+      }
+    ],
+    "priceSourcePage": 21,
+    "color": [
+      0.015,
+      0.22,
+      0.19
+    ],
+    "whiteRight": false,
+    "mask": [],
+    "group": "nourishing-cream",
+    "pdf": "Himalaya-Nourishing-Cream-Portfolio-A4.pdf",
+    "page": 21,
+    "description": "A light, non greasy cream that provides daily moisture and nourishment to help protect skin against dryness. Its botanical blend supports soft, smooth skin, making it a comfortable choice for regular care of the face and neck after cleansing.",
+    "productURL": "https://himalayawellness.in/products/nourishing-skin-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Nourishing Skin Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Purifying",
+      "Neem Pack"
+    ],
+    "headline": "PURE",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Absorbs oil and impurities",
+      "to help purify and",
+      "clear skin."
+    ],
+    "prices": [
+      {
+        "price": "790",
+        "size": "50 g"
+      }
+    ],
+    "size": "50 g",
+    "priceStatus": "Confirmed by user: LKR 790 / 50 g",
+    "color": [
+      0.01,
+      0.2,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.347,
+        0.211
+      ],
+      [
+        0.658,
+        0.208
+      ],
+      [
+        0.659,
+        0.237
+      ],
+      [
+        0.652,
+        0.28
+      ],
+      [
+        0.354,
+        0.28
+      ]
+    ],
+    "group": "neem-pack",
+    "pdf": "Himalaya-Neem-Pack-Portfolio-A4.pdf",
+    "page": 22,
+    "description": "Neem, Turmeric and Fuller's Earth help absorb excess oil, remove impurities and cleanse clogged pores. This purifying face pack is suited to oily, pimple prone skin, leaving your complexion feeling refreshed and clearer as part of regular skincare.",
+    "productURL": "https://himalayawellness.in/products/purifying-neem-pack",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Purifying Neem Pack",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01.png",
+    "names": [
+      "Himalaya",
+      "Purifying",
+      "Neem Face Serum"
+    ],
+    "headline": "PURE",
+    "header": "PREMIUM BOTANICAL SKINCARE",
+    "benefit": [
+      "Helps reduce pimples",
+      "and acne for",
+      "clearer-looking skin."
+    ],
+    "prices": [
+      {
+        "price": "965",
+        "size": "15 ml"
+      }
+    ],
+    "priceSourcePage": 16,
+    "color": [
+      0.01,
+      0.2,
+      0.14
+    ],
+    "whiteRight": true,
+    "mask": [],
+    "group": "neem-serum",
+    "pdf": "Himalaya-Neem-Serum-Portfolio-A4.pdf",
+    "page": 23,
+    "description": "Neem based care helps reduce the appearance of pimples and supports a clearer looking complexion. This facial serum fits into a simple routine after cleansing, helping care for blemish prone skin while promoting a fresh and balanced appearance.",
+    "productURL": "https://himalayawellness.in/products/purifying-neem-face-serum",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Purifying Neem Face Serum",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01-refined.png",
+    "names": [
+      "Himalaya",
+      "Revitalizing",
+      "Night Cream"
+    ],
+    "headline": "RESTORE",
+    "header": "PREMIUM BOTANICAL NIGHT CARE",
+    "benefit": [
+      "Helps restore moisture",
+      "balance and nourishes",
+      "skin overnight."
+    ],
+    "prices": [
+      {
+        "price": "1,535",
+        "size": "50 g"
+      }
+    ],
+    "size": "50 g",
+    "color": [
+      0.2,
+      0.07,
+      0.3
+    ],
+    "whiteRight": true,
+    "mask": [],
+    "priceSource": "Product Detailer v3 (1).pdf, page 22",
+    "group": "night-cream",
+    "pdf": "Himalaya-Night-Cream-Portfolio-A4.pdf",
+    "page": 24,
+    "description": "White Lily and Tomato enrich this nourishing night cream, designed to complement the skin's natural overnight renewal cycle. It helps restore moisture balance and care for tired skin, leaving your face feeling softer and refreshed as part of evening skincare.",
+    "productURL": "https://himalayawellness.in/products/revitalizing-night-cream",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Revitalizing Night Cream",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "01-refined.png",
+    "names": [
+      "Himalaya",
+      "Anti-Dandruff",
+      "Tea Tree Shampoo"
+    ],
+    "headline": "FRESH",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps fight dandruff",
+      "and leaves hair feeling",
+      "clean and refreshed."
+    ],
+    "prices": [
+      {
+        "price": "450",
+        "size": "80 ml"
+      },
+      {
+        "price": "850",
+        "size": "180 ml"
+      }
+    ],
+    "size": "180 ml",
+    "color": [
+      0.01,
+      0.21,
+      0.2
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.376,
+        0.2443939393939394
+      ],
+      [
+        0.39,
+        0.2443939393939394
+      ],
+      [
+        0.445,
+        0.2613636363636364
+      ],
+      [
+        0.628,
+        0.271969696969697
+      ],
+      [
+        0.643,
+        0.27939393939393936
+      ],
+      [
+        0.645,
+        0.3727272727272728
+      ],
+      [
+        0.375,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Product Detailer v3 (1).pdf, page 26",
+    "group": "hair-care",
+    "pdf": "Himalaya-Hair-Care-Portfolio-A4.pdf",
+    "page": 25,
+    "description": "Tea Tree Oil, Aloe Vera and natural proteins help cleanse hair, fight visible dandruff and soothe the scalp. This nourishing shampoo supports softer, smoother hair, making regular washing a refreshing step towards a clean scalp and healthy looking hair.",
+    "productURL": "https://himalayawellness.in/products/himalaya-anti-dandruff-tea-tree-shampoo",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Anti-Dandruff Tea Tree Shampoo",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "02-refined.png",
+    "names": [
+      "Himalaya",
+      "Anti-Hair Fall",
+      "Bhringaraja",
+      "Shampoo"
+    ],
+    "headline": "STRONG",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps reduce hair fall",
+      "and care for weak hair",
+      "with Bhringaraja."
+    ],
+    "prices": [
+      {
+        "price": "450",
+        "size": "80 ml"
+      },
+      {
+        "price": "850",
+        "size": "180 ml"
+      }
+    ],
+    "size": "180 ml",
+    "color": [
+      0.16,
+      0.2,
+      0.06
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.39,
+        0.2645454545454546
+      ],
+      [
+        0.42,
+        0.2772727272727272
+      ],
+      [
+        0.64,
+        0.29530303030303034
+      ],
+      [
+        0.64,
+        0.3727272727272728
+      ],
+      [
+        0.39,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Product Detailer v3 (1).pdf, page 27",
+    "group": "hair-care",
+    "pdf": "Himalaya-Hair-Care-Portfolio-A4.pdf",
+    "page": 26,
+    "description": "Bhringaraja, Palasha and natural proteins help nourish hair and reduce hair fall caused by breakage. This shampoo cleanses hair and scalp while supporting strength and smoothness, leaving hair feeling cared for and ready for conditioning after every wash.",
+    "productURL": "https://himalayawellness.in/products/himalaya-anti-hair-fall-bhringaraja-shampoo",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Himalaya Anti-Hair Fall Bhringaraja Shampoo",
+    "sourceChecked": "2026-10-16"
+  },
+  {
+    "scene": "03.png",
+    "names": [
+      "Himalaya",
+      "Anti-Hair Fall",
+      "Bhringaraja",
+      "Conditioner"
+    ],
+    "headline": "NOURISH",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps reduce hair fall",
+      "and nourishes weak hair",
+      "with natural proteins."
+    ],
+    "prices": [
+      {
+        "price": "490",
+        "size": "80 ml"
+      }
+    ],
+    "size": "80 ml",
+    "color": [
+      0.32,
+      0.06,
+      0.15
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.37,
+        0.24651515151515155
+      ],
+      [
+        0.378,
+        0.24015151515151517
+      ],
+      [
+        0.39,
+        0.2390909090909091
+      ],
+      [
+        0.432,
+        0.24863636363636366
+      ],
+      [
+        0.63,
+        0.25393939393939396
+      ],
+      [
+        0.642,
+        0.2613636363636364
+      ],
+      [
+        0.642,
+        0.3727272727272728
+      ],
+      [
+        0.37,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Not in old detailer; awaiting user price. Size from supplied front label.",
+    "group": "hair-care",
+    "pdf": "Himalaya-Hair-Care-Portfolio-A4.pdf",
+    "page": 27,
+    "description": "Bhringaraja, Palasha and natural Chickpea proteins help nourish and detangle hair while reducing hair fall caused by breakage. This conditioner softens and smooths strands, supporting easier combing and leaving hair feeling silky and manageable after your regular shampoo routine.",
+    "productURL": "https://himalayawellness.in/products/anti-hair-fall-bhringaraja-conditioner",
+    "linkLabel": "VIEW PRODUCT",
+    "officialProductTitle": "Anti-Hair Fall Bhringaraja Conditioner",
+    "sourceChecked": "2026-10-16"
+  }
+]

@@ -1,90 +1,182 @@
 [
   {
-    "height" : 0.012422053872053872,
+    "align" : "center",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.014498335203890761,
     "left" : 0.17000000000000001,
-    "page" : 1,
+    "page" : 23,
     "text" : "PREMIUM BOTANICAL SKINCARE",
     "top" : 0.059999999999999998,
     "width" : 0.66000000000000003
   },
   {
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
-    "page" : 1,
+    "page" : 23,
     "text" : "PURE",
     "top" : 0.11,
     "width" : 0.88
   },
   {
-    "height" : 0.027927312768892629,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026811111111111112,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 23,
     "text" : "Himalaya",
     "top" : 0.313,
-    "width" : 0.16899341724537034
+    "width" : 0.12160250000000002
   },
   {
-    "height" : 0.027836835513701832,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.026939393939393937,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 23,
     "text" : "Purifying",
     "top" : 0.34599999999999997,
-    "width" : 0.16297926483961639
+    "width" : 0.11869964285714284
   },
   {
-    "height" : 0.021277234512369059,
+    "align" : "left",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.022930555555555555,
     "left" : 0.059999999999999998,
-    "page" : 1,
+    "page" : 23,
     "text" : "Neem Face Serum",
     "top" : 0.379,
-    "width" : 0.29999999999999999
+    "width" : 0.23195642857142856
   },
   {
-    "height" : 0.0093290123456790126,
-    "left" : 0.74447523148148143,
-    "page" : 1,
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.011939805462027683,
+    "left" : 0.80264240740740733,
+    "page" : 23,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.20052476851851853
+    "width" : 0.14235759259259259
   },
   {
-    "height" : 0.013526117658062104,
-    "left" : 0.71383887235449728,
-    "page" : 1,
-    "text" : "Helps reduce pimples",
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.69368111111111108,
+    "page" : 23,
+    "text" : "Neem based care helps reduce the",
     "top" : 0.35599999999999998,
-    "width" : 0.20232225529100531
+    "width" : 0.25131888888888887
   },
   {
-    "height" : 0.010883253834642722,
-    "left" : 0.75645568783068773,
-    "page" : 1,
-    "text" : "and acne for",
-    "top" : 0.376,
-    "width" : 0.11708862433862435
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881033,
+    "left" : 0.74693291666666661,
+    "page" : 23,
+    "text" : "appearance of pimples and",
+    "top" : 0.3699685746352413,
+    "width" : 0.19806708333333331
   },
   {
-    "height" : 0.013704288252899365,
-    "left" : 0.72156638558201058,
-    "page" : 1,
-    "text" : "clearer-looking skin.",
-    "top" : 0.39599999999999996,
-    "width" : 0.18686722883597881
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881032,
+    "left" : 0.7567754166666667,
+    "page" : 23,
+    "text" : "supports a clearer looking",
+    "top" : 0.38393714927048256,
+    "width" : 0.18822458333333325
   },
   {
-    "height" : 0.02278460878314394,
-    "left" : 0.77827706473214275,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881033,
+    "left" : 0.70458194444444433,
+    "page" : 23,
+    "text" : "complexion. This facial serum fits",
+    "top" : 0.39790572390572387,
+    "width" : 0.24041805555555554
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011461714365881033,
+    "left" : 0.7567401388888888,
+    "page" : 23,
+    "text" : "into a simple routine after",
+    "top" : 0.41187429854096524,
+    "width" : 0.18825986111111109
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.6914762499999999,
+    "page" : 23,
+    "text" : "cleansing, helping care for blemish",
+    "top" : 0.4258428731762065,
+    "width" : 0.25352374999999994
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011598905723905725,
+    "left" : 0.69103527777777773,
+    "page" : 23,
+    "text" : "prone skin while promoting a fresh",
+    "top" : 0.43981144781144782,
+    "width" : 0.25396472222222222
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011324523007856342,
+    "left" : 0.75248916666666665,
+    "page" : 23,
+    "text" : "and balanced appearance.",
+    "top" : 0.45378002244668908,
+    "width" : 0.19251083333333333
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.021309203142536478,
+    "left" : 0.80697989417989413,
+    "page" : 23,
     "text" : "LKR 965",
-    "top" : 0.47799999999999998,
-    "width" : 0.16672293526785714
+    "top" : 0.48999999999999999,
+    "width" : 0.13802010582010579
   },
   {
-    "height" : 0.012917368125701456,
-    "left" : 0.77827706473214275,
-    "page" : 1,
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012846099887766553,
+    "left" : 0.89135257936507939,
+    "page" : 23,
     "text" : "15 ml",
-    "top" : 0.51100000000000001,
-    "width" : 0.058208333333333327
+    "top" : 0.52300000000000002,
+    "width" : 0.053647420634920631
+  },
+  {
+    "align" : "right",
+    "font" : "GothamCondensed-Medium",
+    "height" : 0.0072491676019453806,
+    "left" : 0.86881679894179886,
+    "page" : 23,
+    "text" : "VIEW PRODUCT",
+    "top" : 0.85786008230452682,
+    "width" : 0.076183201058201047
+  },
+  {
+    "align" : "left",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01054769921436588,
+    "left" : 0.071759259259259259,
+    "page" : 23,
+    "text" : "Page 23",
+    "top" : 0.92718294051627381,
+    "width" : 0.053269444444444446
   }
 ]
