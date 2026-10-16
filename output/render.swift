@@ -57,9 +57,11 @@ for group in groups where selected == nil || selected == group {
     return lines
  }
  for p in ps {
-    let ivory = NSColor.white
-    let rightInk = NSColor.white
-    let productNameInk = NSColor.white
+    let ink=NSColor(srgbRed:p.color[0],green:p.color[1],blue:p.color[2],alpha:1)
+    let ivory=NSColor(srgbRed:1,green:0.975,blue:0.90,alpha:1)
+    let rightInk=p.whiteRight ? ivory : ink
+    // Deep teal is taken from the Himalaya logo and product caps.
+    let productNameInk=NSColor(srgbRed:0.0,green:0.31,blue:0.33,alpha:1)
     let image=NSImage(contentsOf:root.appendingPathComponent("\(group)/scenes/\(p.scene)"))!
     var rect=CGRect(origin:.zero,size:image.size)
     let cg=image.cgImage(forProposedRect:&rect,context:nil,hints:nil)!
@@ -67,30 +69,6 @@ for group in groups where selected == nil || selected == group {
     ctx.saveGState();ctx.clip(to:media)
     let scale=max(W/Double(cg.width),H/Double(cg.height)),iw=Double(cg.width)*scale,ih=Double(cg.height)*scale
     ctx.draw(cg,in:CGRect(x:(W-iw)/2,y:(H-ih)/2,width:iw,height:ih));ctx.restoreGState()
-    // Feathered background exposure adjustments keep the existing artwork and
-    // fixed white typography/QR geometry intact, without visible panels.
-    func shade(cx: Double, cy: Double, rx: Double, ry: Double, opacity: Double) {
-        ctx.saveGState()
-        ctx.translateBy(x: W*cx, y: H*(1-cy))
-        ctx.scaleBy(x: W*rx, y: H*ry)
-        // Nested transparent disks preserve the fade in PDF viewers.
-        ctx.setFillColor(CGColor(gray: 0, alpha: 1))
-        var previous = 0.0
-        for n in 0...120 {
-            let radius = 1-0.45*Double(n)/120
-            let t = Double(n)/120
-            let target = opacity*t*t*(3-2*t)
-            ctx.setAlpha((target-previous)/(1-previous))
-            ctx.fillEllipse(in: CGRect(x: -radius, y: -radius, width: radius*2, height: radius*2))
-            previous = target
-        }
-        ctx.restoreGState()
-    }
-    shade(cx: 0.50, cy: 0.12, rx: 0.85, ry: 0.20, opacity: 0.48)
-    shade(cx: 0.16, cy: 0.39, rx: 0.25, ry: 0.18, opacity: 0.63)
-    shade(cx: 0.92, cy: 0.46, rx: 0.28, ry: 0.25, opacity: 0.68)
-    shade(cx: 0.94, cy: 0.94, rx: 0.22, ry: 0.18, opacity: 0.88)
-    shade(cx: 0.04, cy: 0.96, rx: 0.24, ry: 0.13, opacity: 0.67)
     draw(p.header,x:W*0.5,top:H*0.060,font:heading,size:17,tracking:3.2,color:rightInk,align:"center",fitWidth:W*0.66,page:p.page)
     ctx.saveGState()
     if !p.mask.isEmpty {
