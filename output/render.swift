@@ -42,7 +42,7 @@ for group in groups where selected == nil || selected == group {
     let left=align == "right" ? x-bw : align == "center" ? x-bw/2 : x
     precondition(left >= 0.055*W-0.1 && left+bw <= 0.945*W+0.1, "Horizontal overflow: \(text)")
     precondition(top >= 0.055*H && top+bh < 0.95*H, "Vertical overflow: \(text)")
-    ctx.saveGState();if color == NSColor.white { ctx.setShadow(offset:CGSize(width:0,height:-0.4),blur:2,color:NSColor.black.withAlphaComponent(0.6).cgColor) };ctx.translateBy(x:left-b.minX*sx,y:H-top-b.maxY*sy);ctx.scaleBy(x:sx,y:sy)
+    ctx.saveGState();ctx.translateBy(x:left-b.minX*sx,y:H-top-b.maxY*sy);ctx.scaleBy(x:sx,y:sy)
     ctx.textMatrix = .identity;ctx.textPosition = .zero;CTLineDraw(l,ctx);ctx.restoreGState()
     audit.append(["page":page,"text":text,"font":font,"align":align,"left":left/W,"top":top/H,"width":bw/W,"height":bh/H])
     return CGRect(x:left,y:top,width:bw,height:bh)
@@ -79,7 +79,7 @@ for group in groups where selected == nil || selected == group {
     for (n,name) in p.names.enumerated() {
         draw(name,x:W*0.060,top:H*(0.313+Double(n)*0.033),font:heading,size:27,color:.white,maxWidth:W*0.30,page:p.page)
     }
-    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:heading,size:14,tracking:1.0,color:.white,align:"right",maxWidth:W*0.26,page:p.page)
+    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:.white,align:"right",maxWidth:W*0.26,page:p.page)
     let count=p.description.split(separator:" ").count
     precondition((35...40).contains(count))
     var descSize=11.5
@@ -109,7 +109,7 @@ for group in groups where selected == nil || selected == group {
         ctx.fill(CGRect(x:x+Double(col+4)*unit,y:y+Double(n-1-row+4)*unit,width:unit,height:unit))
     }}
     ctx.restoreGState()
-    draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:heading,size:8.5,tracking:0.8,color:.white,align:"right",page:p.page)
+    draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:body,size:8.5,tracking:0.8,color:.white,align:"right",page:p.page)
     ctx.setURL(URL(string:p.productURL)! as CFURL,for:CGRect(x:x,y:y,width:qrSize,height:qrSize))
     // A small ivory page-number plaque stays readable over every photograph.
     let plaque=CGRect(x:W*0.060,y:H*0.055,width:49,height:21)
