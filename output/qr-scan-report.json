@@ -1,0 +1,21 @@
+{
+  "style": "White modules with transparent background, as requested",
+  "pages": 27,
+  "decoded": 14,
+  "notDecoded": [
+    2,
+    5,
+    6,
+    9,
+    13,
+    14,
+    15,
+    18,
+    20,
+    21,
+    24,
+    25,
+    26
+  ],
+  "note": "Photo backgrounds reduce scan reliability. PDF QR areas retain clickable official product URLs."
+}

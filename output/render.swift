@@ -60,6 +60,8 @@ for group in groups where selected == nil || selected == group {
     let ink=NSColor(srgbRed:p.color[0],green:p.color[1],blue:p.color[2],alpha:1)
     let ivory=NSColor(srgbRed:1,green:0.975,blue:0.90,alpha:1)
     let rightInk=p.whiteRight ? ivory : ink
+    // Deep teal is taken from the Himalaya logo and product caps.
+    let productNameInk=NSColor(srgbRed:0.0,green:0.31,blue:0.33,alpha:1)
     let image=NSImage(contentsOf:root.appendingPathComponent("\(group)/scenes/\(p.scene)"))!
     var rect=CGRect(origin:.zero,size:image.size)
     let cg=image.cgImage(forProposedRect:&rect,context:nil,hints:nil)!
@@ -77,7 +79,7 @@ for group in groups where selected == nil || selected == group {
     draw(p.headline,x:W*0.065,top:H*0.110,font:heading,size:130,color:ivory,fitWidth:W*0.88,fitHeight:H*0.163,page:p.page)
     ctx.restoreGState()
     for (n,name) in p.names.enumerated() {
-        draw(name,x:W*0.060,top:H*(0.313+Double(n)*0.033),font:heading,size:27,color:.white,maxWidth:W*0.30,page:p.page)
+        draw(name,x:W*0.060,top:H*(0.313+Double(n)*0.033),font:heading,size:27,color:productNameInk,maxWidth:W*0.30,page:p.page)
     }
     draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:.white,align:"right",maxWidth:W*0.26,page:p.page)
     let count=p.description.split(separator:" ").count
@@ -94,16 +96,14 @@ for group in groups where selected == nil || selected == group {
     let priceTop=max(H*0.490,bottom+15)
     for (n,price) in p.prices.enumerated() {
         let top=priceTop+Double(n)*H*0.072
-        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:rightInk,align:"right",page:p.page)
-        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:rightInk,align:"right",page:p.page)
+        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:.white,align:"right",page:p.page)
+        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:.white,align:"right",page:p.page)
     }
-    // Vector QR modules retain sharp edges in print; four-module quiet zone.
+    // White vector QR modules on the photograph, with no backing or border.
     let matrix=qrMatrices[p.page-1]
     precondition(matrix.url == p.productURL)
     let n=matrix.modules.count
     let qrSize=22.0/25.4*72,x=W*0.945-qrSize,y=H*0.055,unit=qrSize/Double(n+8)
-    ctx.setFillColor(NSColor(srgbRed:0.015,green:0.13,blue:0.11,alpha:1).cgColor)
-    ctx.fill(CGRect(x:x,y:y,width:qrSize,height:qrSize))
     ctx.saveGState();ctx.setShouldAntialias(false);ctx.setFillColor(NSColor.white.cgColor)
     for row in 0..<n {for col in 0..<n where matrix.modules[row][col] {
         ctx.fill(CGRect(x:x+Double(col+4)*unit,y:y+Double(n-1-row+4)*unit,width:unit,height:unit))
@@ -111,11 +111,8 @@ for group in groups where selected == nil || selected == group {
     ctx.restoreGState()
     draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:body,size:8.5,tracking:0.8,color:.white,align:"right",page:p.page)
     ctx.setURL(URL(string:p.productURL)! as CFURL,for:CGRect(x:x,y:y,width:qrSize,height:qrSize))
-    // A small ivory page-number plaque stays readable over every photograph.
-    let plaque=CGRect(x:W*0.060,y:H*0.055,width:49,height:21)
-    ctx.setFillColor(NSColor(srgbRed:1,green:0.975,blue:0.90,alpha:0.94).cgColor)
-    ctx.addPath(CGPath(roundedRect:plaque,cornerWidth:3,cornerHeight:3,transform:nil));ctx.fillPath()
-    draw(String(format:"Page %02d",p.page),x:W*0.060+7,top:H-plaque.maxY+6,font:body,size:10,color:NSColor(srgbRed:0.02,green:0.22,blue:0.18,alpha:1),page:p.page)
+    // Plain page label, aligned with the left text column.
+    draw(String(format:"Page %02d",p.page),x:W*0.060,top:H*0.927,font:body,size:10,color:.white,page:p.page)
     ctx.endPDFPage()
  }
  ctx.closePDF()
