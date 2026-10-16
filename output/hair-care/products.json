@@ -1,0 +1,180 @@
+[
+  {
+    "scene": "01-refined.png",
+    "names": [
+      "Himalaya",
+      "Anti-Dandruff",
+      "Tea Tree Shampoo"
+    ],
+    "headline": "FRESH",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps fight dandruff",
+      "and leaves hair feeling",
+      "clean and refreshed."
+    ],
+    "prices": [
+      {
+        "price": "450",
+        "size": "80 ml"
+      },
+      {
+        "price": "850",
+        "size": "180 ml"
+      }
+    ],
+    "size": "180 ml",
+    "color": [
+      0.01,
+      0.21,
+      0.2
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.376,
+        0.2443939393939394
+      ],
+      [
+        0.39,
+        0.2443939393939394
+      ],
+      [
+        0.445,
+        0.2613636363636364
+      ],
+      [
+        0.628,
+        0.271969696969697
+      ],
+      [
+        0.643,
+        0.27939393939393936
+      ],
+      [
+        0.645,
+        0.3727272727272728
+      ],
+      [
+        0.375,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Product Detailer v3 (1).pdf, page 26"
+  },
+  {
+    "scene": "02-refined.png",
+    "names": [
+      "Himalaya",
+      "Anti-Hair Fall",
+      "Bhringaraja",
+      "Shampoo"
+    ],
+    "headline": "STRONG",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps reduce hair fall",
+      "and care for weak hair",
+      "with Bhringaraja."
+    ],
+    "prices": [
+      {
+        "price": "450",
+        "size": "80 ml"
+      },
+      {
+        "price": "850",
+        "size": "180 ml"
+      }
+    ],
+    "size": "180 ml",
+    "color": [
+      0.16,
+      0.2,
+      0.06
+    ],
+    "whiteRight": false,
+    "mask": [
+      [
+        0.39,
+        0.2645454545454546
+      ],
+      [
+        0.42,
+        0.2772727272727272
+      ],
+      [
+        0.64,
+        0.29530303030303034
+      ],
+      [
+        0.64,
+        0.3727272727272728
+      ],
+      [
+        0.39,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Product Detailer v3 (1).pdf, page 27"
+  },
+  {
+    "scene": "03.png",
+    "names": [
+      "Himalaya",
+      "Anti-Hair Fall",
+      "Bhringaraja",
+      "Conditioner"
+    ],
+    "headline": "NOURISH",
+    "header": "PREMIUM BOTANICAL HAIR CARE",
+    "benefit": [
+      "Helps reduce hair fall",
+      "and nourishes weak hair",
+      "with natural proteins."
+    ],
+    "prices": [],
+    "size": "80 ml",
+    "color": [
+      0.32,
+      0.06,
+      0.15
+    ],
+    "whiteRight": true,
+    "mask": [
+      [
+        0.37,
+        0.24651515151515155
+      ],
+      [
+        0.378,
+        0.24015151515151517
+      ],
+      [
+        0.39,
+        0.2390909090909091
+      ],
+      [
+        0.432,
+        0.24863636363636366
+      ],
+      [
+        0.63,
+        0.25393939393939396
+      ],
+      [
+        0.642,
+        0.2613636363636364
+      ],
+      [
+        0.642,
+        0.3727272727272728
+      ],
+      [
+        0.37,
+        0.3727272727272728
+      ]
+    ],
+    "priceSource": "Not in old detailer; awaiting user price. Size from supplied front label."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "scene": "01-refined.png",
+    "names": [
+      "Himalaya",
+      "Revitalizing",
+      "Night Cream"
+    ],
+    "headline": "RESTORE",
+    "header": "PREMIUM BOTANICAL NIGHT CARE",
+    "benefit": [
+      "Helps restore moisture",
+      "balance and nourishes",
+      "skin overnight."
+    ],
+    "prices": [
+      {
+        "price": "1,535",
+        "size": "50 g"
+      }
+    ],
+    "size": "50 g",
+    "color": [
+      0.2,
+      0.07,
+      0.3
+    ],
+    "whiteRight": true,
+    "mask": [],
+    "priceSource": "Product Detailer v3 (1).pdf, page 22"
+  }
+]

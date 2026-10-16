@@ -1,0 +1,3 @@
+Three unique products, combined pages 25–27: Tea Tree Shampoo, Bhringaraja Shampoo, Bhringaraja Conditioner. Both shampoos: LKR 450 / 80 ml and LKR 850 / 180 ml, supplied old detailer pages 26–27. Conditioner: 80 ml on supplied label; price pending user confirmation, omitted until supplied. Source photographs in assets/products/Shampoo & Conditioner. Multiple views are not separate products.
+
+Scenes generated with built-in imagegen using supplied product photographs and approved photographic style reference. Prompts saved alongside this file. Existing pages and typography coordinates preserved. Rebuild using swift -module-cache-path /tmp/himalaya-swift-cache output/hair-care/build.swift, then output/combine.swift.
