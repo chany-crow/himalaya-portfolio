@@ -53,91 +53,131 @@
     "align" : "right",
     "font" : "MyriadPro-Regular",
     "height" : 0.0099205387205387203,
-    "left" : 0.76577544973544964,
+    "left" : 0.78500000000000003,
     "page" : 21,
     "text" : "PRODUCT BENEFIT",
     "top" : 0.32600000000000001,
-    "width" : 0.1792245502645502
+    "width" : 0.15999999999999992
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.71532654761904768,
+    "height" : 0.011887839038533481,
+    "left" : 0.80535081679894172,
     "page" : 21,
-    "text" : "A light, non greasy cream that",
+    "text" : "A light, non greasy",
     "top" : 0.35599999999999998,
-    "width" : 0.2296734523809523
+    "width" : 0.13964918320105821
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.73378690476190478,
+    "height" : 0.011594154508043396,
+    "left" : 0.79586991402116392,
     "page" : 21,
-    "text" : "provides daily moisture and",
-    "top" : 0.37063374485596706,
-    "width" : 0.21121309523809514
+    "text" : "cream that provides",
+    "top" : 0.37030115974560418,
+    "width" : 0.14913008597883595
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.69464873015873019,
+    "height" : 0.011887839038533483,
+    "left" : 0.80722893849206345,
     "page" : 21,
-    "text" : "nourishment to help protect skin",
-    "top" : 0.38526748971193414,
-    "width" : 0.25035126984126976
+    "text" : "daily moisture and",
+    "top" : 0.38460231949120838,
+    "width" : 0.1377710615079365
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.72632145502645495,
+    "height" : 0.011594154508043396,
+    "left" : 0.7924748478835979,
     "page" : 21,
-    "text" : "against dryness. Its botanical",
-    "top" : 0.39990123456790122,
-    "width" : 0.21867854497354491
+    "text" : "nourishment to help",
+    "top" : 0.39890347923681257,
+    "width" : 0.15252515211640211
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.69167363756613753,
+    "height" : 0.011734612326973436,
+    "left" : 0.79912050925925915,
     "page" : 21,
-    "text" : "blend supports soft, smooth skin,",
-    "top" : 0.41453497942386824,
-    "width" : 0.25332636243386236
+    "text" : "protect skin against",
+    "top" : 0.41320463898241677,
+    "width" : 0.14587949074074075
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.70891439153439151,
+    "height" : 0.011887839038533483,
+    "left" : 0.79003690145502636,
     "page" : 21,
-    "text" : "making it a comfortable choice",
-    "top" : 0.42916872427983543,
-    "width" : 0.23608560846560844
+    "text" : "dryness. Its botanical",
+    "top" : 0.42750579872802091,
+    "width" : 0.1549630985449735
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.71124272486772488,
+    "height" : 0.011734612326973436,
+    "left" : 0.79673673941798939,
     "page" : 21,
-    "text" : "for regular care of the face and",
-    "top" : 0.44380246913580246,
-    "width" : 0.23375727513227507
+    "text" : "blend supports soft,",
+    "top" : 0.44180695847362517,
+    "width" : 0.14826326058201056
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.78981473544973535,
+    "height" : 0.011734612326973436,
+    "left" : 0.79106625661375651,
+    "page" : 21,
+    "text" : "smooth skin, making",
+    "top" : 0.45610811821922931,
+    "width" : 0.15393374338624335
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0093468294051627376,
+    "left" : 0.82777992394179878,
+    "page" : 21,
+    "text" : "it a comfortable",
+    "top" : 0.47040927796483351,
+    "width" : 0.11722007605820108
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011875070145903477,
+    "left" : 0.81394683531746026,
+    "page" : 21,
+    "text" : "choice for regular",
+    "top" : 0.4847104377104377,
+    "width" : 0.13105316468253966
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0093468294051627376,
+    "left" : 0.7996080985449735,
+    "page" : 21,
+    "text" : "care of the face and",
+    "top" : 0.49901159745604184,
+    "width" : 0.14539190145502642
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.011875070145903477,
+    "left" : 0.79334167328042315,
     "page" : 21,
     "text" : "neck after cleansing.",
-    "top" : 0.45843621399176954,
-    "width" : 0.15518526455026455
+    "top" : 0.51331275720164615,
+    "width" : 0.15165832671957671
   },
   {
     "align" : "right",
@@ -146,7 +186,7 @@
     "left" : 0.80562589947089935,
     "page" : 21,
     "text" : "LKR 810",
-    "top" : 0.48999999999999999,
+    "top" : 0.54300488683127579,
     "width" : 0.13937410052910051
   },
   {
@@ -156,7 +196,7 @@
     "left" : 0.88979027777777764,
     "page" : 21,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.57600488683127571,
     "width" : 0.055209722222222209
   },
   {

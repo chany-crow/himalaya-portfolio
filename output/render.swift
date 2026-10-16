@@ -81,23 +81,28 @@ for group in groups where selected == nil || selected == group {
     for (n,name) in p.names.enumerated() {
         draw(name,x:W*0.060,top:H*(0.313+Double(n)*0.033),font:heading,size:27,color:productNameInk,maxWidth:W*0.30,page:p.page)
     }
-    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:.white,align:"right",maxWidth:W*0.26,page:p.page)
+    // Wider packaging needs a narrower detail column with a clear safety gap.
+    let detailsLeft: Double = p.page == 2 ? 0.750 : p.page == 21 ? 0.785 : 0.685
+    let detailsWidth = W*(0.945-detailsLeft)
+    let descriptionHeight = H*((p.page == 2 || p.page == 21) ? 0.190 : 0.118)
+    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
     let count=p.description.split(separator:" ").count
     precondition((35...40).contains(count))
     var descSize=11.5
-    var lines=wrap(p.description,size:descSize,width:W*0.26)
-    while Double(lines.count)*descSize*1.12 > H*0.118 {descSize-=0.25;lines=wrap(p.description,size:descSize,width:W*0.26)}
+    var lines=wrap(p.description,size:descSize,width:detailsWidth)
+    while Double(lines.count)*descSize*1.12 > descriptionHeight {descSize-=0.25;lines=wrap(p.description,size:descSize,width:detailsWidth)}
     precondition(descSize >= 9)
     var bottom=H*0.356
     for (n,text) in lines.enumerated() {
         let box=draw(text,x:W*0.945,top:H*0.356+Double(n)*descSize*1.12,size:descSize,color:.white,align:"right",page:p.page)
+        precondition(box.minX >= W*detailsLeft-0.1, "Description crosses product safety gap")
         bottom=box.maxY
     }
     let priceTop=max(H*0.490,bottom+15)
     for (n,price) in p.prices.enumerated() {
         let top=priceTop+Double(n)*H*0.072
-        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:.white,align:"right",page:p.page)
-        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:.white,align:"right",page:p.page)
+        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
+        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
     }
     // White vector QR modules on the photograph, with no backing or border.
     let matrix=qrMatrices[p.page-1]
