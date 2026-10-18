@@ -2,6 +2,7 @@ import AppKit
 import CoreText
 import CoreImage
 import PDFKit
+import Accelerate
 
 let root = URL(fileURLWithPath: #filePath).deletingLastPathComponent()
 for name in ["GothamCondensed-Medium", "MyriadPro-Regular"] {
@@ -27,6 +28,44 @@ struct QRMatrix: Decodable { let url: String; let modules: [[Bool]] }
 let qrMatrices = try JSONDecoder().decode([QRMatrix].self, from: Data(contentsOf: root.appendingPathComponent("qr-matrices.json")))
 func line(_ text: String, _ font: String, _ size: Double, _ tracking: Double, _ color: NSColor, _ emphasis: Bool = false) -> CTLine {
     CTLineCreateWithAttributedString(NSAttributedString(string: text, attributes: [.font:NSFont(name:font,size:size)!, .kern:tracking, .foregroundColor:color, .strokeWidth:emphasis ? -0.7 : 0, .strokeColor:color]))
+}
+// Blur only the photographic detail column; all typography remains vector-sharp.
+func softenDetails(_ image: CGImage, in page: CGContext, bounds: CGRect) {
+    let density = 1.5
+    let width = Int(ceil(bounds.width*density)), height = Int(ceil(bounds.height*density))
+    let stride = width*4
+    let data = UnsafeMutableRawPointer.allocate(byteCount:stride*height,alignment:64)
+    let scratch = UnsafeMutableRawPointer.allocate(byteCount:stride*height,alignment:64)
+    defer { data.deallocate(); scratch.deallocate() }
+    let bitmap = CGContext(data:data,width:width,height:height,bitsPerComponent:8,bytesPerRow:stride,
+        space:CGColorSpaceCreateDeviceRGB(),bitmapInfo:CGImageAlphaInfo.premultipliedLast.rawValue)!
+    bitmap.scaleBy(x:Double(width)/bounds.width,y:Double(height)/bounds.height)
+    bitmap.translateBy(x:-bounds.minX,y:-bounds.minY)
+    let scale=max(W/Double(image.width),H/Double(image.height))
+    let iw=Double(image.width)*scale,ih=Double(image.height)*scale
+    bitmap.draw(image,in:CGRect(x:(W-iw)/2,y:(H-ih)/2,width:iw,height:ih))
+    var source=vImage_Buffer(data:data,height:vImagePixelCount(height),width:vImagePixelCount(width),rowBytes:stride)
+    var target=vImage_Buffer(data:scratch,height:vImagePixelCount(height),width:vImagePixelCount(width),rowBytes:stride)
+    for _ in 0..<3 {
+        precondition(vImageBoxConvolve_ARGB8888(&source,&target,nil,0,0,23,23,nil,vImage_Flags(kvImageEdgeExtend)) == kvImageNoError)
+        swap(&source,&target)
+    }
+    let pixels=source.data.assumingMemoryBound(to:UInt8.self)
+    // Feather into the original photo without a visible rectangular edge.
+    let feather=18.0*density
+    for y in 0..<height { for x in 0..<width {
+        let distance=Double(min(x,width-1-x,y,height-1-y))
+        let t=min(1,max(0,distance/feather))
+        let alpha=t*t*(3-2*t)
+        let offset=y*stride+x*4
+        for channel in 0..<3 { pixels[offset+channel]=UInt8(Double(pixels[offset+channel])*alpha) }
+        pixels[offset+3]=UInt8(255*alpha)
+    }}
+    let provider=CGDataProvider(data:Data(bytes:source.data,count:stride*height) as CFData)!
+    let blurred=CGImage(width:width,height:height,bitsPerComponent:8,bitsPerPixel:32,bytesPerRow:stride,
+        space:CGColorSpaceCreateDeviceRGB(),bitmapInfo:CGBitmapInfo(rawValue:CGImageAlphaInfo.premultipliedLast.rawValue),
+        provider:provider,decode:nil,shouldInterpolate:true,intent:.defaultIntent)!
+    page.draw(blurred,in:bounds)
 }
 for group in groups where selected == nil || selected == group {
  let ps = products.filter { $0.group == group }
@@ -110,13 +149,19 @@ for group in groups where selected == nil || selected == group {
     let detailsWidth = W*(0.945-detailsLeft)
     let descriptionHeight = H*((p.page == 2 || p.page == 21) ? 0.190 : 0.118)
     let descriptionInk = readableInk(left: detailsLeft, top: 0.326, width: 0.945-detailsLeft, height: descriptionHeight/H+0.030)
-    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:descriptionInk,align:"right",maxWidth:detailsWidth,page:p.page)
     let count=p.description.split(separator:" ").count
     precondition((35...40).contains(count))
     var descSize=11.5
     var lines=wrap(p.description,size:descSize,width:detailsWidth)
     while Double(lines.count)*descSize*1.12 > descriptionHeight {descSize-=0.25;lines=wrap(p.description,size:descSize,width:detailsWidth)}
     precondition(descSize >= 9)
+    let lastLineHeight=CTLineGetBoundsWithOptions(line(lines.last!,body,descSize,0,descriptionInk),.useGlyphPathBounds).height
+    let descriptionBottom=H*0.356+Double(lines.count-1)*descSize*1.12+lastLineHeight
+    let estimatedPriceTop=max(H*0.490,descriptionBottom+15)
+    let detailBottom=p.prices.isEmpty ? descriptionBottom : estimatedPriceTop+Double(p.prices.count-1)*H*0.072+H*0.052
+    let blurTop=H*0.302, blurBottom=min(H*0.65,detailBottom+H*0.018)
+    softenDetails(cg,in:ctx,bounds:CGRect(x:W*(detailsLeft-0.010),y:H-blurBottom,width:W*(0.98-detailsLeft+0.010),height:blurBottom-blurTop))
+    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:descriptionInk,align:"right",maxWidth:detailsWidth,page:p.page)
     var bottom=H*0.356
     for (n,text) in lines.enumerated() {
         let box=draw(text,x:W*0.945,top:H*0.356+Double(n)*descSize*1.12,size:descSize,color:descriptionInk,align:"right",page:p.page)
