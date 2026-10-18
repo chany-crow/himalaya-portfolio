@@ -65,6 +65,30 @@ for group in groups where selected == nil || selected == group {
     let image=NSImage(contentsOf:root.appendingPathComponent("\(group)/scenes/\(p.scene)"))!
     var rect=CGRect(origin:.zero,size:image.size)
     let cg=image.cgImage(forProposedRect:&rect,context:nil,hints:nil)!
+    // Choose white or deep teal against the actual photograph under each label.
+    let pixels = NSBitmapImageRep(cgImage: cg)
+    func readableInk(left: Double, top: Double, width: Double, height: Double) -> NSColor {
+        let dark = NSColor(srgbRed: 0, green: 0.16, blue: 0.17, alpha: 1)
+        func linear(_ value: Double) -> Double {
+            value <= 0.04045 ? value/12.92 : pow((value+0.055)/1.055, 2.4)
+        }
+        let darkL = 0.7152*linear(0.16)+0.0722*linear(0.17)
+        let scale = max(W/Double(cg.width), H/Double(cg.height))
+        let cropX = (Double(cg.width)*scale-W)/2
+        let cropY = (Double(cg.height)*scale-H)/2
+        var whiteScores: [Double] = [], darkScores: [Double] = []
+        for row in 0..<16 { for col in 0..<24 {
+            let px = Int(((left+width*(Double(col)+0.5)/24)*W+cropX)/scale)
+            let py = Int(((top+height*(Double(row)+0.5)/16)*H+cropY)/scale)
+            guard let color = pixels.colorAt(x: min(cg.width-1,max(0,px)), y: min(cg.height-1,max(0,py)))?.usingColorSpace(.sRGB) else { continue }
+            let l = 0.2126*linear(color.redComponent)+0.7152*linear(color.greenComponent)+0.0722*linear(color.blueComponent)
+            whiteScores.append(1.05/(l+0.05))
+            darkScores.append((max(l,darkL)+0.05)/(min(l,darkL)+0.05))
+        }}
+        whiteScores.sort(); darkScores.sort()
+        let index = whiteScores.count/4
+        return whiteScores[index] >= darkScores[index] ? .white : dark
+    }
     ctx.beginPDFPage(nil)
     ctx.saveGState();ctx.clip(to:media)
     let scale=max(W/Double(cg.width),H/Double(cg.height)),iw=Double(cg.width)*scale,ih=Double(cg.height)*scale
@@ -85,7 +109,8 @@ for group in groups where selected == nil || selected == group {
     let detailsLeft: Double = p.page == 2 ? 0.750 : p.page == 21 ? 0.785 : 0.685
     let detailsWidth = W*(0.945-detailsLeft)
     let descriptionHeight = H*((p.page == 2 || p.page == 21) ? 0.190 : 0.118)
-    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
+    let descriptionInk = readableInk(left: detailsLeft, top: 0.326, width: 0.945-detailsLeft, height: descriptionHeight/H+0.030)
+    draw("PRODUCT BENEFIT",x:W*0.945,top:H*0.326,font:body,size:12,tracking:1.0,color:descriptionInk,align:"right",maxWidth:detailsWidth,page:p.page)
     let count=p.description.split(separator:" ").count
     precondition((35...40).contains(count))
     var descSize=11.5
@@ -94,7 +119,7 @@ for group in groups where selected == nil || selected == group {
     precondition(descSize >= 9)
     var bottom=H*0.356
     for (n,text) in lines.enumerated() {
-        let box=draw(text,x:W*0.945,top:H*0.356+Double(n)*descSize*1.12,size:descSize,color:.white,align:"right",page:p.page)
+        let box=draw(text,x:W*0.945,top:H*0.356+Double(n)*descSize*1.12,size:descSize,color:descriptionInk,align:"right",page:p.page)
         precondition(box.minX >= W*detailsLeft-0.1, "Description crosses product safety gap")
         bottom=box.maxY
     }
@@ -104,20 +129,23 @@ for group in groups where selected == nil || selected == group {
         draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
         draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
     }
-    // White vector QR modules on the photograph, with no backing or border.
+    // Opaque white quiet zone with brand-teal vector QR modules.
     let matrix=qrMatrices[p.page-1]
     precondition(matrix.url == p.productURL)
     let n=matrix.modules.count
     let qrSize=22.0/25.4*72,x=W*0.945-qrSize,y=H*0.055,unit=qrSize/Double(n+8)
-    ctx.saveGState();ctx.setShouldAntialias(false);ctx.setFillColor(NSColor.white.cgColor)
+    ctx.saveGState();ctx.setShouldAntialias(false)
+    ctx.setFillColor(NSColor.white.cgColor)
+    ctx.fill(CGRect(x:x,y:y,width:qrSize,height:qrSize))
+    ctx.setFillColor(NSColor(srgbRed:1.0/255,green:99.0/255,blue:105.0/255,alpha:1).cgColor)
     for row in 0..<n {for col in 0..<n where matrix.modules[row][col] {
         ctx.fill(CGRect(x:x+Double(col+4)*unit,y:y+Double(n-1-row+4)*unit,width:unit,height:unit))
     }}
     ctx.restoreGState()
-    draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:body,size:8.5,tracking:0.8,color:.white,align:"right",page:p.page)
+    draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:body,size:8.5,tracking:0.8,color:readableInk(left:0.82,top:(H-y-qrSize-11)/H,width:0.125,height:0.012),align:"right",page:p.page)
     ctx.setURL(URL(string:p.productURL)! as CFURL,for:CGRect(x:x,y:y,width:qrSize,height:qrSize))
     // Plain page label, aligned with the left text column.
-    draw(String(format:"Page %02d",p.page),x:W*0.060,top:H*0.927,font:body,size:10,color:.white,page:p.page)
+    draw(String(format:"Page %02d",p.page),x:W*0.060,top:H*0.927,font:body,size:10,color:readableInk(left:0.060,top:0.927,width:0.075,height:0.014),page:p.page)
     ctx.endPDFPage()
  }
  ctx.closePDF()

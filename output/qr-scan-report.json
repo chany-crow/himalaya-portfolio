@@ -1,21 +1,7 @@
 {
-  "style": "White modules with transparent background, as requested",
+  "style": "Opaque white background with #016369 modules",
   "pages": 27,
-  "decoded": 14,
-  "notDecoded": [
-    2,
-    5,
-    6,
-    9,
-    13,
-    14,
-    15,
-    18,
-    20,
-    21,
-    24,
-    25,
-    26
-  ],
-  "note": "Photo backgrounds reduce scan reliability. PDF QR areas retain clickable official product URLs."
+  "decoded": 27,
+  "notDecoded": [],
+  "note": "All 27 QR codes decoded to the correct official product URLs from the rebuilt PDF."
 }
