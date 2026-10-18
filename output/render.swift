@@ -25,8 +25,8 @@ let groups = products.map(\.group).reduce(into: [String]()) { if !$0.contains($1
 var audit: [[String: Any]] = []
 struct QRMatrix: Decodable { let url: String; let modules: [[Bool]] }
 let qrMatrices = try JSONDecoder().decode([QRMatrix].self, from: Data(contentsOf: root.appendingPathComponent("qr-matrices.json")))
-func line(_ text: String, _ font: String, _ size: Double, _ tracking: Double, _ color: NSColor) -> CTLine {
-    CTLineCreateWithAttributedString(NSAttributedString(string: text, attributes: [.font:NSFont(name:font,size:size)!, .kern:tracking, .foregroundColor:color]))
+func line(_ text: String, _ font: String, _ size: Double, _ tracking: Double, _ color: NSColor, _ emphasis: Bool = false) -> CTLine {
+    CTLineCreateWithAttributedString(NSAttributedString(string: text, attributes: [.font:NSFont(name:font,size:size)!, .kern:tracking, .foregroundColor:color, .strokeWidth:emphasis ? -0.7 : 0, .strokeColor:color]))
 }
 for group in groups where selected == nil || selected == group {
  let ps = products.filter { $0.group == group }
@@ -34,8 +34,8 @@ for group in groups where selected == nil || selected == group {
  let out = root.appendingPathComponent(ps[0].pdf)
  let ctx = CGContext(out as CFURL, mediaBox:&media, nil)!
  @discardableResult
- func draw(_ text: String, x:Double, top:Double, font:String = body, size:Double, tracking:Double = 0, color:NSColor, align:String = "left", fitWidth:Double? = nil, fitHeight:Double? = nil, maxWidth:Double? = nil, page:Int) -> CGRect {
-    let l=line(text,font,size,tracking,color), b=CTLineGetBoundsWithOptions(l,.useGlyphPathBounds)
+ func draw(_ text: String, x:Double, top:Double, font:String = body, size:Double, tracking:Double = 0, color:NSColor, align:String = "left", fitWidth:Double? = nil, fitHeight:Double? = nil, maxWidth:Double? = nil, emphasis:Bool = false, page:Int) -> CGRect {
+    let l=line(text,font,size,tracking,color,emphasis), b=CTLineGetBoundsWithOptions(l,.useGlyphPathBounds)
     let sx=fitWidth.map{$0/b.width} ?? min(1,(maxWidth ?? b.width)/b.width)
     let sy=fitHeight.map{$0/b.height} ?? 1
     let bw=b.width*sx,bh=b.height*sy
@@ -126,8 +126,9 @@ for group in groups where selected == nil || selected == group {
     let priceTop=max(H*0.490,bottom+15)
     for (n,price) in p.prices.enumerated() {
         let top=priceTop+Double(n)*H*0.072
-        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
-        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:.white,align:"right",maxWidth:detailsWidth,page:p.page)
+        let priceInk = readableInk(left:detailsLeft,top:top/H,width:0.945-detailsLeft,height:0.052)
+        draw("LKR "+price.price,x:W*0.945,top:top,size:26,color:priceInk,align:"right",maxWidth:detailsWidth,emphasis:true,page:p.page)
+        draw(price.size,x:W*0.945,top:top+H*0.033,size:15,color:priceInk,align:"right",maxWidth:detailsWidth,emphasis:true,page:p.page)
     }
     // Opaque white quiet zone with brand-teal vector QR modules.
     let matrix=qrMatrices[p.page-1]
