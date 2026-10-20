@@ -5,10 +5,9 @@ import Vision
 let root=URL(fileURLWithPath:#filePath).deletingLastPathComponent()
 let rows=try JSONSerialization.jsonObject(with:Data(contentsOf:root.appendingPathComponent("portfolio-products.json"))) as! [[String:Any]]
 let pdf=PDFDocument(url:root.appendingPathComponent("Himalaya-Product-Portfolio-A4.pdf"))!
-precondition(pdf.pageCount == rows.count+1 && rows.count == 27)
-precondition(pdf.page(at:0)!.string!.contains("PORTFOLIO"))
+precondition(pdf.pageCount == rows.count && rows.count == 27)
 for (i,r) in rows.enumerated() {
- let p=pdf.page(at:i+1)!,text=p.string!
+ let p=pdf.page(at:i)!,text=p.string!
  let bounds=p.bounds(for:.mediaBox)
  precondition(abs(bounds.width-210/25.4*72)<0.01 && abs(bounds.height-297/25.4*72)<0.01)
  let description=r["description"] as! String
@@ -24,5 +23,5 @@ for (i,r) in rows.enumerated() {
  precondition(decoded.contains(r["productURL"] as! String), "QR mismatch on page \(i+1): \(decoded)")
  print("Page \(i+1): A4, copy length, price, page number and QR verified")
 }
-precondition(pdf.page(at:27)!.string!.contains("LKR 490"))
+precondition(pdf.page(at:26)!.string!.contains("LKR 490"))
 print("All 27 portfolio pages verified.")
