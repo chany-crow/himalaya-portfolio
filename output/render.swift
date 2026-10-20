@@ -145,7 +145,7 @@ for group in groups where selected == nil || selected == group {
     ctx.saveGState();ctx.clip(to:media)
     let scale=max(W/Double(cg.width),H/Double(cg.height)),iw=Double(cg.width)*scale,ih=Double(cg.height)*scale
     ctx.draw(cg,in:CGRect(x:(W-iw)/2,y:(H-ih)/2,width:iw,height:ih));ctx.restoreGState()
-    let headerBox=draw(p.header,x:W*0.945,top:H*0.060,font:heading,size:17,tracking:3.2,color:rightInk,align:"right",fitWidth:W*0.66,page:p.page)
+    let headerBox=draw("Premium Botanic Skin Care",x:W*0.215,top:H*0.060,font:heading,size:17,tracking:2.0,color:rightInk,align:"left",maxWidth:W*0.70,page:p.page)
     let logoWidth=W*0.12,logoHeight=logoWidth*Double(pageLogo.height)/Double(pageLogo.width)
     ctx.draw(pageLogo,in:CGRect(x:W*0.060,y:H-headerBox.midY-logoHeight/2,width:logoWidth,height:logoHeight))
     ctx.saveGState()

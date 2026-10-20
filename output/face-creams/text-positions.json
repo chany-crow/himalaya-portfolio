@@ -1,13 +1,13 @@
 [
   {
-    "align" : "right",
+    "align" : "left",
     "font" : "GothamCondensed-Medium",
     "height" : 0.014437757201646091,
-    "left" : 0.28499999999999992,
+    "left" : 0.215,
     "page" : 9,
-    "text" : "PREMIUM NATURAL SKINCARE",
+    "text" : "Premium Botanic Skin Care",
     "top" : 0.059999999999999998,
-    "width" : 0.66000000000000003
+    "width" : 0.30218944444444434
   },
   {
     "align" : "left",
@@ -200,14 +200,14 @@
     "width" : 0.053773412698412702
   },
   {
-    "align" : "right",
+    "align" : "left",
     "font" : "GothamCondensed-Medium",
     "height" : 0.014437757201646091,
-    "left" : 0.28499999999999992,
+    "left" : 0.215,
     "page" : 10,
-    "text" : "PREMIUM NATURAL SKINCARE",
+    "text" : "Premium Botanic Skin Care",
     "top" : 0.059999999999999998,
-    "width" : 0.66000000000000003
+    "width" : 0.30218944444444434
   },
   {
     "align" : "left",
