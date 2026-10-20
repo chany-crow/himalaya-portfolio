@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.68880941798941797,
+    "height" : 0.012717223157500932,
+    "left" : 0.71112681216931217,
     "page" : 24,
-    "text" : "White Lily and Tomato enrich this",
+    "text" : "White Lily and Tomato enrich",
     "top" : 0.35599999999999998,
-    "width" : 0.25619058201058192
+    "width" : 0.23387318783068775
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.68777460317460315,
+    "height" : 0.012553306210250652,
+    "left" : 0.7199554960317458,
     "page" : 24,
-    "text" : "nourishing night cream, designed",
-    "top" : 0.37063374485596706,
-    "width" : 0.2572253968253968
+    "text" : "this nourishing night cream,",
+    "top" : 0.37129891507669283,
+    "width" : 0.22504450396825401
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.69402044973544974,
+    "height" : 0.012553306210250652,
+    "left" : 0.71197683862433847,
     "page" : 24,
-    "text" : "to complement the skin's natural",
-    "top" : 0.38526748971193414,
-    "width" : 0.25097955026455016
+    "text" : "designed to complement the",
+    "top" : 0.38659783015338567,
+    "width" : 0.2330231613756614
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.69852928571428574,
+    "height" : 0.012553306210250652,
+    "left" : 0.69088072751322738,
     "page" : 24,
-    "text" : "overnight renewal cycle. It helps",
-    "top" : 0.39990123456790122,
-    "width" : 0.24647071428571421
+    "text" : "skin's natural overnight renewal",
+    "top" : 0.40189674523007851,
+    "width" : 0.25411927248677246
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0094204732510288058,
-    "left" : 0.72275503968253951,
+    "height" : 0.012717223157500932,
+    "left" : 0.70222085317460314,
     "page" : 24,
-    "text" : "restore moisture balance and",
-    "top" : 0.41453497942386824,
-    "width" : 0.2222449603174603
+    "text" : "cycle. It helps restore moisture",
+    "top" : 0.41719566030677141,
+    "width" : 0.24277914682539681
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.71037421957671953,
+    "height" : 0.011528825289936401,
+    "left" : 0.70204698412698396,
     "page" : 24,
-    "text" : "care for tired skin, leaving your",
-    "top" : 0.42916872427983543,
-    "width" : 0.23462578042328036
+    "text" : "balance and care for tired skin,",
+    "top" : 0.43249457538346425,
+    "width" : 0.24295301587301585
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.69873255291005287,
+    "height" : 0.012867480359147023,
+    "left" : 0.69959349867724852,
     "page" : 24,
-    "text" : "face feeling softer and refreshed",
-    "top" : 0.44380246913580246,
-    "width" : 0.24626744708994702
+    "text" : "leaving your face feeling softer",
+    "top" : 0.4477934904601571,
+    "width" : 0.24540650132275138
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.73785224867724875,
+    "height" : 0.012703563411896743,
+    "left" : 0.68738402777777763,
     "page" : 24,
-    "text" : "as part of evening skincare.",
-    "top" : 0.45843621399176954,
-    "width" : 0.20714775132275126
+    "text" : "and refreshed as part of evening",
+    "top" : 0.46309240553684999,
+    "width" : 0.25761597222222221
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0098486765806210241,
+    "left" : 0.87653423280423282,
+    "page" : 24,
+    "text" : "skincare.",
+    "top" : 0.47839132061354284,
+    "width" : 0.068465767195767177
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.77553227513227507,
     "page" : 24,
     "text" : "LKR 1,535",
-    "top" : 0.48999999999999999,
+    "top" : 0.50605705667789003,
     "width" : 0.16946772486772485
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.90251547619047612,
     "page" : 24,
     "text" : "50 g",
-    "top" : 0.52300000000000002,
+    "top" : 0.53905705667788995,
     "width" : 0.042484523809523812
   },
   {

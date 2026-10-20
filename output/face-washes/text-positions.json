@@ -15,7 +15,7 @@
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 11,
-    "text" : "PURE",
+    "text" : "PURIFY",
     "top" : 0.11,
     "width" : 0.88
   },
@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.69215408730158734,
+    "height" : 0.012553306210250654,
+    "left" : 0.73228087962962951,
     "page" : 11,
-    "text" : "Made with five parts of the Neem",
+    "text" : "Made with five parts of the",
     "top" : 0.35599999999999998,
-    "width" : 0.25284591269841261
+    "width" : 0.21271912037037038
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.72837260582010577,
+    "height" : 0.012553306210250654,
+    "left" : 0.73745831349206348,
     "page" : 11,
-    "text" : "plant, this soap free cleanser",
-    "top" : 0.37063374485596706,
-    "width" : 0.21662739417989413
+    "text" : "Neem plant, this soap free",
+    "top" : 0.37129891507669283,
+    "width" : 0.2075416865079365
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.73134769841269842,
+    "height" : 0.011378568088290309,
+    "left" : 0.77014569444444436,
     "page" : 11,
-    "text" : "removes dirt, impurities and",
-    "top" : 0.38526748971193414,
-    "width" : 0.2136523015873015
+    "text" : "cleanser removes dirt,",
+    "top" : 0.38659783015338567,
+    "width" : 0.17485430555555551
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.68953009259259268,
+    "height" : 0.012403049008604564,
+    "left" : 0.73108311507936496,
     "page" : 11,
-    "text" : "excess oil. It helps care for pimple",
-    "top" : 0.39990123456790122,
-    "width" : 0.25546990740740733
+    "text" : "impurities and excess oil. It",
+    "top" : 0.40189674523007851,
+    "width" : 0.21391688492063493
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.72853891534391524,
+    "height" : 0.012553306210250654,
+    "left" : 0.69003070105820108,
     "page" : 11,
-    "text" : "prone skin without stripping",
-    "top" : 0.41453497942386824,
-    "width" : 0.21646108465608466
+    "text" : "helps care for pimple prone skin",
+    "top" : 0.41719566030677141,
+    "width" : 0.25496929894179887
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.71601026455026451,
+    "height" : 0.012553306210250652,
+    "left" : 0.74493468253968242,
     "page" : 11,
-    "text" : "natural moisture, leaving your",
-    "top" : 0.42916872427983543,
-    "width" : 0.22898973544973542
+    "text" : "without stripping natural",
+    "top" : 0.43249457538346425,
+    "width" : 0.20006531746031747
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.7032598677248677,
+    "height" : 0.012867480359147023,
+    "left" : 0.72998194444444431,
     "page" : 11,
-    "text" : "face feeling fresh, balanced and",
-    "top" : 0.44380246913580246,
-    "width" : 0.24174013227513222
+    "text" : "moisture, leaving your face",
+    "top" : 0.4477934904601571,
+    "width" : 0.21501805555555553
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.8375825264550264,
+    "height" : 0.012703563411896743,
+    "left" : 0.7296535251322751,
+    "page" : 11,
+    "text" : "feeling fresh, balanced and",
+    "top" : 0.46309240553684999,
+    "width" : 0.21534647486772482
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012717223157500932,
+    "left" : 0.83269991402116394,
     "page" : 11,
     "text" : "visibly clearer.",
-    "top" : 0.45843621399176954,
-    "width" : 0.10741747354497355
+    "top" : 0.47839132061354284,
+    "width" : 0.11230008597883595
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.80697989417989413,
     "page" : 11,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.50892560325476999,
     "width" : 0.13802010582010579
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.88979027777777764,
     "page" : 11,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.54192560325476991,
     "width" : 0.055209722222222209
   },
   {
@@ -166,7 +176,7 @@
     "left" : 0.80697989417989413,
     "page" : 11,
     "text" : "LKR 885",
-    "top" : 0.56199999999999994,
+    "top" : 0.58092560325476994,
     "width" : 0.13802010582010579
   },
   {
@@ -176,7 +186,7 @@
     "left" : 0.87842579365079354,
     "page" : 11,
     "text" : "100 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.61392560325476997,
     "width" : 0.066574206349206341
   },
   {
@@ -262,82 +272,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.73971861111111115,
+    "height" : 0.012403049008604564,
+    "left" : 0.7303876388888888,
     "page" : 12,
     "text" : "Kesar extract helps reveal a",
     "top" : 0.35599999999999998,
-    "width" : 0.20528138888888883
+    "width" : 0.21461236111111109
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.71867121693121683,
+    "height" : 0.012553306210250652,
+    "left" : 0.70838354497354483,
     "page" : 12,
     "text" : "natural glow while this gentle",
-    "top" : 0.37063374485596706,
-    "width" : 0.22632878306878307
+    "top" : 0.37129891507669283,
+    "width" : 0.23661645502645506
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.72521272486772492,
+    "height" : 0.012867480359147023,
+    "left" : 0.71522239417989419,
     "page" : 12,
     "text" : "face wash removes everyday",
-    "top" : 0.38526748971193414,
-    "width" : 0.21978727513227508
+    "top" : 0.38659783015338567,
+    "width" : 0.22977760582010576
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.7181722883597883,
+    "height" : 0.012403049008604564,
+    "left" : 0.70786193783068774,
     "page" : 12,
     "text" : "impurities and nourishes skin.",
-    "top" : 0.39990123456790122,
-    "width" : 0.22682771164021159
+    "top" : 0.40189674523007851,
+    "width" : 0.23713806216931224
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.69625638888888886,
+    "height" : 0.012553306210250652,
+    "left" : 0.73697534391534381,
     "page" : 12,
-    "text" : "Work into a light lather on damp",
-    "top" : 0.41453497942386824,
-    "width" : 0.24874361111111104
+    "text" : "Work into a light lather on",
+    "top" : 0.41719566030677141,
+    "width" : 0.20802465608465609
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.69156276455026444,
+    "height" : 0.012403049008604564,
+    "left" : 0.70674144841269826,
     "page" : 12,
-    "text" : "skin, then rinse to leave your face",
-    "top" : 0.42916872427983543,
-    "width" : 0.2534372354497354
+    "text" : "damp skin, then rinse to leave",
+    "top" : 0.43249457538346425,
+    "width" : 0.23825855158730161
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.68548322751322754,
+    "height" : 0.012867480359147023,
+    "left" : 0.76104654761904755,
     "page" : 12,
-    "text" : "feeling clean, refreshed and ready",
-    "top" : 0.44380246913580246,
-    "width" : 0.25951677248677241
+    "text" : "your face feeling clean,",
+    "top" : 0.4477934904601571,
+    "width" : 0.18395345238095237
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.81991675925925922,
+    "height" : 0.012867480359147023,
+    "left" : 0.75896011904761895,
     "page" : 12,
-    "text" : "for moisturizing.",
-    "top" : 0.45843621399176954,
-    "width" : 0.12508324074074073
+    "text" : "refreshed and ready for",
+    "top" : 0.46309240553684999,
+    "width" : 0.18603988095238097
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012075215114104003,
+    "left" : 0.841953611111111,
+    "page" : 12,
+    "text" : "moisturizing.",
+    "top" : 0.47839132061354284,
+    "width" : 0.10304638888888887
   },
   {
     "align" : "right",
@@ -346,7 +366,7 @@
     "left" : 0.80697989417989413,
     "page" : 12,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.50828359521137301,
     "width" : 0.13802010582010579
   },
   {
@@ -356,7 +376,7 @@
     "left" : 0.88979027777777764,
     "page" : 12,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.54128359521137293,
     "width" : 0.055209722222222209
   },
   {
@@ -366,7 +386,7 @@
     "left" : 0.80697989417989413,
     "page" : 12,
     "text" : "LKR 885",
-    "top" : 0.56199999999999994,
+    "top" : 0.58028359521137296,
     "width" : 0.13802010582010579
   },
   {
@@ -376,7 +396,7 @@
     "left" : 0.87842579365079354,
     "page" : 12,
     "text" : "100 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.6132835952113731,
     "width" : 0.066574206349206341
   },
   {
@@ -462,82 +482,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011054891507669286,
-    "left" : 0.73193314153439148,
+    "height" : 0.011594154508043396,
+    "left" : 0.72153963624338624,
     "page" : 13,
     "text" : "Aloe Vera and Cucumber help",
     "top" : 0.35599999999999998,
-    "width" : 0.21306685846560847
+    "width" : 0.22346036375661374
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011468841189674523,
-    "left" : 0.70204110449735446,
+    "height" : 0.012028296857463525,
+    "left" : 0.69018945105820095,
     "page" : 13,
     "text" : "hydrate and refresh skin while this",
-    "top" : 0.36963598952487842,
-    "width" : 0.24295889550264549
+    "top" : 0.37030115974560418,
+    "width" : 0.25481054894179889
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.01133491629255518,
-    "left" : 0.7391134292328041,
+    "height" : 0.011887839038533481,
+    "left" : 0.72907018187830686,
     "page" : 13,
     "text" : "gentle cleanser washes away",
-    "top" : 0.38327197904975679,
-    "width" : 0.20588657076719574
+    "top" : 0.38460231949120838,
+    "width" : 0.2159298181216931
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011188816404788627,
-    "left" : 0.77064126322751314,
+    "height" : 0.011734612326973436,
+    "left" : 0.76213595899470898,
     "page" : 13,
     "text" : "impurities. The soap free",
-    "top" : 0.39690796857463523,
-    "width" : 0.17435873677248676
+    "top" : 0.39890347923681257,
+    "width" : 0.18286404100529097
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0089120931537598203,
-    "left" : 0.73620343253968246,
+    "height" : 0.0093468294051627376,
+    "left" : 0.72601823412698396,
     "page" : 13,
     "text" : "formulation cleanses without",
-    "top" : 0.41054395809951366,
-    "width" : 0.20879656746031741
+    "top" : 0.41320463898241677,
+    "width" : 0.2189817658730159
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011334916292555184,
-    "left" : 0.69046999338624326,
+    "height" : 0.011887839038533483,
+    "left" : 0.74880851851851837,
     "page" : 13,
-    "text" : "excessive dryness, helping maintain",
-    "top" : 0.42417994762439204,
-    "width" : 0.25453000661375663
+    "text" : "excessive dryness, helping",
+    "top" : 0.42750579872802091,
+    "width" : 0.19619148148148149
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.01132274130190797,
-    "left" : 0.69515353835978821,
+    "height" : 0.010776945379723155,
+    "left" : 0.70452818783068782,
     "page" : 13,
-    "text" : "a soft, comfortable feel and leaving",
-    "top" : 0.43781593714927047,
-    "width" : 0.24984646164021165
+    "text" : "maintain a soft, comfortable feel",
+    "top" : 0.44180695847362517,
+    "width" : 0.24047181216931213
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011468841189674523,
-    "left" : 0.72111966269841266,
+    "height" : 0.012028296857463525,
+    "left" : 0.7051060714285714,
     "page" : 13,
-    "text" : "your face fresh after each wash.",
-    "top" : 0.45145192667414891,
-    "width" : 0.22388033730158724
+    "text" : "and leaving your face fresh after",
+    "top" : 0.45610811821922931,
+    "width" : 0.23989392857142849
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0092063715862326957,
+    "left" : 0.86373511904761902,
+    "page" : 13,
+    "text" : "each wash.",
+    "top" : 0.47040927796483351,
+    "width" : 0.081264880952380936
   },
   {
     "align" : "right",
@@ -546,7 +576,7 @@
     "left" : 0.80697989417989413,
     "page" : 13,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.49743270903479231,
     "width" : 0.13802010582010579
   },
   {
@@ -556,7 +586,7 @@
     "left" : 0.88979027777777764,
     "page" : 13,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53043270903479234,
     "width" : 0.055209722222222209
   },
   {
@@ -566,7 +596,7 @@
     "left" : 0.80697989417989413,
     "page" : 13,
     "text" : "LKR 885",
-    "top" : 0.56199999999999994,
+    "top" : 0.56943270903479237,
     "width" : 0.13802010582010579
   },
   {
@@ -576,7 +606,7 @@
     "left" : 0.87842579365079354,
     "page" : 13,
     "text" : "100 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.60243270903479229,
     "width" : 0.066574206349206341
   },
   {
@@ -662,82 +692,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.75280666666666662,
+    "height" : 0.012164300411522633,
+    "left" : 0.74365460317460308,
     "page" : 14,
     "text" : "Lemon, Honey and natural",
     "top" : 0.35599999999999998,
-    "width" : 0.19219333333333327
+    "width" : 0.20134539682539679
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.70043680555555554,
+    "height" : 0.012007510288065843,
+    "left" : 0.68879093915343914,
     "page" : 14,
     "text" : "cleansing beads work together to",
-    "top" : 0.3699685746352413,
-    "width" : 0.24456319444444444
+    "top" : 0.37063374485596706,
+    "width" : 0.25620906084656081
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.71414222222222223,
+    "height" : 0.012164300411522633,
+    "left" : 0.70314899470899472,
     "page" : 14,
     "text" : "remove excess oil and everyday",
-    "top" : 0.38393714927048256,
-    "width" : 0.23085777777777772
+    "top" : 0.38526748971193414,
+    "width" : 0.2418510052910052
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.68858347222222216,
+    "height" : 0.012007510288065841,
+    "left" : 0.71974298941798942,
     "page" : 14,
-    "text" : "impurities. This soap free face wash",
-    "top" : 0.39790572390572387,
-    "width" : 0.25641652777777779
+    "text" : "impurities. This soap free face",
+    "top" : 0.39990123456790122,
+    "width" : 0.22525701058201053
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.69533916666666662,
+    "height" : 0.012308024691358022,
+    "left" : 0.7039805423280423,
     "page" : 14,
-    "text" : "helps refresh oily skin and support",
-    "top" : 0.41187429854096524,
-    "width" : 0.24966083333333325
+    "text" : "wash helps refresh oily skin and",
+    "top" : 0.41453497942386824,
+    "width" : 0.24101945767195762
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.73116374999999989,
+    "height" : 0.012151234567901233,
+    "left" : 0.75596150793650796,
     "page" : 14,
-    "text" : "a cleaner feeling complexion,",
-    "top" : 0.4258428731762065,
-    "width" : 0.21383625000000001
+    "text" : "support a cleaner feeling",
+    "top" : 0.42916872427983543,
+    "width" : 0.18903849206349199
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.72409055555555546,
+    "height" : 0.012308024691358022,
+    "left" : 0.7163059259259259,
     "page" : 14,
-    "text" : "leaving your face comfortable,",
-    "top" : 0.43981144781144782,
-    "width" : 0.22090944444444444
+    "text" : "complexion, leaving your face",
+    "top" : 0.44380246913580246,
+    "width" : 0.22869407407407399
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.70825083333333338,
+    "height" : 0.012308024691358022,
+    "left" : 0.69913908730158736,
     "page" : 14,
-    "text" : "fresh and ready for moisturizing.",
-    "top" : 0.45378002244668908,
-    "width" : 0.23674916666666657
+    "text" : "comfortable, fresh and ready for",
+    "top" : 0.45843621399176954,
+    "width" : 0.24586091269841251
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.01155020576131687,
+    "left" : 0.84643388888888882,
+    "page" : 14,
+    "text" : "moisturizing.",
+    "top" : 0.47306995884773662,
+    "width" : 0.09856611111111109
   },
   {
     "align" : "right",
@@ -746,7 +786,7 @@
     "left" : 0.80697989417989413,
     "page" : 14,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.50243722409277958,
     "width" : 0.13802010582010579
   },
   {
@@ -756,7 +796,7 @@
     "left" : 0.88979027777777764,
     "page" : 14,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53543722409277961,
     "width" : 0.055209722222222209
   },
   {
@@ -766,7 +806,7 @@
     "left" : 0.80697989417989413,
     "page" : 14,
     "text" : "LKR 885",
-    "top" : 0.56199999999999994,
+    "top" : 0.57443722409277964,
     "width" : 0.13802010582010579
   },
   {
@@ -776,7 +816,7 @@
     "left" : 0.87842579365079354,
     "page" : 14,
     "text" : "100 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.60743722409277956,
     "width" : 0.066574206349206341
   },
   {
@@ -872,82 +912,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.69168791666666662,
+    "height" : 0.012007510288065841,
+    "left" : 0.69180298941798934,
     "page" : 15,
-    "text" : "Licorice and Saffron help support a",
+    "text" : "Licorice and Saffron help support",
     "top" : 0.35599999999999998,
-    "width" : 0.25331208333333333
+    "width" : 0.2531970105820105
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.70057791666666658,
+    "height" : 0.012007510288065843,
+    "left" : 0.72183109788359789,
     "page" : 15,
-    "text" : "radiant looking complexion while",
-    "top" : 0.3699685746352413,
-    "width" : 0.24442208333333332
+    "text" : "a radiant looking complexion",
+    "top" : 0.37063374485596706,
+    "width" : 0.22316890211640206
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.70609888888888883,
+    "height" : 0.0095641975308641946,
+    "left" : 0.72371593915343901,
     "page" : 15,
-    "text" : "this face wash cleanses everyday",
-    "top" : 0.38393714927048256,
-    "width" : 0.23890111111111112
+    "text" : "while this face wash cleanses",
+    "top" : 0.38526748971193414,
+    "width" : 0.22128406084656083
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011324523007856342,
-    "left" : 0.72980555555555549,
+    "height" : 0.012164300411522633,
+    "left" : 0.69385414021164016,
     "page" : 15,
-    "text" : "impurities. Its botanical blend",
-    "top" : 0.39790572390572387,
-    "width" : 0.21519444444444441
+    "text" : "everyday impurities. Its botanical",
+    "top" : 0.39990123456790122,
+    "width" : 0.25114585978835968
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.69618583333333328,
+    "height" : 0.0095641975308641963,
+    "left" : 0.72744866402116393,
     "page" : 15,
-    "text" : "refreshes dull skin and promotes a",
-    "top" : 0.41187429854096524,
-    "width" : 0.24881416666666664
+    "text" : "blend refreshes dull skin and",
+    "top" : 0.41453497942386824,
+    "width" : 0.217551335978836
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.71714083333333323,
+    "height" : 0.010727057613168722,
+    "left" : 0.77344248677248673,
     "page" : 15,
-    "text" : "more even appearance, leaving",
-    "top" : 0.4258428731762065,
-    "width" : 0.22785916666666667
+    "text" : "promotes a more even",
+    "top" : 0.42916872427983543,
+    "width" : 0.17155751322751317
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.7493494444444444,
+    "height" : 0.012308024691358022,
+    "left" : 0.71665702380952367,
     "page" : 15,
-    "text" : "your face feeling clean and",
-    "top" : 0.43981144781144782,
-    "width" : 0.19565055555555549
+    "text" : "appearance, leaving your face",
+    "top" : 0.44380246913580246,
+    "width" : 0.22834297619047617
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.69248166666666666,
+    "height" : 0.012151234567901233,
+    "left" : 0.71349714285714294,
     "page" : 15,
-    "text" : "prepared for your skincare routine.",
-    "top" : 0.45378002244668908,
-    "width" : 0.25251833333333329
+    "text" : "feeling clean and prepared for",
+    "top" : 0.45843621399176954,
+    "width" : 0.23150285714285695
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012164300411522633,
+    "left" : 0.77972529100529087,
+    "page" : 15,
+    "text" : "your skincare routine.",
+    "top" : 0.47306995884773662,
+    "width" : 0.16527470899470895
   },
   {
     "align" : "right",
@@ -956,7 +1006,7 @@
     "left" : 0.80697989417989413,
     "page" : 15,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.50305131874298536,
     "width" : 0.13802010582010579
   },
   {
@@ -966,7 +1016,7 @@
     "left" : 0.88979027777777764,
     "page" : 15,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53605131874298539,
     "width" : 0.055209722222222209
   },
   {
@@ -976,7 +1026,7 @@
     "left" : 0.80697989417989413,
     "page" : 15,
     "text" : "LKR 885",
-    "top" : 0.56199999999999994,
+    "top" : 0.57505131874298543,
     "width" : 0.13802010582010579
   },
   {
@@ -986,7 +1036,7 @@
     "left" : 0.87842579365079354,
     "page" : 15,
     "text" : "100 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.60805131874298535,
     "width" : 0.066574206349206341
   },
   {
@@ -1072,82 +1122,82 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.69945322751322747,
+    "height" : 0.012867480359147023,
+    "left" : 0.68829201058201051,
     "page" : 16,
     "text" : "Apricot granules gently lift dead",
     "top" : 0.35599999999999998,
-    "width" : 0.24554677248677242
+    "width" : 0.25670798941798939
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.69932387566137555,
+    "height" : 0.012553306210250652,
+    "left" : 0.68815677910052919,
     "page" : 16,
     "text" : "skin cells and help clear clogged",
-    "top" : 0.37063374485596706,
-    "width" : 0.24567612433862432
+    "top" : 0.37129891507669283,
+    "width" : 0.25684322089947081
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.7047012169312169,
+    "height" : 0.012403049008604564,
+    "left" : 0.69377854497354485,
     "page" : 16,
     "text" : "pores, while Aloe Vera supports",
-    "top" : 0.38526748971193414,
-    "width" : 0.24029878306878302
+    "top" : 0.38659783015338567,
+    "width" : 0.25122145502645504
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70403597883597868,
+    "height" : 0.012553306210250652,
+    "left" : 0.69308306878306869,
     "page" : 16,
     "text" : "natural moisture. This cleansing",
-    "top" : 0.39990123456790122,
-    "width" : 0.24096402116402119
+    "top" : 0.40189674523007851,
+    "width" : 0.25191693121693126
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.72720843915343913,
+    "height" : 0.012703563411896743,
+    "left" : 0.71730882275132257,
     "page" : 16,
     "text" : "face wash leaves skin feeling",
-    "top" : 0.41453497942386824,
-    "width" : 0.21779156084656082
+    "top" : 0.41719566030677141,
+    "width" : 0.2276911772486773
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.72356810846560837,
+    "height" : 0.012703563411896743,
+    "left" : 0.71350302248677233,
     "page" : 16,
     "text" : "softer and smoother, helping",
-    "top" : 0.42916872427983543,
-    "width" : 0.2214318915343915
+    "top" : 0.43249457538346425,
+    "width" : 0.23149697751322754
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.69987824074074068,
+    "height" : 0.012553306210250654,
+    "left" : 0.68873634259259253,
     "page" : 16,
     "text" : "reveal a fresh appearance with a",
-    "top" : 0.44380246913580246,
-    "width" : 0.24512175925925922
+    "top" : 0.4477934904601571,
+    "width" : 0.25626365740740736
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.70900678571428566,
+    "height" : 0.012717223157500932,
+    "left" : 0.69827982142857126,
     "page" : 16,
     "text" : "naturally healthy looking glow.",
-    "top" : 0.45843621399176954,
-    "width" : 0.23599321428571429
+    "top" : 0.46309240553684999,
+    "width" : 0.24672017857142861
   },
   {
     "align" : "right",
@@ -1156,7 +1206,7 @@
     "left" : 0.80697989417989413,
     "page" : 16,
     "text" : "LKR 885",
-    "top" : 0.48999999999999999,
+    "top" : 0.49362668817807709,
     "width" : 0.13802010582010579
   },
   {
@@ -1166,7 +1216,7 @@
     "left" : 0.87842579365079354,
     "page" : 16,
     "text" : "100 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.52662668817807712,
     "width" : 0.066574206349206341
   },
   {
@@ -1252,82 +1302,82 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.70449794973544977,
+    "height" : 0.012717223157500932,
+    "left" : 0.69356603835978825,
     "page" : 17,
     "text" : "Orange Peel, Honey and Papain",
     "top" : 0.35599999999999998,
-    "width" : 0.24050205026455018
+    "width" : 0.2514339616402117
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.68699849206349195,
+    "height" : 0.012553306210250652,
+    "left" : 0.71031542328042319,
     "page" : 17,
-    "text" : "work together to cleanse skin and",
-    "top" : 0.37063374485596706,
-    "width" : 0.25800150793650783
+    "text" : "work together to cleanse skin",
+    "top" : 0.37129891507669283,
+    "width" : 0.23468457671957671
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70989376984126984,
+    "height" : 0.012553306210250654,
+    "left" : 0.69207849206349203,
     "page" : 17,
-    "text" : "improve the appearance of tan",
-    "top" : 0.38526748971193414,
-    "width" : 0.23510623015873008
+    "text" : "and improve the appearance of",
+    "top" : 0.38659783015338567,
+    "width" : 0.25292150793650786
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70008150793650792,
+    "height" : 0.012553306210250654,
+    "left" : 0.69547859788359767,
     "page" : 17,
-    "text" : "and dullness. This soap free face",
-    "top" : 0.39990123456790122,
-    "width" : 0.244918492063492
+    "text" : "tan and dullness. This soap free",
+    "top" : 0.40189674523007851,
+    "width" : 0.24952140211640222
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.72059301587301594,
+    "height" : 0.012553306210250654,
+    "left" : 0.70896310846560839,
     "page" : 17,
-    "text" : "wash helps remove dead skin",
-    "top" : 0.41453497942386824,
-    "width" : 0.22440698412698401
+    "text" : "face wash helps remove dead",
+    "top" : 0.41719566030677141,
+    "width" : 0.23603689153439153
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.69633030423280406,
+    "height" : 0.012553306210250652,
+    "left" : 0.71128136243386231,
     "page" : 17,
-    "text" : "cells while soothing skin, leaving",
-    "top" : 0.42916872427983543,
-    "width" : 0.24866969576719578
+    "text" : "skin cells while soothing skin,",
+    "top" : 0.43249457538346425,
+    "width" : 0.23371863756613756
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.70784261904761903,
+    "height" : 0.012867480359147023,
+    "left" : 0.75102009920634916,
     "page" : 17,
-    "text" : "your face feeling refreshed and",
-    "top" : 0.44380246913580246,
-    "width" : 0.2371573809523809
+    "text" : "leaving your face feeling",
+    "top" : 0.4477934904601571,
+    "width" : 0.19397990079365079
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.81503834656084651,
+    "height" : 0.012867480359147023,
+    "left" : 0.69451265873015855,
     "page" : 17,
-    "text" : "visibly smoother.",
-    "top" : 0.45843621399176954,
-    "width" : 0.12996165343915339
+    "text" : "refreshed and visibly smoother.",
+    "top" : 0.46309240553684999,
+    "width" : 0.25048734126984129
   },
   {
     "align" : "right",
@@ -1336,7 +1386,7 @@
     "left" : 0.80697989417989413,
     "page" : 17,
     "text" : "LKR 885",
-    "top" : 0.48999999999999999,
+    "top" : 0.49377694537972322,
     "width" : 0.13802010582010579
   },
   {
@@ -1346,7 +1396,7 @@
     "left" : 0.87842579365079354,
     "page" : 17,
     "text" : "100 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.52677694537972319,
     "width" : 0.066574206349206341
   },
   {
@@ -1432,82 +1482,82 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70606865079365078,
+    "height" : 0.012553306210250654,
+    "left" : 0.69520813492063482,
     "page" : 18,
     "text" : "Rose flower extract and oil help",
     "top" : 0.35599999999999998,
-    "width" : 0.23893134920634912
+    "width" : 0.24979186507936504
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70771326719576721,
+    "height" : 0.012553306210250654,
+    "left" : 0.69692750661375669,
     "page" : 18,
     "text" : "support soft, supple skin with a",
-    "top" : 0.37063374485596706,
-    "width" : 0.23728673280423271
+    "top" : 0.37129891507669283,
+    "width" : 0.24807249338624329
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.70932092592592577,
+    "height" : 0.012703563411896743,
+    "left" : 0.69860824074074057,
     "page" : 18,
     "text" : "natural glow. This fragrant face",
-    "top" : 0.38526748971193414,
-    "width" : 0.23567907407407412
+    "top" : 0.38659783015338567,
+    "width" : 0.24639175925925927
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.76241062169312168,
+    "height" : 0.012717223157500932,
+    "left" : 0.75411110449735452,
     "page" : 18,
     "text" : "wash cleanses everyday",
-    "top" : 0.39990123456790122,
-    "width" : 0.18258937830687824
+    "top" : 0.40189674523007851,
+    "width" : 0.19088889550264546
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.72205284391534397,
+    "height" : 0.012867480359147023,
+    "left" : 0.71191888227513223,
     "page" : 18,
     "text" : "impurities and refreshes your",
-    "top" : 0.41453497942386824,
-    "width" : 0.22294715608465598
+    "top" : 0.41719566030677141,
+    "width" : 0.2330811177248677
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012151234567901233,
-    "left" : 0.70008150793650792,
+    "height" : 0.012703563411896743,
+    "left" : 0.68894884920634902,
     "page" : 18,
     "text" : "complexion, leaving skin feeling",
-    "top" : 0.42916872427983543,
-    "width" : 0.244918492063492
+    "top" : 0.43249457538346425,
+    "width" : 0.25605115079365087
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.69682923280423281,
+    "height" : 0.012553306210250654,
+    "left" : 0.68554874338624328,
     "page" : 18,
     "text" : "clean and comfortable as part of",
-    "top" : 0.44380246913580246,
-    "width" : 0.24817076719576711
+    "top" : 0.4477934904601571,
+    "width" : 0.25945125661375656
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.70039564814814814,
+    "height" : 0.012717223157500932,
+    "left" : 0.68927726851851845,
     "page" : 18,
     "text" : "a simple daily cleansing routine.",
-    "top" : 0.45843621399176954,
-    "width" : 0.24460435185185178
+    "top" : 0.46309240553684999,
+    "width" : 0.2557227314814815
   },
   {
     "align" : "right",
@@ -1516,7 +1566,7 @@
     "left" : 0.80697989417989413,
     "page" : 18,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.49362668817807709,
     "width" : 0.13802010582010579
   },
   {
@@ -1526,7 +1576,7 @@
     "left" : 0.88979027777777764,
     "page" : 18,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.52662668817807712,
     "width" : 0.055209722222222209
   },
   {
@@ -1612,82 +1662,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0089922699214365874,
-    "left" : 0.70953847222222222,
+    "height" : 0.0094204732510288058,
+    "left" : 0.6983260185185185,
     "page" : 19,
     "text" : "Activated Coconut Charcoal and",
     "top" : 0.35599999999999998,
-    "width" : 0.23546152777777771
+    "width" : 0.2466739814814814
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.70280041666666659,
+    "height" : 0.012007510288065841,
+    "left" : 0.69126710317460316,
     "page" : 19,
     "text" : "Green Tea help lift impurities and",
-    "top" : 0.3699685746352413,
-    "width" : 0.2421995833333333
+    "top" : 0.37063374485596706,
+    "width" : 0.25373289682539674
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.72005125000000003,
+    "height" : 0.012164300411522633,
+    "left" : 0.70933940476190471,
     "page" : 19,
     "text" : "excess oil associated with daily",
-    "top" : 0.38393714927048256,
-    "width" : 0.22494874999999992
+    "top" : 0.38526748971193414,
+    "width" : 0.23566059523809516
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.69953722222222203,
+    "height" : 0.012007510288065841,
+    "left" : 0.68784851851851847,
     "page" : 19,
     "text" : "pollution exposure. This soap free",
-    "top" : 0.39790572390572387,
-    "width" : 0.24546277777777781
+    "top" : 0.39990123456790122,
+    "width" : 0.25715148148148143
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.7124488888888888,
+    "height" : 0.012007510288065841,
+    "left" : 0.70137502645502647,
     "page" : 19,
     "text" : "face wash purifies and refreshes",
-    "top" : 0.41187429854096524,
-    "width" : 0.23255111111111113
+    "top" : 0.41453497942386824,
+    "width" : 0.24362497354497342
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.73229263888888874,
+    "height" : 0.012151234567901233,
+    "left" : 0.72216371693121684,
     "page" : 19,
     "text" : "skin, leaving a cleaner feeling",
-    "top" : 0.4258428731762065,
-    "width" : 0.21270736111111108
+    "top" : 0.42916872427983543,
+    "width" : 0.222836283068783
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.69278152777777768,
+    "height" : 0.012164300411522633,
+    "left" : 0.74176976190476185,
     "page" : 19,
-    "text" : "complexion with a healthy looking",
-    "top" : 0.43981144781144782,
-    "width" : 0.25221847222222216
+    "text" : "complexion with a healthy",
+    "top" : 0.44380246913580246,
+    "width" : 0.20323023809523807
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.7372844444444443,
+    "height" : 0.012151234567901233,
+    "left" : 0.71440260582010573,
     "page" : 19,
-    "text" : "appearance after each wash.",
-    "top" : 0.45378002244668908,
-    "width" : 0.20771555555555554
+    "text" : "looking appearance after each",
+    "top" : 0.45843621399176954,
+    "width" : 0.23059739417989417
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0094204732510288058,
+    "left" : 0.90209214285714268,
+    "page" : 19,
+    "text" : "wash.",
+    "top" : 0.47306995884773662,
+    "width" : 0.042907857142857136
   },
   {
     "align" : "right",
@@ -1696,7 +1756,7 @@
     "left" : 0.80697989417989413,
     "page" : 19,
     "text" : "LKR 545",
-    "top" : 0.48999999999999999,
+    "top" : 0.50030749158249155,
     "width" : 0.13802010582010579
   },
   {
@@ -1706,7 +1766,7 @@
     "left" : 0.88979027777777764,
     "page" : 19,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53330749158249158,
     "width" : 0.055209722222222209
   },
   {

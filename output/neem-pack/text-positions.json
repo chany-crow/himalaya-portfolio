@@ -15,7 +15,7 @@
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 22,
-    "text" : "PURE",
+    "text" : "PURIFY",
     "top" : 0.11,
     "width" : 0.88
   },
@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010883847736625514,
-    "left" : 0.68940074074074076,
+    "height" : 0.011378568088290309,
+    "left" : 0.72354878968253966,
     "page" : 22,
-    "text" : "Neem, Turmeric and Fuller's Earth",
+    "text" : "Neem, Turmeric and Fuller's",
     "top" : 0.35599999999999998,
-    "width" : 0.25559925925925919
+    "width" : 0.22145121031746029
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011863786008230452,
-    "left" : 0.71187100529100533,
+    "height" : 0.012403049008604564,
+    "left" : 0.72070892857142854,
     "page" : 22,
-    "text" : "help absorb excess oil, remove",
-    "top" : 0.37063374485596706,
-    "width" : 0.23312899470899462
+    "text" : "Earth help absorb excess oil,",
+    "top" : 0.37129891507669283,
+    "width" : 0.22429107142857144
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.70750999999999986,
+    "height" : 0.012403049008604564,
+    "left" : 0.7005208002645501,
     "page" : 22,
-    "text" : "impurities and cleanse clogged",
-    "top" : 0.38526748971193414,
-    "width" : 0.23749000000000001
+    "text" : "remove impurities and cleanse",
+    "top" : 0.38659783015338567,
+    "width" : 0.24447919973544982
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.69932387566137555,
+    "height" : 0.012867480359147023,
+    "left" : 0.713792804232804,
     "page" : 22,
-    "text" : "pores. This purifying face pack is",
-    "top" : 0.39990123456790122,
-    "width" : 0.24567612433862432
+    "text" : "clogged pores. This purifying",
+    "top" : 0.40189674523007851,
+    "width" : 0.23120719576719581
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012164300411522633,
-    "left" : 0.69651509259259259,
+    "height" : 0.012867480359147023,
+    "left" : 0.74238460317460309,
     "page" : 22,
-    "text" : "suited to oily, pimple prone skin,",
-    "top" : 0.41453497942386824,
-    "width" : 0.24848490740740733
+    "text" : "face pack is suited to oily,",
+    "top" : 0.41719566030677141,
+    "width" : 0.20261539682539684
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012308024691358022,
-    "left" : 0.70004455026455015,
+    "height" : 0.012717223157500932,
+    "left" : 0.69356603835978825,
     "page" : 22,
-    "text" : "leaving your complexion feeling",
-    "top" : 0.42916872427983543,
-    "width" : 0.24495544973544972
+    "text" : "pimple prone skin, leaving your",
+    "top" : 0.43249457538346425,
+    "width" : 0.2514339616402117
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065841,
-    "left" : 0.70763935185185189,
+    "height" : 0.012703563411896743,
+    "left" : 0.71130068121693113,
     "page" : 22,
-    "text" : "refreshed and clearer as part of",
-    "top" : 0.44380246913580246,
-    "width" : 0.237360648148148
+    "text" : "complexion feeling refreshed",
+    "top" : 0.4477934904601571,
+    "width" : 0.23369931878306871
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012007510288065843,
-    "left" : 0.82102548941798936,
+    "height" : 0.012703563411896743,
+    "left" : 0.7161883333333332,
     "page" : 22,
-    "text" : "regular skincare.",
-    "top" : 0.45843621399176954,
-    "width" : 0.12397451058201056
+    "text" : "and clearer as part of regular",
+    "top" : 0.46309240553684999,
+    "width" : 0.22881166666666664
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0098486765806210241,
+    "left" : 0.87653423280423282,
+    "page" : 22,
+    "text" : "skincare.",
+    "top" : 0.47839132061354284,
+    "width" : 0.068465767195767177
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.80562589947089935,
     "page" : 22,
     "text" : "LKR 790",
-    "top" : 0.48999999999999999,
+    "top" : 0.50605705667789003,
     "width" : 0.13937410052910051
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.90251547619047612,
     "page" : 22,
     "text" : "50 g",
-    "top" : 0.52300000000000002,
+    "top" : 0.53905705667788995,
     "width" : 0.042484523809523812
   },
   {

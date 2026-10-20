@@ -15,7 +15,7 @@
     "height" : 0.16300000000000001,
     "left" : 0.065000000000000002,
     "page" : 23,
-    "text" : "PURE",
+    "text" : "PURIFY",
     "top" : 0.11,
     "width" : 0.88
   },
@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011324523007856342,
-    "left" : 0.69368111111111108,
+    "height" : 0.011863786008230452,
+    "left" : 0.71126120370370371,
     "page" : 23,
-    "text" : "Neem based care helps reduce the",
+    "text" : "Neem based care helps reduce",
     "top" : 0.35599999999999998,
-    "width" : 0.25131888888888887
+    "width" : 0.23373879629629621
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.74693291666666661,
+    "height" : 0.012007510288065841,
+    "left" : 0.70763935185185189,
     "page" : 23,
-    "text" : "appearance of pimples and",
-    "top" : 0.3699685746352413,
-    "width" : 0.19806708333333331
+    "text" : "the appearance of pimples and",
+    "top" : 0.37063374485596706,
+    "width" : 0.23736064814814811
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.7567754166666667,
+    "height" : 0.012007510288065843,
+    "left" : 0.7478123412698412,
     "page" : 23,
     "text" : "supports a clearer looking",
-    "top" : 0.38393714927048256,
-    "width" : 0.18822458333333325
+    "top" : 0.38526748971193414,
+    "width" : 0.1971876587301587
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.70458194444444433,
+    "height" : 0.012007510288065841,
+    "left" : 0.69313346560846567,
     "page" : 23,
     "text" : "complexion. This facial serum fits",
-    "top" : 0.39790572390572387,
-    "width" : 0.24041805555555554
+    "top" : 0.39990123456790122,
+    "width" : 0.25186653439153422
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881033,
-    "left" : 0.7567401388888888,
+    "height" : 0.012007510288065841,
+    "left" : 0.74777538359788354,
     "page" : 23,
     "text" : "into a simple routine after",
-    "top" : 0.41187429854096524,
-    "width" : 0.18825986111111109
+    "top" : 0.41453497942386824,
+    "width" : 0.19722461640211636
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.6914762499999999,
+    "height" : 0.012151234567901233,
+    "left" : 0.74374699735449734,
     "page" : 23,
-    "text" : "cleansing, helping care for blemish",
-    "top" : 0.4258428731762065,
-    "width" : 0.25352374999999994
+    "text" : "cleansing, helping care for",
+    "top" : 0.42916872427983543,
+    "width" : 0.20125300264550255
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.69103527777777773,
+    "height" : 0.011863786008230452,
+    "left" : 0.75516691798941793,
     "page" : 23,
-    "text" : "prone skin while promoting a fresh",
-    "top" : 0.43981144781144782,
-    "width" : 0.25396472222222222
+    "text" : "blemish prone skin while",
+    "top" : 0.44380246913580246,
+    "width" : 0.18983308201058199
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011324523007856342,
-    "left" : 0.75248916666666665,
+    "height" : 0.012151234567901233,
+    "left" : 0.70093153439153433,
     "page" : 23,
-    "text" : "and balanced appearance.",
-    "top" : 0.45378002244668908,
-    "width" : 0.19251083333333333
+    "text" : "promoting a fresh and balanced",
+    "top" : 0.45843621399176954,
+    "width" : 0.24406846560846557
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0090546296296296278,
+    "left" : 0.85164492063492059,
+    "page" : 23,
+    "text" : "appearance.",
+    "top" : 0.47306995884773662,
+    "width" : 0.093355079365079349
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.80697989417989413,
     "page" : 23,
     "text" : "LKR 965",
-    "top" : 0.48999999999999999,
+    "top" : 0.49994164796109236,
     "width" : 0.13802010582010579
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.89135257936507939,
     "page" : 23,
     "text" : "15 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53294164796109234,
     "width" : 0.053647420634920631
   },
   {

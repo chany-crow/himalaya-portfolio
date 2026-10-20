@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011054891507669286,
-    "left" : 0.71690102843915327,
+    "height" : 0.011594154508043396,
+    "left" : 0.7057742493386242,
     "page" : 9,
     "text" : "Rose and Vitamin E help nourish",
     "top" : 0.35599999999999998,
-    "width" : 0.22809897156084663
+    "width" : 0.23922575066137569
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.01132274130190797,
-    "left" : 0.69790856481481478,
+    "height" : 0.011875070145903477,
+    "left" : 0.73047877314814802,
     "page" : 9,
-    "text" : "and refresh dull looking skin, while",
-    "top" : 0.36963598952487842,
-    "width" : 0.24709143518518517
+    "text" : "and refresh dull looking skin,",
+    "top" : 0.37030115974560418,
+    "width" : 0.21452122685185185
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011188816404788627,
-    "left" : 0.77053794973544965,
+    "height" : 0.011734612326973436,
+    "left" : 0.71734998015873008,
     "page" : 9,
-    "text" : "the cream's moisturizing",
-    "top" : 0.38327197904975679,
-    "width" : 0.17446205026455025
+    "text" : "while the cream's moisturizing",
+    "top" : 0.38460231949120838,
+    "width" : 0.22765001984126987
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.01132274130190797,
-    "left" : 0.71819244708994701,
+    "height" : 0.011875070145903477,
+    "left" : 0.70712866402116403,
     "page" : 9,
     "text" : "ingredients support softness. Its",
-    "top" : 0.39690796857463523,
-    "width" : 0.22680755291005289
+    "top" : 0.39890347923681257,
+    "width" : 0.23787133597883589
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011468841189674523,
-    "left" : 0.69010839616402098,
+    "height" : 0.012028296857463525,
+    "left" : 0.7314720105820105,
     "page" : 9,
-    "text" : "mattifying formula leaves no greasy",
-    "top" : 0.41054395809951366,
-    "width" : 0.25489160383597892
+    "text" : "mattifying formula leaves no",
+    "top" : 0.41320463898241677,
+    "width" : 0.21352798941798942
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011054891507669286,
-    "left" : 0.70700015211640199,
+    "height" : 0.011887839038533483,
+    "left" : 0.69869517526455027,
     "page" : 9,
-    "text" : "residue and helps reveal a natural",
-    "top" : 0.42417994762439204,
-    "width" : 0.2379998478835979
+    "text" : "greasy residue and helps reveal a",
+    "top" : 0.42750579872802091,
+    "width" : 0.24630482473544971
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011468841189674523,
-    "left" : 0.70524382275132269,
+    "height" : 0.011887839038533483,
+    "left" : 0.71489397486772477,
     "page" : 9,
-    "text" : "glow, making everyday facial care",
-    "top" : 0.43781593714927047,
-    "width" : 0.23975617724867723
+    "text" : "natural glow, making everyday",
+    "top" : 0.44180695847362517,
+    "width" : 0.23010602513227504
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.01132274130190797,
-    "left" : 0.7563323445767195,
+    "height" : 0.011875070145903477,
+    "left" : 0.76905250330687824,
     "page" : 9,
-    "text" : "feel light and comfortable.",
-    "top" : 0.45145192667414891,
-    "width" : 0.18866765542328043
+    "text" : "facial care feel light and",
+    "top" : 0.45610811821922931,
+    "width" : 0.17594749669312171
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0093468294051627376,
+    "left" : 0.85017291335978828,
+    "page" : 9,
+    "text" : "comfortable.",
+    "top" : 0.47040927796483351,
+    "width" : 0.094827086640211625
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.80697989417989413,
     "page" : 9,
     "text" : "LKR 395",
-    "top" : 0.48999999999999999,
+    "top" : 0.49757316685372238,
     "width" : 0.13802010582010579
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.90259107142857131,
     "page" : 9,
     "text" : "25 g",
-    "top" : 0.52300000000000002,
+    "top" : 0.53057316685372236,
     "width" : 0.04240892857142857
   },
   {
@@ -166,7 +176,7 @@
     "left" : 0.80697989417989413,
     "page" : 9,
     "text" : "LKR 645",
-    "top" : 0.56199999999999994,
+    "top" : 0.56957316685372239,
     "width" : 0.13802010582010579
   },
   {
@@ -176,7 +186,7 @@
     "left" : 0.90251547619047612,
     "page" : 9,
     "text" : "50 g",
-    "top" : 0.59499999999999997,
+    "top" : 0.60257316685372231,
     "width" : 0.042484523809523812
   },
   {
@@ -262,82 +272,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010636487560793115,
-    "left" : 0.69508340277777769,
+    "height" : 0.011131207912457912,
+    "left" : 0.71598422619047619,
     "page" : 10,
-    "text" : "Enriched with Kashmiri Kesar, this",
+    "text" : "Enriched with Kashmiri Kesar,",
     "top" : 0.35599999999999998,
-    "width" : 0.2499165972222222
+    "width" : 0.22901577380952381
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.74581074735449726,
+    "height" : 0.012280408249158249,
+    "left" : 0.70396458333333312,
     "page" : 10,
-    "text" : "face cream helps keep skin",
-    "top" : 0.37030115974560418,
-    "width" : 0.19918925264550261
+    "text" : "this face cream helps keep skin",
+    "top" : 0.37096632996633,
+    "width" : 0.24103541666666678
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0092063715862326957,
-    "left" : 0.71823486441798934,
+    "height" : 0.0096345749158249158,
+    "left" : 0.70768764880952373,
     "page" : 10,
     "text" : "moisturized and smooth while",
-    "top" : 0.38460231949120838,
-    "width" : 0.22676513558201059
+    "top" : 0.3859326599326599,
+    "width" : 0.23731235119047614
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.71476756283068776,
+    "height" : 0.012440761784511783,
+    "left" : 0.7040590773809523,
     "page" : 10,
     "text" : "supporting a naturally glowing",
-    "top" : 0.39890347923681257,
-    "width" : 0.23023243716931219
+    "top" : 0.40089898989898992,
+    "width" : 0.24094092261904762
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.71576080026455013,
+    "height" : 0.012440761784511783,
+    "left" : 0.7050985119047618,
     "page" : 10,
     "text" : "complexion. Apply to cleansed",
-    "top" : 0.41320463898241677,
-    "width" : 0.22923919973544971
+    "top" : 0.41586531986531983,
+    "width" : 0.23990148809523809
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011875070145903477,
-    "left" : 0.74503421626984112,
+    "height" : 0.01242739898989899,
+    "left" : 0.73573348214285716,
     "page" : 10,
     "text" : "face and neck using gentle",
-    "top" : 0.42750579872802091,
-    "width" : 0.19996578373015875
+    "top" : 0.43083164983164984,
+    "width" : 0.20926651785714281
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.70349883267195756,
+    "height" : 0.012280408249158249,
+    "left" : 0.69226622023809514,
     "page" : 10,
     "text" : "upward movements for a simple",
-    "top" : 0.44180695847362517,
-    "width" : 0.2415011673280423
+    "top" : 0.4457979797979798,
+    "width" : 0.25273377976190475
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.68991856812169317,
+    "height" : 0.012440761784511783,
+    "left" : 0.74357648809523802,
     "page" : 10,
-    "text" : "daily step in your skincare routine.",
-    "top" : 0.45610811821922931,
-    "width" : 0.25508143187830679
+    "text" : "daily step in your skincare",
+    "top" : 0.46076430976430977,
+    "width" : 0.20142351190476185
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.0091668771043771045,
+    "left" : 0.88546874999999992,
+    "page" : 10,
+    "text" : "routine.",
+    "top" : 0.47573063973063973,
+    "width" : 0.059531249999999994
   },
   {
     "align" : "right",
@@ -346,7 +366,7 @@
     "left" : 0.80697989417989413,
     "page" : 10,
     "text" : "LKR 395",
-    "top" : 0.48999999999999999,
+    "top" : 0.50271457631874295,
     "width" : 0.13802010582010579
   },
   {
@@ -356,7 +376,7 @@
     "left" : 0.90259107142857131,
     "page" : 10,
     "text" : "25 g",
-    "top" : 0.52300000000000002,
+    "top" : 0.53571457631874297,
     "width" : 0.04240892857142857
   },
   {
@@ -366,7 +386,7 @@
     "left" : 0.80697989417989413,
     "page" : 10,
     "text" : "LKR 645",
-    "top" : 0.56199999999999994,
+    "top" : 0.57471457631874301,
     "width" : 0.13802010582010579
   },
   {
@@ -376,7 +396,7 @@
     "left" : 0.90251547619047612,
     "page" : 10,
     "text" : "50 g",
-    "top" : 0.59499999999999997,
+    "top" : 0.60771457631874293,
     "width" : 0.042484523809523812
   },
   {

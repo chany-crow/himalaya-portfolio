@@ -62,82 +62,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010636487560793115,
-    "left" : 0.68854609457671945,
+    "height" : 0.011131207912457912,
+    "left" : 0.73652723214285709,
     "page" : 25,
-    "text" : "Tea Tree Oil, Aloe Vera and natural",
+    "text" : "Tea Tree Oil, Aloe Vera and",
     "top" : 0.35599999999999998,
-    "width" : 0.25645390542328039
+    "width" : 0.20847276785714289
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011875070145903477,
-    "left" : 0.71081267195767184,
+    "height" : 0.012133417508417508,
+    "left" : 0.71940491071428558,
     "page" : 25,
-    "text" : "proteins help cleanse hair, fight",
-    "top" : 0.37030115974560418,
-    "width" : 0.23418732804232803
+    "text" : "natural proteins help cleanse",
+    "top" : 0.37096632996633,
+    "width" : 0.22559508928571434
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0093468294051627376,
-    "left" : 0.71122802579365063,
+    "height" : 0.012427398989898992,
+    "left" : 0.71146741071428565,
     "page" : 25,
-    "text" : "visible dandruff and soothe the",
-    "top" : 0.38460231949120838,
-    "width" : 0.23377197420634924
+    "text" : "hair, fight visible dandruff and",
+    "top" : 0.3859326599326599,
+    "width" : 0.23353258928571433
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.70972914021164002,
+    "height" : 0.012280408249158247,
+    "left" : 0.68905342261904756,
     "page" : 25,
-    "text" : "scalp. This nourishing shampoo",
-    "top" : 0.39890347923681257,
-    "width" : 0.23527085978835979
+    "text" : "soothe the scalp. This nourishing",
+    "top" : 0.40089898989898992,
+    "width" : 0.25594657738095239
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.71561632936507935,
+    "height" : 0.012280408249158249,
+    "left" : 0.74510729166666667,
     "page" : 25,
-    "text" : "supports softer, smoother hair,",
-    "top" : 0.41320463898241677,
-    "width" : 0.22938367063492057
+    "text" : "shampoo supports softer,",
+    "top" : 0.41586531986531983,
+    "width" : 0.19989270833333325
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.75319682208994698,
+    "height" : 0.012280408249158247,
+    "left" : 0.70791443452380942,
     "page" : 25,
-    "text" : "making regular washing a",
-    "top" : 0.42750579872802091,
-    "width" : 0.19180317791005289
+    "text" : "smoother hair, making regular",
+    "top" : 0.43083164983164984,
+    "width" : 0.23708556547619045
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011875070145903477,
-    "left" : 0.71308808862433848,
+    "height" : 0.01242739898989899,
+    "left" : 0.74423794642857144,
     "page" : 25,
-    "text" : "refreshing step towards a clean",
-    "top" : 0.44180695847362517,
-    "width" : 0.23191191137566142
+    "text" : "washing a refreshing step",
+    "top" : 0.4457979797979798,
+    "width" : 0.20076205357142854
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.7176028042328042,
+    "height" : 0.012133417508417508,
+    "left" : 0.74501279761904748,
     "page" : 25,
-    "text" : "scalp and healthy looking hair.",
-    "top" : 0.45610811821922931,
-    "width" : 0.22739719576719572
+    "text" : "towards a clean scalp and",
+    "top" : 0.46076430976430977,
+    "width" : 0.19998720238095241
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012440761784511783,
+    "left" : 0.78621220238095235,
+    "page" : 25,
+    "text" : "healthy looking hair.",
+    "top" : 0.47573063973063973,
+    "width" : 0.15878779761904757
   },
   {
     "align" : "right",
@@ -146,7 +156,7 @@
     "left" : 0.80562589947089935,
     "page" : 25,
     "text" : "LKR 450",
-    "top" : 0.48999999999999999,
+    "top" : 0.50598846099887762,
     "width" : 0.13937410052910051
   },
   {
@@ -156,7 +166,7 @@
     "left" : 0.88966428571428569,
     "page" : 25,
     "text" : "80 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53898846099887765,
     "width" : 0.05533571428571428
   },
   {
@@ -166,7 +176,7 @@
     "left" : 0.80562589947089935,
     "page" : 25,
     "text" : "LKR 850",
-    "top" : 0.56199999999999994,
+    "top" : 0.57798846099887768,
     "width" : 0.13937410052910051
   },
   {
@@ -176,7 +186,7 @@
     "left" : 0.87842579365079354,
     "page" : 25,
     "text" : "180 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.6109884609988776,
     "width" : 0.066574206349206341
   },
   {
@@ -272,82 +282,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.70644242724867712,
+    "height" : 0.012280408249158247,
+    "left" : 0.69534672619047611,
     "page" : 26,
     "text" : "Bhringaraja, Palasha and natural",
     "top" : 0.35599999999999998,
-    "width" : 0.23855757275132278
+    "width" : 0.24965327380952382
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011594154508043396,
-    "left" : 0.72108816468253967,
+    "height" : 0.012133417508417508,
+    "left" : 0.71067366071428562,
     "page" : 26,
     "text" : "proteins help nourish hair and",
-    "top" : 0.37030115974560418,
-    "width" : 0.22391183531746026
+    "top" : 0.37096632996633,
+    "width" : 0.23432633928571422
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012028296857463525,
-    "left" : 0.75556253306878296,
+    "height" : 0.012587752525252524,
+    "left" : 0.74675148809523806,
     "page" : 26,
     "text" : "reduce hair fall caused by",
-    "top" : 0.38460231949120838,
-    "width" : 0.18943746693121694
+    "top" : 0.3859326599326599,
+    "width" : 0.19824851190476189
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.69660034722222208,
+    "height" : 0.012280408249158247,
+    "left" : 0.75544494047619049,
     "page" : 26,
-    "text" : "breakage. This shampoo cleanses",
-    "top" : 0.39890347923681257,
-    "width" : 0.24839965277777776
+    "text" : "breakage. This shampoo",
+    "top" : 0.40089898989898992,
+    "width" : 0.18955505952380947
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.71135443783068786,
+    "height" : 0.012133417508417508,
+    "left" : 0.72046324404761897,
     "page" : 26,
-    "text" : "hair and scalp while supporting",
-    "top" : 0.41320463898241677,
-    "width" : 0.23364556216931212
+    "text" : "cleanses hair and scalp while",
+    "top" : 0.41586531986531983,
+    "width" : 0.22453675595238098
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.69215786706349192,
+    "height" : 0.012280408249158247,
+    "left" : 0.75389523809523806,
     "page" : 26,
-    "text" : "strength and smoothness, leaving",
-    "top" : 0.42750579872802091,
-    "width" : 0.25284213293650798
+    "text" : "supporting strength and",
+    "top" : 0.43083164983164984,
+    "width" : 0.19110476190476192
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012028296857463525,
-    "left" : 0.68740838624338618,
+    "height" : 0.01242739898989899,
+    "left" : 0.69324895833333333,
     "page" : 26,
-    "text" : "hair feeling cared for and ready for",
-    "top" : 0.44180695847362517,
-    "width" : 0.25759161375661366
+    "text" : "smoothness, leaving hair feeling",
+    "top" : 0.4457979797979798,
+    "width" : 0.25175104166666662
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.012028296857463521,
-    "left" : 0.71892110119047614,
+    "height" : 0.012587752525252524,
+    "left" : 0.76737008928571426,
+    "page" : 26,
+    "text" : "cared for and ready for",
+    "top" : 0.46076430976430977,
+    "width" : 0.17762991071428569
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012587752525252524,
+    "left" : 0.70840580357142846,
     "page" : 26,
     "text" : "conditioning after every wash.",
-    "top" : 0.45610811821922931,
-    "width" : 0.22607889880952375
+    "top" : 0.47573063973063973,
+    "width" : 0.23659419642857146
   },
   {
     "align" : "right",
@@ -356,7 +376,7 @@
     "left" : 0.80562589947089935,
     "page" : 26,
     "text" : "LKR 450",
-    "top" : 0.48999999999999999,
+    "top" : 0.50613545173961849,
     "width" : 0.13937410052910051
   },
   {
@@ -366,7 +386,7 @@
     "left" : 0.88966428571428569,
     "page" : 26,
     "text" : "80 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53913545173961841,
     "width" : 0.05533571428571428
   },
   {
@@ -376,7 +396,7 @@
     "left" : 0.80562589947089935,
     "page" : 26,
     "text" : "LKR 850",
-    "top" : 0.56199999999999994,
+    "top" : 0.57813545173961844,
     "width" : 0.13937410052910051
   },
   {
@@ -386,7 +406,7 @@
     "left" : 0.87842579365079354,
     "page" : 26,
     "text" : "180 ml",
-    "top" : 0.59499999999999997,
+    "top" : 0.61113545173961847,
     "width" : 0.066574206349206341
   },
   {
@@ -482,92 +502,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010643020482603816,
-    "left" : 0.72863382936507937,
+    "height" : 0.011188816404788627,
+    "left" : 0.71753812830687813,
     "page" : 27,
     "text" : "Bhringaraja, Palasha and natural",
     "top" : 0.35599999999999998,
-    "width" : 0.21636617063492056
+    "width" : 0.22746187169312168
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010515628507295174,
-    "left" : 0.7046877777777778,
+    "height" : 0.011054891507669286,
+    "left" : 0.69236407407407397,
     "page" : 27,
     "text" : "Chickpea proteins help nourish and",
-    "top" : 0.36897081930415265,
-    "width" : 0.24031222222222215
+    "top" : 0.36963598952487842,
+    "width" : 0.25263592592592599
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010770412457912456,
-    "left" : 0.69735000000000003,
+    "height" : 0.011188816404788627,
+    "left" : 0.70872204365079361,
     "page" : 27,
-    "text" : "detangle hair while reducing hair fall",
-    "top" : 0.38194163860830532,
-    "width" : 0.2476499999999999
+    "text" : "detangle hair while reducing hair",
+    "top" : 0.38327197904975679,
+    "width" : 0.23627795634920626
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010781993546576879,
-    "left" : 0.69271475198412691,
+    "height" : 0.011468841189674523,
+    "left" : 0.74179958002645496,
     "page" : 27,
-    "text" : "caused by breakage. This conditioner",
-    "top" : 0.39491245791245788,
-    "width" : 0.25228524801587299
+    "text" : "fall caused by breakage. This",
+    "top" : 0.39690796857463523,
+    "width" : 0.20320041997354496
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0097744388327721653,
-    "left" : 0.74758429563492057,
+    "height" : 0.0089120931537598203,
+    "left" : 0.71020287037037033,
     "page" : 27,
-    "text" : "softens and smooths strands,",
-    "top" : 0.40788327721661055,
-    "width" : 0.19741570436507933
+    "text" : "conditioner softens and smooths",
+    "top" : 0.41054395809951366,
+    "width" : 0.23479712962962962
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010643020482603816,
-    "left" : 0.73276132936507932,
+    "height" : 0.011188816404788629,
+    "left" : 0.69334555224867722,
     "page" : 27,
-    "text" : "supporting easier combing and",
-    "top" : 0.42085409652076322,
-    "width" : 0.21223867063492055
+    "text" : "strands, supporting easier combing",
+    "top" : 0.42417994762439204,
+    "width" : 0.25165444775132267
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010909385521885522,
-    "left" : 0.75439794642857139,
+    "height" : 0.011468841189674523,
+    "left" : 0.7127512698412698,
     "page" : 27,
-    "text" : "leaving hair feeling silky and",
-    "top" : 0.43382491582491578,
-    "width" : 0.19060205357142851
+    "text" : "and leaving hair feeling silky and",
+    "top" : 0.43781593714927047,
+    "width" : 0.23224873015873015
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010909385521885522,
-    "left" : 0.73916550595238095,
+    "height" : 0.011468841189674523,
+    "left" : 0.72860989087301575,
     "page" : 27,
     "text" : "manageable after your regular",
-    "top" : 0.44679573512906845,
-    "width" : 0.20583449404761897
+    "top" : 0.45145192667414891,
+    "width" : 0.21639010912698414
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010515628507295174,
-    "left" : 0.82500767857142854,
+    "height" : 0.011054891507669286,
+    "left" : 0.8188542261904761,
     "page" : 27,
     "text" : "shampoo routine.",
-    "top" : 0.45976655443322112,
-    "width" : 0.11999232142857141
+    "top" : 0.46508791619902734,
+    "width" : 0.12614577380952385
   },
   {
     "align" : "right",
@@ -576,7 +596,7 @@
     "left" : 0.80562589947089935,
     "page" : 27,
     "text" : "LKR 490",
-    "top" : 0.48999999999999999,
+    "top" : 0.49395986719042279,
     "width" : 0.13937410052910051
   },
   {
@@ -586,7 +606,7 @@
     "left" : 0.88966428571428569,
     "page" : 27,
     "text" : "80 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.52695986719042276,
     "width" : 0.05533571428571428
   },
   {

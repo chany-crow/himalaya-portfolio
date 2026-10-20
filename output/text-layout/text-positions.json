@@ -72,82 +72,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.71123180555555543,
+    "height" : 0.012007510288065843,
+    "left" : 0.70009998677248664,
     "page" : 1,
     "text" : "A lightweight serum cream with",
     "top" : 0.35599999999999998,
-    "width" : 0.23376819444444452
+    "width" : 0.24490001322751317
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010389127384960719,
-    "left" : 0.74382847222222215,
+    "height" : 0.010883847736625513,
+    "left" : 0.73424887566137564,
     "page" : 1,
     "text" : "Vitamin C, Niacinamide and",
-    "top" : 0.3699685746352413,
-    "width" : 0.20117152777777772
+    "top" : 0.37063374485596706,
+    "width" : 0.21075112433862431
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.68861874999999984,
+    "height" : 0.012164300411522633,
+    "left" : 0.70956115079365079,
     "page" : 1,
-    "text" : "Hyaluronic Acid helps brighten dull",
-    "top" : 0.38393714927048256,
-    "width" : 0.25638125000000006
+    "text" : "Hyaluronic Acid helps brighten",
+    "top" : 0.38526748971193414,
+    "width" : 0.23543884920634905
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011324523007856342,
-    "left" : 0.71932805555555546,
+    "height" : 0.011863786008230452,
+    "left" : 0.69699554232804228,
     "page" : 1,
-    "text" : "skin and replenish moisture. Its",
-    "top" : 0.39790572390572387,
-    "width" : 0.22567194444444441
+    "text" : "dull skin and replenish moisture.",
+    "top" : 0.39990123456790122,
+    "width" : 0.24800445767195761
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.69018861111111107,
+    "height" : 0.012308024691358022,
+    "left" : 0.72944437830687836,
     "page" : 1,
-    "text" : "quickly absorbed formula supports",
-    "top" : 0.41187429854096524,
-    "width" : 0.25481138888888888
+    "text" : "Its quickly absorbed formula",
+    "top" : 0.41453497942386824,
+    "width" : 0.21555562169312162
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.70145986111111103,
+    "height" : 0.012007510288065843,
+    "left" : 0.71752552910052902,
     "page" : 1,
-    "text" : "a more even looking complexion,",
-    "top" : 0.4258428731762065,
-    "width" : 0.24354013888888887
+    "text" : "supports a more even looking",
+    "top" : 0.42916872427983543,
+    "width" : 0.22747447089947087
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.73135777777777777,
+    "height" : 0.012151234567901233,
+    "left" : 0.70008150793650792,
     "page" : 1,
-    "text" : "leaving skin feeling hydrated,",
-    "top" : 0.43981144781144782,
-    "width" : 0.21364222222222218
+    "text" : "complexion, leaving skin feeling",
+    "top" : 0.44380246913580246,
+    "width" : 0.244918492063492
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.68685486111111105,
+    "height" : 0.012164300411522633,
+    "left" : 0.7768610714285713,
     "page" : 1,
-    "text" : "smooth and comfortably refreshed.",
-    "top" : 0.45378002244668908,
-    "width" : 0.25814513888888885
+    "text" : "hydrated, smooth and",
+    "top" : 0.45843621399176954,
+    "width" : 0.16813892857142859
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012308024691358022,
+    "left" : 0.77135437830687825,
+    "page" : 1,
+    "text" : "comfortably refreshed.",
+    "top" : 0.47306995884773662,
+    "width" : 0.17364562169312162
   },
   {
     "align" : "right",
@@ -156,7 +166,7 @@
     "left" : 0.77417828042328041,
     "page" : 1,
     "text" : "LKR 1,200",
-    "top" : 0.48999999999999999,
+    "top" : 0.50319504302282081,
     "width" : 0.17082171957671954
   },
   {
@@ -166,7 +176,7 @@
     "left" : 0.88979027777777764,
     "page" : 1,
     "text" : "50 ml",
-    "top" : 0.52300000000000002,
+    "top" : 0.53619504302282084,
     "width" : 0.055209722222222209
   },
   {
@@ -262,122 +272,132 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.76666873346560838,
+    "height" : 0.012280408249158247,
+    "left" : 0.75837425595238084,
     "page" : 2,
     "text" : "This lightweight orange",
     "top" : 0.35599999999999998,
-    "width" : 0.17833126653439152
+    "width" : 0.186625744047619
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0093468294051627376,
-    "left" : 0.78629871693121689,
+    "height" : 0.009781565656565655,
+    "left" : 0.77891726190476185,
     "page" : 2,
     "text" : "face serum combines",
-    "top" : 0.37030115974560418,
-    "width" : 0.15870128306878309
+    "top" : 0.37096632996633,
+    "width" : 0.16608273809523807
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.010636487560793115,
-    "left" : 0.77118344907407399,
+    "height" : 0.011131207912457912,
+    "left" : 0.7630989583333333,
     "page" : 2,
     "text" : "Vitamin C, Niacinamide",
-    "top" : 0.38460231949120838,
-    "width" : 0.17381655092592588
+    "top" : 0.3859326599326599,
+    "width" : 0.18190104166666657
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.77512028108465603,
+    "height" : 0.012440761784511783,
+    "left" : 0.76721889880952365,
     "page" : 2,
     "text" : "and Hyaluronic Acid to",
-    "top" : 0.39890347923681257,
-    "width" : 0.16987971891534392
+    "top" : 0.40089898989898992,
+    "width" : 0.17778110119047619
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.75339546957671955,
+    "height" : 0.012440761784511783,
+    "left" : 0.81709285714285707,
     "page" : 2,
-    "text" : "hydrate skin and enhance",
-    "top" : 0.41320463898241677,
-    "width" : 0.19160453042328041
+    "text" : "hydrate skin and",
+    "top" : 0.41586531986531983,
+    "width" : 0.12790714285714283
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0092063715862326957,
-    "left" : 0.75606818121693109,
+    "height" : 0.0096345749158249158,
+    "left" : 0.76924107142857134,
     "page" : 2,
-    "text" : "radiance. The antioxidant",
-    "top" : 0.42750579872802091,
-    "width" : 0.18893181878306883
+    "text" : "enhance radiance. The",
+    "top" : 0.43083164983164984,
+    "width" : 0.17575892857142858
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011734612326973436,
-    "left" : 0.81123800595238083,
+    "height" : 0.009781565656565655,
+    "left" : 0.75708913690476187,
     "page" : 2,
-    "text" : "rich formula helps",
-    "top" : 0.44180695847362517,
-    "width" : 0.13376199404761904
+    "text" : "antioxidant rich formula",
+    "top" : 0.4457979797979798,
+    "width" : 0.18791086309523808
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011594154508043396,
-    "left" : 0.76217207671957665,
+    "height" : 0.012133417508417508,
+    "left" : 0.80412827380952379,
     "page" : 2,
-    "text" : "improve the appearance",
-    "top" : 0.45610811821922931,
-    "width" : 0.18282792328042327
+    "text" : "helps improve the",
+    "top" : 0.46076430976430977,
+    "width" : 0.14087172619047617
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0093468294051627376,
-    "left" : 0.7725559226190476,
+    "height" : 0.012280408249158249,
+    "left" : 0.76468645833333326,
     "page" : 2,
-    "text" : "of dullness and uneven",
-    "top" : 0.47040927796483351,
-    "width" : 0.17244407738095233
+    "text" : "appearance of dullness",
+    "top" : 0.47573063973063973,
+    "width" : 0.18031354166666666
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011875070145903477,
-    "left" : 0.76209984126984121,
+    "height" : 0.011131207912457912,
+    "left" : 0.80809702380952375,
     "page" : 2,
-    "text" : "tone, supporting a fresh,",
-    "top" : 0.4847104377104377,
-    "width" : 0.18290015873015866
+    "text" : "and uneven tone,",
+    "top" : 0.49069696969696963,
+    "width" : 0.1369029761904762
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011887839038533483,
-    "left" : 0.83289058201058197,
+    "height" : 0.01242739898989899,
+    "left" : 0.79849642857142844,
+    "page" : 2,
+    "text" : "supporting a fresh,",
+    "top" : 0.5056632996632997,
+    "width" : 0.14650357142857143
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012440761784511783,
+    "left" : 0.82767619047619034,
     "page" : 2,
     "text" : "visibly brighter",
-    "top" : 0.49901159745604184,
-    "width" : 0.11210941798941798
+    "top" : 0.52062962962962966,
+    "width" : 0.11732380952380952
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011594154508043396,
-    "left" : 0.85342350859788352,
+    "height" : 0.012133417508417508,
+    "left" : 0.84916413690476189,
     "page" : 2,
     "text" : "complexion.",
-    "top" : 0.51331275720164615,
-    "width" : 0.091576491402116392
+    "top" : 0.53559595959595963,
+    "width" : 0.095835863095238089
   },
   {
     "align" : "right",
@@ -472,82 +492,92 @@
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.69332833333333332,
+    "height" : 0.012007510288065843,
+    "left" : 0.73824030423280429,
     "page" : 3,
-    "text" : "Vitamin C and Orange help refresh",
+    "text" : "Vitamin C and Orange help",
     "top" : 0.35599999999999998,
-    "width" : 0.25167166666666663
+    "width" : 0.20675969576719572
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.0089922699214365874,
-    "left" : 0.71752888888888888,
+    "height" : 0.0095641975308641946,
+    "left" : 0.72196044973544971,
     "page" : 3,
-    "text" : "dull skin while natural cellulose",
-    "top" : 0.3699685746352413,
-    "width" : 0.22747111111111101
+    "text" : "refresh dull skin while natural",
+    "top" : 0.37063374485596706,
+    "width" : 0.22303955026455022
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.69133513888888887,
+    "height" : 0.012007510288065841,
+    "left" : 0.71883752645502641,
     "page" : 3,
-    "text" : "beads lift impurities. This cleansing",
-    "top" : 0.38393714927048256,
-    "width" : 0.25366486111111108
+    "text" : "cellulose beads lift impurities.",
+    "top" : 0.38526748971193414,
+    "width" : 0.22616247354497346
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011748569023569026,
-    "left" : 0.72980555555555549,
+    "height" : 0.012151234567901233,
+    "left" : 0.75823440476190473,
     "page" : 3,
-    "text" : "face wash supports hydration",
-    "top" : 0.39790572390572387,
-    "width" : 0.21519444444444441
+    "text" : "This cleansing face wash",
+    "top" : 0.39990123456790122,
+    "width" : 0.18676559523809513
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011611377665544332,
-    "left" : 0.69413972222222209,
+    "height" : 0.012164300411522633,
+    "left" : 0.73430431216931202,
     "page" : 3,
-    "text" : "without excessive dryness, leaving",
-    "top" : 0.41187429854096524,
-    "width" : 0.25086027777777781
+    "text" : "supports hydration without",
+    "top" : 0.41453497942386824,
+    "width" : 0.21069568783068782
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.70839194444444442,
+    "height" : 0.012164300411522633,
+    "left" : 0.7127579894179894,
     "page" : 3,
-    "text" : "skin feeling clean and revitalized",
-    "top" : 0.4258428731762065,
-    "width" : 0.2366080555555555
+    "text" : "excessive dryness, leaving skin",
+    "top" : 0.42916872427983543,
+    "width" : 0.23224201058201044
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011461714365881032,
-    "left" : 0.73442694444444434,
+    "height" : 0.012151234567901233,
+    "left" : 0.69294867724867726,
     "page" : 3,
-    "text" : "with a brighter, more radiant",
-    "top" : 0.43981144781144782,
-    "width" : 0.2105730555555555
+    "text" : "feeling clean and revitalized with",
+    "top" : 0.44380246913580246,
+    "width" : 0.25205132275132269
   },
   {
     "align" : "right",
     "font" : "MyriadPro-Regular",
-    "height" : 0.011598905723905725,
-    "left" : 0.75227750000000004,
+    "height" : 0.012007510288065843,
+    "left" : 0.76292802910052915,
+    "page" : 3,
+    "text" : "a brighter, more radiant",
+    "top" : 0.45843621399176954,
+    "width" : 0.1820719708994708
+  },
+  {
+    "align" : "right",
+    "font" : "MyriadPro-Regular",
+    "height" : 0.012151234567901233,
+    "left" : 0.74310023809523806,
     "page" : 3,
     "text" : "appearance after washing.",
-    "top" : 0.45378002244668908,
-    "width" : 0.19272249999999996
+    "top" : 0.47306995884773662,
+    "width" : 0.20189976190476186
   },
   {
     "align" : "right",

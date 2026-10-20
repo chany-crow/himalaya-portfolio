@@ -146,7 +146,7 @@ for group in groups where selected == nil || selected == group {
     let scale=max(W/Double(cg.width),H/Double(cg.height)),iw=Double(cg.width)*scale,ih=Double(cg.height)*scale
     ctx.draw(cg,in:CGRect(x:(W-iw)/2,y:(H-ih)/2,width:iw,height:ih));ctx.restoreGState()
     let headerBox=draw("Premium Botanic Skin Care",x:W*0.945,top:H*0.060,font:heading,size:17,tracking:2.0,color:rightInk,align:"right",maxWidth:W*0.70,page:p.page)
-    let logoWidth=W*0.12,logoHeight=logoWidth*Double(pageLogo.height)/Double(pageLogo.width)
+    let logoWidth=W*0.145,logoHeight=logoWidth*Double(pageLogo.height)/Double(pageLogo.width)
     ctx.draw(pageLogo,in:CGRect(x:W*0.060,y:H-headerBox.midY-logoHeight/2,width:logoWidth,height:logoHeight))
     ctx.saveGState()
     if !p.mask.isEmpty {
@@ -170,6 +170,9 @@ for group in groups where selected == nil || selected == group {
     var lines=wrap(p.description,size:descSize,width:detailsWidth)
     while Double(lines.count)*descSize*1.12 > descriptionHeight {descSize-=0.25;lines=wrap(p.description,size:descSize,width:detailsWidth)}
     precondition(descSize >= 9)
+    // Increase every fitted description by half a point, retaining its safe column.
+    descSize += 0.5
+    lines=wrap(p.description,size:descSize,width:detailsWidth)
     let lastLineHeight=CTLineGetBoundsWithOptions(line(lines.last!,body,descSize,0,descriptionInk),.useGlyphPathBounds).height
     let descriptionBottom=H*0.356+Double(lines.count-1)*descSize*1.12+lastLineHeight
     let estimatedPriceTop=max(H*0.490,descriptionBottom+15)
