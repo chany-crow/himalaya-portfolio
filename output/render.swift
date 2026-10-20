@@ -13,6 +13,19 @@ for name in ["GothamCondensed-Medium", "MyriadPro-Regular"] {
 }
 let heading = "GothamCondensed-Medium", body = "MyriadPro-Regular"
 let W = 210.0 / 25.4 * 72, H = 297.0 / 25.4 * 72
+let logoImage = NSImage(contentsOf:root.deletingLastPathComponent().appendingPathComponent("assets/branding/himalaya-logo.png"))!
+var logoRect = CGRect(origin:.zero,size:logoImage.size)
+let logoSource = logoImage.cgImage(forProposedRect:&logoRect,context:nil,hints:nil)!
+let logoPixels = NSBitmapImageRep(cgImage:logoSource)
+var lx=logoSource.width,ly=logoSource.height,rx=0,by=0
+for y in 0..<logoSource.height {for x in 0..<logoSource.width {
+    if (logoPixels.colorAt(x:x,y:y)?.alphaComponent ?? 0) > 0.05 {
+        lx=min(lx,x);ly=min(ly,y);rx=max(rx,x);by=max(by,y)
+    }
+}}
+// Ignore transparent outer padding when positioning the supplied logo.
+let pageLogo=logoSource.cropping(to:CGRect(x:lx,y:ly,width:rx-lx+1,height:by-ly+1))!
+
 struct Price: Decodable { let price: String; let size: String }
 struct Product: Decodable {
     let scene: String; let names: [String]; let headline: String; let header: String
@@ -132,7 +145,9 @@ for group in groups where selected == nil || selected == group {
     ctx.saveGState();ctx.clip(to:media)
     let scale=max(W/Double(cg.width),H/Double(cg.height)),iw=Double(cg.width)*scale,ih=Double(cg.height)*scale
     ctx.draw(cg,in:CGRect(x:(W-iw)/2,y:(H-ih)/2,width:iw,height:ih));ctx.restoreGState()
-    draw(p.header,x:W*0.5,top:H*0.060,font:heading,size:17,tracking:3.2,color:rightInk,align:"center",fitWidth:W*0.66,page:p.page)
+    let headerBox=draw(p.header,x:W*0.945,top:H*0.060,font:heading,size:17,tracking:3.2,color:rightInk,align:"right",fitWidth:W*0.66,page:p.page)
+    let logoWidth=W*0.12,logoHeight=logoWidth*Double(pageLogo.height)/Double(pageLogo.width)
+    ctx.draw(pageLogo,in:CGRect(x:W*0.060,y:H-headerBox.midY-logoHeight/2,width:logoWidth,height:logoHeight))
     ctx.saveGState()
     if !p.mask.isEmpty {
         let mask=CGMutablePath();mask.addRect(media)
