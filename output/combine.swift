@@ -12,6 +12,12 @@ for name in names {
         combined.insert(page, at: combined.pageCount)
     }
 }
-precondition(combined.pageCount == 27)
+let introduction = PDFDocument(url: root.appendingPathComponent("Himalaya-Introduction-A4.pdf"))!
+precondition(introduction.pageCount == 3)
+for i in 0..<3 {
+    let page=introduction.page(at:i)!.copy() as! PDFPage
+    combined.insert(page,at:i)
+}
+precondition(combined.pageCount == 30)
 precondition(combined.write(to: root.appendingPathComponent("Himalaya-Product-Portfolio-A4.pdf")))
 print("Combined \(combined.pageCount) A4 pages.")

@@ -209,7 +209,7 @@ for group in groups where selected == nil || selected == group {
     draw(p.linkLabel,x:W*0.945,top:H-y-qrSize-11,font:body,size:8.5,tracking:0.8,color:readableInk(left:0.82,top:(H-y-qrSize-11)/H,width:0.125,height:0.012),align:"right",page:p.page)
     ctx.setURL(URL(string:p.productURL)! as CFURL,for:CGRect(x:x,y:y,width:qrSize,height:qrSize))
     // Plain page label, aligned with the left text column.
-    draw(String(format:"Page %02d",p.page),x:W*0.060,top:H*0.927,font:body,size:10,color:readableInk(left:0.060,top:0.927,width:0.075,height:0.014),page:p.page)
+    draw(String(format:"Page %02d",p.page+3),x:W*0.060,top:H*0.927,font:body,size:10,color:readableInk(left:0.060,top:0.927,width:0.075,height:0.014),page:p.page)
     ctx.endPDFPage()
  }
  ctx.closePDF()
